@@ -1,0 +1,1613 @@
+,Equipment,Sub equipment (if applicable),Down time issue,Machine/ process stop time,Machine/ process start time,Time taken (Duration),"Type (B/D, PM, SC, Process)",Attended by - department,Attended by - senior PM/ PC/ other,Issue,Temporary action taken
+1,Sleeve,Mould,water leakage from spt side,19:38,0:18,4.67,B/D,Mechanical,Tapash,Huge water leakage from spt taper plate gap in bottom,Spt taper plate bolts hole thread were tapped and tightly fitted with new bolts.
+2,MTC,ccm,m/c under to mech,11:45,12:50,1.08,B/D,Mechanical,,oil leakage from mtc gland,in mtc gland packing was given and mounting bolts were made tight
+3,Mtc,Mtc,gland tightning ,23:00,0:00,1,B/D,Mechanical,Srikanta,mtc gland leakage + m/c automatically getting down,mtc gland made tight
+4,Core loader,Core loader,Core loader centering prob ,0:00,0:15,0.25,B/D,Mechanical,Srikanta,No record,
+5,Mtc,Mtc,Mtc prob ,2:40,6:00,3.33,B/D,Mechanical,Srikanta,casting time variation + m/c automatically getting down, mtc gland made tight + Sleeve changed
+6,DC motor ,DC motor ,DC motor chain pulley not getting down ,3:10,4:00,0.83,B/D,Mech,,,
+7,trough ,trough ,B side trough roller change ,0:45,0:55,0.17,B/D,Mechanical,,No record,
+8,Diabola ,Diabola ,Diabola wheel prob,2:20,3:05,0.75,B/D,Mechanical,,Diabola trolley got derailed due to metal formation,diabola trolley put onto its track after cleaning
+9,Ring ,Ring ,O ring change ,4:00,4:10,0.17,B/D,Mechanical,,No record,
+10,Diabola ,Diabola ,Diabola hydrulic hose pipe leakage ,5:45,6:00,0.25,B/D,Mechanical,,No record,
+11,trough ,trough ,B side trough shifting area hydrulic oil leakage,16:13,17:00,0.78,B/D,Mechanical,,Oil leakage from b side trough tilting cylinder bottom port hose as hose got damage,Hose replaced
+12,flag gate ,flag gate ,flag gate stopper broken ,22:50,23:20,0.5,B/D,Mechanical,,Skt side flaggate buffer stopper broked,Buffer stopper changed
+13,Core loader,Core loader,Core loader centering prob ,3:32,3:40,0.13,B/D,Mechanical,,No record,
+14,Shut down ,Shut down ,Shut down ,6:00,18:00,12,Shut down ,Shut down ,,,
+15,Shut down ,Shut down ,Shut down ,12:00,6:00,18,Shut down ,Shut down ,,,
+16,Shut down ,Shut down ,Shut down ,6:00,21:00,15,Shut down ,Shut down ,,,
+17,trough ,trough ,A side trough centering check,20:44,21:05,0.35,B/D,Mechanical,,Operation,
+18,trough ,trough ,A side trough tilting prob,17:10,21:15,4.08,B/D,Mechanical,,A side tilting cyl was not moving,Cylinder was changed
+19,PTT,PTT,PTT prob,21:10,23:10,2,B/D,Mechanical,Ramesh Kumar,pipe socket moving on ptt was getting hit by gantry lifting arm,gantry lifting arm at bottom was slightly cutted out
+20,trough ,trough ,A side trough supporting roller change ,23:07,23:45,0.63,B/D,Mechanical,Ramesh Kumar,A side trough supporting roller,roller changed
+21,trough ,trough ,A side trough centering check,16:35,17:07,0.53,B/D,Mechanical,,Operation,
+22,Sleeve,Mould,water leakage from spt side,20:57,21:42,0.75,B/D,Mechanical,,Spt seal got damage as metal got inside resulting in huge water leakage,Spt seal changed
+23,Diabola ,Diabola ,Diabola roller change ,2:50,3:17,0.3,B/D,Mechanical,Ramesh Kumar,Diabola trolley flat wheel pin got bend,Diabola wheel was changed
+24,Sleeve,Mould,water leakage from spt side,15:30,15:35,0.08,B/D,Mechanical,,No record,
+25,Core loader,Core loader,Core loader prob ,13:50,14:05,0.25,B/D,Mechanical,,Corering with spring housing got out from its housing hub,coreloader changed
+26,Core loader,Core loader,Core loader prob ,15:33,16:03,0.5,B/D,Mechanical,,Skt metal fly,coreloader compression increased from 11mm to 15 mm 
+27,Sleeve,Mould,water leakage from spt side,17:00,18:12,0.3,B/D,Mechanical,,Water leakage from taper 'o' ring rubber cord,Taper 'o' ring cord of 10mm replaced with that of 12mm
+28,MTC ,MTC ,M/c not down & MTC open out ,6:35,12:00,5.42,B/D,Mechanical,,mtc rod got detached from eye and boggie strucked in up position,mtc rod attached with eye and rod welded with eye
+29,Sleeve,Mould,water leakage from spt side,14:45,15:07,0.37,B/D,Mechanical,,Water leakage from spt seal due to mould vibration,Sleeve was changed
+30,Sleeve,Mould,Mould change due to mould vibration ,15:25,16:13,0.8,B/D,Mechanical,,Mould vibration,Sleeve was changed
+31,trough ,trough ,trough shifting cylinder open out ,12:00,15:05,3.08,B/D,Mechanical,,"When trough shifting top cylinder was operating,its bottom cylinder rod was automatically opening out.",trough shifting bottom cylinder eye bracket in closed position fixed by providing I beam as stopper
+32,PTT,PTT,PTT de-railed frquently ,18:15,18:30,0.25,B/D,Mechanical,,PTT got derailed ,"PTT was put into its track,track was cleaned from sand and flagagte up speed decreased."
+33,PTT,PTT,PTT de-railed frquently ,19:20,19:35,0.25,B/D,Mechanical,,PTT got derailed ,PTT was put into its track and track was cleaned from sand 
+34,PTT,PTT,PTT de-railed frquently ,3:22,3:34,0.2,B/D,Mechanical,,PTT got derailed ,PTT was put into its track and track was cleaned from sand 
+35,flag gate ,flag gate ,flag gate prob ,1:28,1:37,0.15,B/D,Mechanical,,Skt side flaggate buffer stopper broked,Flaggate buffer stopper changed
+36,Sleeve,Mould,Mould change due to mould vibration ,16:55,18:10,1.25,B/D,Mechanical,,Mould vibration in sl no 1,Sleeve was changed
+37,flag gate ,flag gate ,flag gate stopper broken ,14:40,15:10,0.5,B/D,Mechanical,,Skt side flaggate buffer stopper broked as pipe slipped from extractor and fell over buffer stopper,flaggate buffer stopper changed
+38,extractor,extractor,extractor  prob ,16:30,17:15,0.75,B/D,Mechanical,,Extractor jaw open close cylinder was not fully closing.,Extractor jaw open close cyl limit adjusted
+39,extractor,extractor,extractor  prob ,2:05,4:15,2.17,B/D,Mechanical,,Extractor jaw open close cylinder was not fully closing.,Extractor jaw open close cylinder changed
+40,Core loader,Core loader,Core loader extractor change ,1:50,2:08,0.3,B/D,Mechanical,,Coreloader shaft bend,3
+41,Sleeve,Mould,water leakage from spt side,16:40,16:55,0.25,B/D,Mechanical,,Water leakage from spt seal,Water leakage arrested by scaling out metal from spt seal
+42,Sleeve,Mould,water leakage from spt side,18:41,19:23,0.7,B/D,Mechanical,,Water leakage from spt seal,Water leakage arrested by scaling out metal from spt seal
+43,Diabola ,Diabola ,Diabola nut & bolt loose,11:20,11:42,0.37,B/D,Mechanical,,Diabola trolley b side flat wheel got out,Diabola trolley b side flat wheel fitted
+44,Sleeve,Mould,water leakage from spt side,21:20,21:37,0.28,B/D,Mechanical,,Water leakage from spt seal,Spt seal changed
+45,Sleeve,Mould,Mould pressing roller prob ,4:30,4:50,0.33,B/D,Mechanical,,No record,
+46,Sleeve,Mould,water leakage from spt side,18:00,18:16,0.27,B/D,Mechanical,,Water leakage from spt seal,Water leakage arrested by scaling out metal
+47,Mould,Mould,mould rotation jam+ water leakage from spt side,23:30,1:00,1.5,B/D,Mechanical,,mould rotation jam+ water leakage from spt seal,Mould supporting rollers were checked and spt seal was changed
+48,Mould,Mould,water leakage from spt side,2:00,2:15,0.25,B/D,Mechanical,,No record,
+49,Mould,Mould,mould rotation jam+ water leakage from spt side,2:30,6:00,3.5,B/D,Mechanical,,mould rotation jam+ water leakage from spt seal,Spt side all mould supporting rollers were changed
+50,PTT,PTT,PTT rope change ,23:30,0:00,0.5,B/D,Mechanical,,No record,
+51,ULI,ULI,dry uli tube change ,13:50,14:10,0.33,B/D,Mechanical,,operation,
+52,Sleeve,Mould,water leakage from spt side,23:28,23:46,0.3,B/D,Mechanical,,No record,
+53,Sleeve,Mould,Mould change due to mould vibration ,23:55,0:40,0.75,B/D,Mechanical,,mould vibration,Sleeve was changed
+54,Sleeve,Mould,Mould sleeve setting prob ,0:40,1:30,0.83,B/D,Mechanical,,"when sl was removed,one jack nut was not removed fully and sl which was fitting got strucked",Jack nut cuuted out and sl was set
+55,flag gate ,flag gate ,flag gate not up,7:04,7:20,0.27,B/D,Mechanical,,No record,
+56,extractor,extractor,extractor change ,15:00,16:30,1.5,B/D,Mechanical,,Due to misoperation extractor one jaw holder got bend,Extractor changed
+57,Mould,Mould,water leakage from spt side,6:00,6:38,0.63,B/D,Mechanical,,Water leakage from spt seal,At spt side extra dummy seal provided 
+58,Mould,Mould,Mould vibration & water leak,7:26,8:30,1.07,B/D,Mechanical,,Mould vibration ,
+59,Mould,Mould,water leakage from spt side,9:50,16:50,7,B/D,Mechanical,,Mould vibration + water leakage from spt seal,"Headbrg was changed,ac motor replaced,middle top roller was changed and mould was changed."
+60,trough ,trough ,trough vibration ,10:28,11:24,0.93,B/D,Mechanical,,operation,
+61,extractor,extractor,extractor stopper spring open out,1:07,1:35,0.47,B/D,Mechanical,,Extractor pipe stopper spring broked,Extractor pipe stopper spring changed
+62,extractor,extractor,extractor alingment,18:19,19:30,1.18,B/D,Mechanical,,pipe skt groove damage,extractor centered as its center was out
+63,Sleeve,Mould,Mould sleeve setting prob ,14:00,14:55,0.92,B/D,Mechanical,,Skt sleeve pressing unit head open out,skt sleeve pressing unit head fitted
+64,core loader,core loader,core loader spring broken ,1:40,2:08,0.47,B/D,Mechanical,,Coreloader spring broked,coreloader changed
+65,Mould,Mould,Mould clamping plate water leakage ,3:35,4:43,1.13,B/D,Mechanical,,water leakage from skt clamping plate,"Mould was removed, gasket was replaced with rubber chord and mould refitted."
+66,Sleeve,Mould,water leakage from spt side,12:22,13:00,0.63,B/D,Mechanical,,Water leakage from taper plate o ring,Skt side h/b mounting bolts made tight and spt side steady made up
+67,Sleeve,Mould,water leakage from spt side,14:15,14:23,0.13,B/D,Mechanical,,No record,
+68,Sleeve,Mould,water leakage from spt side,19:05,19:15,0.17,B/D,Mechanical,,No record,
+69,trough ,trough ,trough allignment prob,22:00,23:00,1,B/D,Mechanical,,operation,
+70,trough ,trough ,B side trough pressing roller prob,15:46,15:56,0.17,B/D,Mechanical,,b side trough pressing roller guide shaft clamp plate bolts were missing,Clamp plate bolts were fitted
+71,extractor,extractor,extractor centering check,16:15,17:11,0.3,B/D,Mechanical,,Extractor center out,extractor centered
+72,trough ,trough ,B side trough pressing roller prob,20:56,21:22,0.43,B/D,Mechanical,,b side trough pressing roller rotation jam,b side trough pressing roller changed
+73,trough ,trough ,B side trough pressing roller prob,23:00,23:15,0.25,B/D,Mechanical,,b side trough pressing roller rotation jam,b side trough pressing roller changed
+74,extractor,extractor,extractor centering ,20:51,21:17,0.43,B/D,Mechanical,,Extractor center out,extractor centered
+75,trough ,trough ,B side trough pressing roller prob,4:20,4:50,0.5,B/D,Mechanical,,B side trough pressing roller was not rotating,Roller replaced
+76,Core Loader,Core Loader,Core Loader compression adjustment,14:36,14:42,0.1,B/D,Mechanical,,No record,
+77,Fix ladle,Fix ladle,Fix ladle cylinder bracket work done by mechanical,3:00,4:00,1,B/D,Mechanical,,Fixed ladle cylinder go out from trunion bracket + oil leakage from port hose,"Cylinder refitted into trunion bracket,bracket bolts were replaced and hose replaced"
+78,Core Loader,Core ring,Core ring change due to ring broken,2:50,3:08,0.3,B/D,Mechanical,,Corering sticked with produced pipe and corering with housing got out from its brg housing,coreloader replaced.
+79,extractor,extractor,extractor stopper prob ,22:00,22:32,0.53,B/D,Mechanical,Alekha,due to misoperation extractor pipe stopper from base got twisted,temporarily extractor stopper at front made straight
+80,extractor,extractor,extractor centering ,3:20,4:15,0.92,B/D,Mechanical,Alekha,Extractor center got out,Extractor centered
+81,extractor,extractor,extractor centering prob,12:15,12:57,0.7,B/D,Mechanical,,Extractor center out,extractor centered
+82,extractor,extractor,extractor centering ,7:20,7:57,0.62,B/D,Mechanical,,No record,
+83,extractor,extractor,extractor centering ,21:50,22:39,0.82,B/D,Mechanical,,Extractor center out,extractor centered by shifting boggie
+84,extractor,extractor,extractor centering ,23:35,0:50,1.25,B/D,Mechanical,,No record,
+85,extractor,extractor,extractor centering ,2:15,3:05,0.83,B/D,Mechanical,,No record,
+86,extractor,extractor,extractor centering ,4:35,6:00,1.42,B/D,Mechanical,,No record,
+87,extractor,extractor,extractor change ,12:23,13:19,0.93,B/D,Mechanical,,Extractor jaws were not closing due to sand jam in rotary pushing rod,     
+88,extractor,extractor,extractor centering ,6:00,7:14,1.23,B/D,Mechanical,,Extractor center out + guide rod checknut loose,"extractor changed,extractor centered and guide rod checknut made tight."
+89,extractor,extractor,extractor centering ,17:00,18:12,1.2,B/D,Mechanical,Alekha,Extractor center out,"Extractor centered + inside skt side collar flat boggie wheel,packing ring plate provided."
+90,Core loader,Core loader,Core loader prob ,21:05,21:18,0.22,B/D,Mechanical,,Coreburst + sandstick on pipe face surface,Coreloader centered as center was out
+91,Core loader,CCM,m/c stop due to c/b prob ,21:35,23:50,2.25,B/D,Mechanical,,Coreburst + sandstick on pipe face surface,Coreloader centered as center was out
+92,extractor,extractor,extractor centering out ,12:12,13:04,0.87,B/D,Mechanical,,No record,
+93,extractor,extractor,extractor jaw open open close prob ,4:55,6:00,1.08,B/D,Mechanical,,Extractor jaws were not closing as rotary pusher shaft opened out,Extractor changed
+94,extractor,extractor,extractor change ,11:55,12:55,1,B/D,Mechanical,,Pipe slippage from extractor,Extractor changed
+95,MTC ,MTC ,MTC gland tight ,17:20,18:30,1.17,B/D,Mechanical,,huge oil leakage from mtc gland,mtc gland mounting bolts made tight
+96,extractor,extractor,extractor jaw open open close prob ,6:00,7:30,1.5,B/D,Mechanical,,Extractor jaws were not closing as rotary pusher shaft opened out,Extractor with rotary assy unit changed
+97,trough ,trough ,hydrulic oil leakage from trough shifting hose ,23:29,0:29,1,B/D,Mechanical,Srikanta,hydrulic oil leakage from a side trough shifting b port hose ,Hose changed
+98,extractor,extractor,extractor toper prob ,3:45,4:15,0.5,B/D,Mechanical,Srikanta,Extractor pipe stopper mounting bolts broked,Bolts fitted.
+99,trough ,trough ,A side trough pressing unit change,14:00,15:00,1,B/D,Mechanical,,Due to misoperation trough pressing roller guide shaft got bend,Trough pressing roller with guide shaft changed
+100,PTT,PTT,PTT rope change ,15:30,16:14,0.73,B/D,Mechanical,,PTT rope got cut,PTT rope changed
+101,Mould,Mould,mould pressing roller change ,21:40,3:45,6.08,B/D,Mechanical,Ramesh Kumar,Pipe drawn,"Sleeve preesing units were checked,sector ladle cyl internel leakage checked,diabola cyl bracket bolts made tight,a side flat collar boggie wheels pressing cover made tight."
+102,extractor,extractor,extractor jaw clossing prob ,21:14,0:17,3.05,B/D,Mechanical,Ramesh Kumar,Extractor jaws were not closing fully,Extractor with rotary assy unit changed
+103,extractor,extractor,extractor jaw clossing prob ,2:13,2:19,0.1,B/D,Mechanical,,No record,
+104,Core loader,Core loader,Core loader centering ,4:35,5:21,0.77,B/D,Mechanical,,,
+105,Mould,Mould,water leakage from spt side,20:10,20:18,0.13,B/D,Mechanical,,,
+106,Core loader,Core loader,Core loader unit change,13:00,16:50,3.83,B/D,Mechanical,,,
+107,extractor,extractor,extractor jaw clossing prob ,6:40,6:56,0.27,B/D,Mechanical,,,
+108,extractor,extractor,extractor jaw clossing prob ,10:33,10:38,0.08,B/D,Mechanical,,,
+109,extractor,extractor,extractor jaw clossing prob ,13:30,13:40,0.17,B/D,Mechanical,,,
+110,extractor,extractor,extractor jaw clossing prob ,16:10,16:19,0.15,B/D,Mechanical,,,
+111,PTT,PTT,PTT not moving ,21:47,22:25,0.63,B/D,Mechanical,,,
+112,Trough ,Trough ,A side trough supporting roller change ,13:00,13:20,0.33,B/D,Mechanical,,Trough supporting roller was not rotating,Trough supporting roller changed
+113,Mould,Mould,water leakage from spt side ,15:05,15:53,0.8,B/D,Mechanical,Tapash,water leakage from spt mould seal after sleeve set,Spt mould seal changed
+114,extractor,extractor,extractor unit change ,3:55,4:40,0.75,B/D,Mechanical,Alekha,pipe slippage from extractor due to hard extraction,Extractor changed and centered
+115,extractor,extractor,extractor jaw clossing prob ,20:09,20:29,0.33,B/D,Mechanical,Tapash,No record,
+116,MTC,MTC,MTC gland cleaning + MTC gland tight,15:25,16:00,0.58,B/D,Mechanical,Tapash,mtc clamp bolts got loose,mtc clamp bolts made tight
+117,Trough ,Trough ,A side trough supporting roller stand broken,14:18,14:44,0.43,B/D,Mechanical,Tapash,A side trough supporting roller bracket bottom frame broked,A side trough supporting roller bottom frame welded
+118,Trough ,Trough ,A side trough supporting roller change ,16:13,16:27,0.23,B/D,Mechanical,Tapash, A side trough supporting roller was not rotating,A side trough supporting roller changed
+119,CCM,CCM,bogie wheel change ,2:00,5:20,3.33,B/D,Mechanical,,Pipe drawn,a side both skt and spt flat wheel with collar replaced
+120,Mould,Mould,water leakage from spt side ,23:45,0:50,1.08,B/D,Mechanical,,Water leakage from spt mould seal,Spt mould seal changed
+121,Mould,Mould,water leakage from spt side ,9:11,14:50,5.65,B/D,Mechanical,,water leakage from h/b boggie mounting gap,h/b 12 mm o ring fitted
+122,Core loader ,Core loader ,Core loader spring broken ,12:26,12:32,0.1,B/D,Mechanical,,coreloader spring broked,coreloader changed
+123,Mould,Mould,water leakage from spt side ,7:05,7:30,0.42,B/D,Mechanical,,no record,
+124,extractor,extractor,extractor centering out ,11:10,12:08,0.97,B/D,Mechanical,,no record,
+125,Mould,Mould,water leakage from spt side ,14:10,14:56,0.77,B/D,Mechanical,,Water leakage from h/b boggie mounting gap,h/b bolts were given tight with proper position
+126,CCM,CCM,under mechanical (log sheet+ log book),1:45,2:45,1,B/D,Mechanical,,"to fit sl properly into boggie,at h/d mounting area both a and b side guide plates fixed.",
+127,Diabola,Diabola,Diabola shifting prob ,16:30,1:50,3,B/D,Mechanical,,Runner broked two times as diabola trolley was not in sync with trough shifting trolley,"Runners changed,diabola cyl flow adjusted."
+128,Trough ,Trough ,A side trough supporting roller change ,8:55,9:02,0.12,B/D,Mechanical,,A side trough supporting roller was not rotating,A side trough supporting roller changed
+129,Trough ,Trough ,b side trough centering check,19:32,19:50,0.3,B/D,Mechanical,,operation,
+130,bogie,bogie,"rail grinding,bogie wheel change ",1:55,3:05,1.17,B/D,Mechanical,,Pipe drawn,a side boggie rail levelled by welding and grinding
+131,Trough ,Trough ,b side trough vibration ,3:20,5:45,2.42,B/D,Mechanical,,operation,
+132,Mould,Mould,Mould change (alingment check due to thickness vibration),11:16,17:02,5.77,B/D,Mechanical,,spt side mould vibration,spt bottom rollers bracket play arrested and mould set with proper alignment
+133,CCM,CCM,generation of drawn pipe ,11:55,13:17,1.37,B/D,Mechanical,,pipe drawn,"at middle a side rail position,1.5mm packing provided at bottom of the rail"
+134,Mould,Mould,water leakage from spt side ,16:35,18:30,1.92,B/D,Mechanical,,no record,
+135,Mould,Mould,Mould change,4:35,6:00,1.42,B/D,Operation,,,
+136,uli tube,uli tube,dry uli dropping prob ,0:57,2:00,1.05,B/D,Mechanical,,Dry powder was not falling onto funnel as pneu vibrator was not working,Vibrator pneu pu hose changed
+137,uli tube,uli tube,dry uli dropping prob ,2:53,3:42,0.82,B/D,Mechanical,,Dry powder was not falling onto funnel,pipelines were cleaned as powder got jam
+138,Core loader,Core loader,core loader arm welding (c/b prob),11:55,14:08,2.22,B/D,Mechanical,,coreburst as coreloader center got out due to coreloader arm breakage ,coreloader arm broken part welded and coreloader centered.
+139,extractor,extractor,extractor jaw clossing prob ,6:50,7:15,0.42,B/D,Mechanical,,extractor jaws were not closing as its dc valve spool got jam,dc valve spool jam freed.
+140,Mould,Mould,water leakage from spt side ,6:00,7:30,1.5,B/D,Mechanical,,water leakage from spt taper o ring after sleeve set,o ring changed
+141,extractor,extractor,Extractor centering  prob ,17:08,17:50,0.7,B/D,Mechanical,,pipe slippage from extractor due to hard extraction,extractor changed + operation
+142,scrap trolly ,scrap trolly ,scrap trolly rope change,0:00,0:37,0.62,B/D,Mechanical,,STT rope got damage,STT rope changed
+143,fallchute ,fallchute ,B side fallchute hose supporting bolt welding ,9:25,9:30,0.08,B/D,Mechanical,,no record,
+144,extractor,extractor,extractor jaw clossing prob ,8:57,9:37,0.67,B/D,Mechanical,,Extractor jaws were not closing,"after operating dc valve manualy several times,suddenly ext started operating."
+145,Core loader,Core loader,Core loader centering check ,19:08,19:16,0.13,B/D,Mechanical,,coreburst,coreloader centered as center got out
+146,uli tube,uli tube,dry uli tube change,19:50,20:33,0.72,B/D,Mechanical,,3,
+147,extractor,extractor,Extractor centering  prob ,8:02,9:22,1.33,B/D,Mechanical,,no record,
+148,CCM,CCM,hydrulic oil hose leakage ,12:31,12:43,0.2,B/D,Mechanical,,skt side flaggate cyl hose got damage,hose changed
+149,Mould,Mould,water leakage from spt side ,8:37,11:00,2.38,B/D,Mechanical,,water leakage from h/b v seal,sleeve changed
+150,CCM,CCM,m/c under mechanical due to drawn generation ,7:00,14:20,7.33,B/D,Mechanical,tapash,pipe drawn in middle portion due to boggie/sleeve vibration,"Boggie wheels checked,pressing unit checked,rail levelled by welding and grinding and sleeve changed."
+151,Core loader,Core loader,Core loader centering out ,23:35,0:18,0.72,B/D,Mechanical,,Coreloader center out,coreloader changed and centered
+152,CCM,CCM,water out let hose change ,12:13,12:57,0.73,B/D,Mechanical,,outlet cooling hose got damage,cooling hose changed during mouldchange
+153,Trough ,Trough ,trough shifting  prob,9:25,12:04,2.65,B/D,Mechanical,,no record,
+154,Mould,Mould,mould vibration,14:19,14:33,0.23,B/D,Mechanical,,spt side 1.5mm thickness variation,Mould alignment checked
+155,Mould,Mould,mould alignment due to thickness variation ,16:45,17:25,0.67,B/D,Mechanical,,spt side 1.5mm thickness variation,Mould changed
+156,extractor,extractor,Extractor centering  prob ,9:46,10:00,0.23,B/D,Mechanical,,pipe slippage from extractor,extractor changed
+157,extractor,extractor,extractor change ,10:07,10:50,0.72,B/D,Mechanical,,pipe slippage from extractor,extractor changed
+158,PTT,PTT,PTT rope change ,2:25,2:55,0.5,B/D,Mechanical,,PTT rope got damage,PTT rope changed
+159,CCM,CCM,m/c under mechanical due to core brust prob ,8:20,10:45,2.42,B/D,Mechanical,,No record,
+160,Core loader,Core loader,Core loader prob ,23:35,23:51,0.27,B/D,Mechanical,Srikanta,skt metal fly,compression increased to 10mm from 4mm
+161,CCM,CCM,head bearing water leakage ,0:38,1:00,0.37,B/D,Mechanical,,water leakage from mould skt clamping plate,Mould skt clamping plate bolts made tight
+162,Trough ,Trough ,A side trough centering ,1:00,1:15,0.25,B/D,Mechanical,,no record,
+163,Mould,Mould,water leakage from spt side ,18:20,19:45,1.42,B/D,Mechanical,Balaram,Water leakage from skt h/b boggie mounting gap,Sleeve centered and h/b properly mounted 
+164,Mould,Mould,water leakage from spt side ,8:35,9:08,0.55,B/D,Mechanical,,water leakage from spt mould seal,Spt mould seal changed
+165,extractor,extractor,extractor centering check ,2:32,3:05,0.55,B/D,Mechanical,Ramesh kumar,no record,
+166,Core loader,Core loader,Core loader prob ,13:30,13:45,0.25,B/D,Mechanical,,no record,
+167,Trough ,Trough ,B side trough pressing roller change ,23:45,23:55,0.17,B/D,Mechanical,Ramesh kumar,B side trough pressing roller rotation jam,B side trough pressing roller changed
+168,Trough ,Trough ,trough centering ,6:35,7:47,1.2,B/D,Mechanical,,operation,
+169,CCM,CCM,rail line grindig ,23:10,0:00,0.83,B/D,Mechanical,Ramesh kumar,Drawn pipe ,b side at rail joint position levelled by welding and grinding
+170,flag gate,flag gate,flag gate lifting prob,2:30,2:50,0.33,B/D,Mechanical,Ramesh kumar,Flaggate was not moving up and down,cyl port hose was removed and than refitted.
+171,Trough ,Trough ,"B side trough stoper broken,stoper welding ",2:25,2:35,0.17,B/D,Mechanical,Ramesh kumar,No record,
+172,Core loader,Core loader,Core loader centering check ,14:25,15:13,0.8,B/D,Mechanical,,coreburst,coreloader changed and compression increased
+173,No metal,No metal,No metal due to crane b/d,13:52,0:47,10.92,B/D,Mechanical,,30t crane hoist diversion pulley brg broked and pulley got damage,Hoist diversion pulley with brg changed
+174,No metal,No metal,No metal due to crane b/d,14:06,0:10,10.07,B/D,Mechanical,,30t crane hoist diversion pulley brg broked and pulley got damage,Hoist diversion pulley with brg changed
+175,No metal,No metal,No metal due to crane b/d,20:54,0:10,3.27,B/D,Mechanical,,30t crane hoist diversion pulley brg broked and pulley got damage,Hoist diversion pulley with brg changed
+176,No metal,No metal,No metal due to crane b/d,14:00,0:09,10.15,B/D,Mechanical,,30t crane hoist diversion pulley brg broked and pulley got damage,Hoist diversion pulley with brg changed
+177,No metal,No metal,No metal due to crane b/d,13:56,0:31,10.58,B/D,Mechanical,,30t crane hoist diversion pulley brg broked and pulley got damage,Hoist diversion pulley with brg changed
+178,Trough ,Trough ,trough centering check & F part cleaning ,6:30,7:08,0.63,B/D,Mechanical,,operation,
+179,Core loader,Core loader,Core loader centering out ,12:41,12:50,0.15,B/D,Mechanical,,Coreloader center out,coreloader centered
+180,Mould,Mould,mould vibration,5:35,6:00,0.42,B/D,Mechanical,,no record,
+181,diabola ,diabola ,diabola trolley bend due bogie cross the down limit,8:25,15:02,6.62,B/D,Mechanical,,"diadola trolley all wheels,pin,frame bend,cylinder fittings broked and trough pressing bracket bend due to misoperation","diabola frme bend made straight,wheels changed,cyl fittings changed and trough pressing changed"
+182,sector ladle ,sector ladle ,sector ladle lifing not work,15:10,19:05,3.92,B/D,Mechanical,,Sector ladle up and down position was not in proper position,Sector ladle cam roller arm cutted and fitted in proper position.
+183,Mould,Mould,water leakage from spt side ,12:12,12:44,0.53,B/D,Mechanical,,water leakage from spt mould seal,Spt mould seal changed
+184,PTT,PTT,PTT rope change ,9:11,10:00,0.82,B/D,Mechanical,,PTT rope got damage,PTT rope changed
+185,extractor,extractor,A side trough tilted in mould poition during extracting ,3:30,4:00,0.5,B/D,Mechanical,,a side trough tilting got jam ,"by manually operating, jam cleaned"
+186,extractor,extractor,extractor centering out ,12:52,13:20,0.47,B/D,Mechanical,,pipe slippage from extractor,extractor centered as center was out
+187,core loader ,core loader ,core loader ring change,19:35,20:10,0.58,B/D,Mechanical,,coreloader shaft got bend,coreloader changed
+188,Core loader,Core loader,Core loader housing change ,11:17,11:40,0.38,B/D,Mechanical,,coreburst,coreloader changed
+189,Mould,Mould,Mould change due to water leakage from skt side ,3:00,4:00,1,B/D,Mechanical,Venugopal,water leakage from dn 80-150 h/b no 9 v seal,sleeve changed
+190,Core loader,Core loader,Core loader prob ,11:48,12:10,0.37,B/D,Mechanical,,coreloader spring broked,coreloader changed
+191,Core loader,Core loader,Core loader shaft change,0:17,0:27,0.17,B/D,Mechanical,Venugopal,skt metal fly,coreloader changed
+192,Trough ,Trough ,trough shifting lock pin open out ,14:33,15:04,0.52,B/D,Mechanical,Tapash,trough shifting frmae bolt nut got out,trough shifting frame bolt nut welded
+193,Trough ,Trough ,B side trough pressing roller change ,12:15,13:34,1.32,B/D,Mechanical,,b side trough pressing guide rod bend,pressing unit changed along with pneu cyl dc valve
+194,PTT,PTT,PTT prob,19:05,19:20,0.25,B/D,Mechanical,Tapash,no record,
+195,Trough ,Trough ,A side trough pressing roller prob ,6:28,6:43,0.25,B/D,Mechanical,,a side trough pressing pneu cyl rod got detached from eye,a side trough pressing pneu cyl rod welded with eye
+196,diabola ,diabola ,trough shifting diabola distrack ,18:14,18:51,0.62,B/D,Mechanical,Tapash,diabola got derailed due to metal formation,diabola put on its track after cleaning off the metal
+197,diabola ,diabola ,trough shifting diabola distrack ,19:48,20:26,0.63,B/D,Mechanical,Tapash,no record,
+198,Trough ,Trough ,trough tilting prob,18:32,19:15,0.72,B/D,Mechanical,Tapash,no record,
+199,Trough ,Trough ,B side trough pressing roller change ,6:40,7:00,0.33,B/D,Mechanical,,b side trough pressing guide rod jam ,b side trough pressing guide rod jam  freed
+200,Trough ,Trough ,B side trough pressing roller prob,19:49,20:00,0.18,B/D,Mechanical,Tapash,no record,
+201,Trough ,Trough ,B side trough pressing roller prob,22:08,22:12,0.07,B/D,Mechanical,Alekha,b side trough pressing unit was not getting down,on dc valve power supply was not coming-elect prob
+202,PTT,PTT,PTT rope change ,17:25,17:50,0.42,B/D,Mechanical,Tapash,PTT rope got damage,PTT rope changed
+203,Trough ,Trough ,B side trough tilting prob ,3:42,5:46,2.07,B/D,Mechanical,Alekha,b side trough tilting got jam,metal cleaned and trough tilting speed increased 
+204,Trough ,Trough ,pipe below A trough tilting cylinder oil leakage ,9:53,9:58,0.08,B/D,Mechanical,,oil leakage from trough tilting two hose connecting o ring,o ring changed
+205,Mould,Mould,O ring changed by special team (Water Jacket),6:15,6:35,0.33,B/D,Mechanical,,no record,
+206,Core loader,Core loader,Core loader housing change,9:40,9:54,0.23,B/D,Mechanical,,,
+207,extractor,extractor,extractor centering out ,9:15,9:40,0.42,B/D,Mechanical,,,
+208,Trough ,Trough ,A side trough supporting roller change ,7:03,7:52,0.82,B/D,Mechanical,,,
+209,Trough ,Trough ,A side trough tilting cylinder change ,14:00,17:00,3,B/D,Mechanical,,,
+210,Core loader,Core loader,Core loader centering done ,3:04,3:18,0.23,B/D,Mechanical,,,
+211,Mould,Mould,roller change ,12:15,12:32,0.28,B/D,Mechanical,,,
+212,Mould,Mould,spt side water leakage ,4:00,4:07,0.12,B/D,Mechanical,,,
+213,seal ,seal ,spt seal change,21:20,22:00,0.67,B/D,Mechanical,,,
+214,Mould,Mould,water leakage from skt side ,4:48,5:00,0.2,B/D,Mechanical,,,
+215,Mould,Mould,water leakage from skt side ,5:00,5:10,0.17,B/D,Mechanical,,,
+216,flag gate,flag gate,spt side flag gate prob,15:57,16:16,0.32,B/D,Mechanical,,,
+217,PTT,PTT,PTT trolley rope prob ,23:10,0:28,1.3,B/D,Mechanical,,,
+218,CCM,CCM,m/c under mechanical,13:00,13:38,0.63,B/D,Mechanical,,,
+219,Mould,Mould,water leakage from skt side ,19:50,20:10,0.33,B/D,Mechanical,,,
+220,MTC,MTC,MTC change ,0:20,0:30,0.17,B/D,Mechanical,,,
+221,Trough ,Trough ,A side trough pressing roller change ,5:15,5:41,0.43,B/D,Mechanical,,,
+222,bogie ,bogie ,bogie wheel change ,12:45,16:04,3.32,B/D,Mechanical,,,
+223,CCM,CCM,"m/c auto conditon down ,b side trough metal stich ",19:36,22:35,2.98,B/D,Mechanical,,,
+224,roller ,roller ,b side roller change ,0:45,1:15,0.5,B/D,Mechanical,,,
+225,Core loader,Core loader,Core loader centering done ,22:50,23:17,0.45,B/D,Mechanical,,,
+226,Trough ,Trough ,b side trough rotation prob ,22:26,22:39,0.22,B/D,Mechanical,,,
+227,Core loader,Core loader,Core loader centering done ,11:04,11:10,0.1,B/D,Mechanical,,,
+228,Core loader,Core loader,Core loader wheel change,21:05,21:15,0.17,B/D,Mechanical,,,
+229,Uli Tube ,Uli Tube ,Dry uli dropping prob ,7:10,7:35,0.42,B/D,Mechanical,,,
+230,Mould,Mould,mould vibration ,4:10,5:25,1.25,B/D,Mechanical,,,
+231,Scrap trolley ,Scrap trolley ,Scrap trolley  prob ,11:35,12:20,0.75,B/D,Mechanical,,,
+232,Mould,Mould,mould sleeve change ,0:44,2:00,1.27,B/D,Mechanical,,,
+233,flaggate,flaggate,flaggate hydrulic oil leakage ,17:16,17:25,0.15,B/D,Mechanical,,,
+234,Trough ,Trough ,B side trough centering ,13:00,13:35,0.58,B/D,Mechanical,,,
+235,Core loader,Core loader,Core loader change ,17:07,17:15,0.13,B/D,Mechanical,,,
+236,flag gate,flag gate,flag gate prob,10:40,10:50,0.17,B/D,Mechanical,,,
+237,diabola,diabola,diabola cylinder open out ,22:50,2:35,3.75,B/D,Mechanical,,,
+238,MTC ,MTC ,MTC  change ,10:10,20:10,10,B/D,Mechanical,,,
+239,extractor ,extractor ,extractor alignment ,3:17,5:10,1.88,B/D,Mechanical,,,
+240,PTT,PTT,PTT prob,0:50,1:19,0.48,B/D,Mechanical,,,
+241,PTT,PTT,PTT prob,20:05,20:18,0.22,B/D,Mechanical,,,
+242,Core loader/extractor,Core loader/extractor,Core loader/extractor centering check,21:50,22:20,0.5,B/D,Mechanical,,,
+243,Core loader/extractor,Core loader/extractor,Core loader/extractor centering ,18:40,19:00,0.33,B/D,Mechanical,,,
+244,Mould,Mould,water leakage from skt side ,15:27,15:51,0.4,B/D,Mechanical,,,
+245,CCM,CCM,m/c under mechanical,11:36,5:06,17.5,B/D,Mechanical,,,
+246,Trough ,Trough ,Trough shifting prob ,6:00,6:05,0.08,B/D,Mechanical,,,
+247,Trough ,Trough ,Trough shifting prob ,6:14,7:30,1.27,B/D,Mechanical,,,
+248,CCM,CCM,pipe lifting arm limit prob ,10:50,11:30,0.67,B/D,Mechanical,,,
+249,Trough ,Trough ,B side trough supporting roller change ,13:40,15:14,1.57,B/D,Mechanical,,,
+250,Core Ring ,Core Ring ,Core Ring centering check,0:30,0:54,0.4,B/D,Mechanical,,,
+251,MTC,MTC,MTC pin open out ,7:26,8:45,1.32,B/D,Mechanical,,,
+252,Mould,Mould,spt side water leakage ,9:20,9:41,0.35,B/D,Mechanical,,,
+253,seal ,seal ,LT seal change ,10:55,11:20,0.42,B/D,Mechanical,,,
+254,flag gate,flag gate,skt side flag gate hose pipe hydrulic oil leakage ,19:15,19:22,0.12,B/D,Mechanical,,,
+255,Trough ,Trough ,A side trough shifting hose leakage ,2:45,4:22,1.62,B/D,Mechanical,,,
+256,Mould,Mould,spt side water leakage ,5:45,6:00,0.25,B/D,Mechanical,,,
+257,CCM,CCM,m/c stop due to core brust prob ,19:42,19:52,0.17,B/D,Mechanical,,,
+258,Mould,Mould,spt side water leakage ,6:00,6:20,0.33,B/D,Mechanical,,,
+259,Trough ,Trough ,B side trough tilting prob,11:20,13:30,2.17,B/D,Mechanical,,,
+260,PTT,PTT,PTT movement prob ,11:25,12:30,1.08,B/D,Mechanical,,,
+261,Uli Tube ,Uli Tube ,Dry uli dropping prob ,18:23,18:35,0.2,B/D,Mechanical,,,
+262,flag gate,flag gate,flag gate hose change ,7:08,7:20,0.2,B/D,Mechanical,,,
+263,Core loader,Core loader,Core loader centering done ,14:15,14:25,0.17,B/D,Mechanical,,,
+264,CCM,CCM,c/b prob,15:10,15:42,0.53,B/D,Mechanical,,,
+265,Trough ,Trough ,B side trough uli tube change ,16:41,17:13,0.53,B/D,Mechanical,,,
+266,Trough ,Trough ,B side trough bogie cylinder hose pipe change,18:00,18:22,0.37,B/D,Mechanical,,,
+267,Mould,Mould,skt side water leakage ,6:00,6:40,0.67,B/D,Mechanical,,,
+268,PTT,PTT,PTT B/D,7:05,7:19,0.23,B/D,Mechanical,,,
+269,PTT,PTT,PTT B/D,21:34,21:44,0.17,B/D,Mechanical,,,
+270,PTT,PTT,PTT rope loose ,7:50,8:08,0.3,B/D,Mechanical,,,
+271,Mould,Mould,Mould rotation stop during casting time ,14:45,15:05,0.33,B/D,Mechanical,,,
+272,Mould,Mould,spt side water leakage ,2:57,3:14,0.28,B/D,Mechanical,,,
+273,Mould,Mould,Mould change due to skt side water leakage,15:27,17:00,1.55,B/D,Mechanical,,,
+274,extractor ,extractor ,extractor jaw hydrulic cylinder oil leakage ,17:30,19:10,1.67,B/D,Mechanical,,,
+275,Core loader/extractor,Core loader/extractor,Core loader/extractor centering done,16:10,17:15,1.08,B/D,Mechanical,,,
+276,Mould,Mould,water leakage from skt side ,1:15,2:10,0.92,B/D,Mechanical,,,
+277,Core loader,Core loader,Core loader centering done ,21:45,22:19,0.57,B/D,Mechanical,,,
+278,Mould,Mould,water leakage from skt side ,18:18,20:10,1.87,B/D,Mechanical,,,
+279,CCM,CCM,m/c down prob,8:02,8:14,0.2,B/D,Mechanical,,,
+280,extractor ,extractor ,extractor jaw close prob ,8:14,8:24,0.17,B/D,Mechanical,,,
+281,Trough ,Trough ,Trough centering done ,8:25,8:35,0.17,B/D,Mechanical,,,
+282,extractor ,extractor ,extractor jaw close prob ,9:18,9:40,0.37,B/D,Mechanical,,,
+283,extractor ,extractor ,extractor change ,15:56,16:56,1,B/D,Mechanical,,,
+284,Uli Tube ,Uli Tube ,Dry uli dropping prob ,17:15,17:35,0.33,B/D,Mechanical,,,
+285,Uli Tube ,Uli Tube ,Dry uli dropping prob ,22:36,23:57,1.35,B/D,Mechanical,,,
+286,Trough ,Trough ,A side trough tilting cylinder hydrulic oil leakage ,9:23,11:15,1.87,B/D,Mechanical,,,
+287,seal ,seal ,spt seal change ,14:00,14:42,0.7,B/D,Mechanical,,,
+288,Fixed ladle,Fixed ladle,Fixed ladle b/d,18:45,21:25,2.67,B/D,Mechanical,,,
+289,CCM,CCM,c/b prob,14:08,14:30,0.37,B/D,Mechanical,,,
+290,Uli Tube ,Uli Tube ,Dry uli dropping prob ,19:30,20:00,0.5,B/D,Mechanical,,,
+291,Trough ,Trough ,trough shifting boggie lock pin open out,2:52,3:09,0.28,B/D,Mechanical,,,
+292,Core loader/extractor,Core loader/extractor,Core loader/extractor centering done,1:50,1:53,0.05,B/D,Mechanical,,,
+293,Core loader/extractor,Core loader/extractor,Core loader/extractor centering done,2:30,2:50,0.33,B/D,Mechanical,,,
+294,flag gate,flag gate,flag gate hose damage & hydrulic oil leakage ,4:10,4:29,0.32,B/D,Mechanical,,,
+295,CCM,CCM,c/b prob,6:00,6:40,0.67,B/D,Mechanical,,,
+296,Trough ,Trough ,B side trough rotating prob,8:00,9:08,1.13,B/D,Mechanical,,,
+297,Trough ,Trough ,B side trough tilting prob,23:31,23:35,0.07,B/D,Mechanical,,,
+298,Trough ,Trough ,A side trough tilting cylinder hydrulic oil leakage ,8:50,11:00,2.17,B/D,Mechanical,,,
+299,CCM,CCM,c/b prob,6:08,7:27,1.32,B/D,Mechanical,,,
+300,Trough ,Trough ,B side trough tilting prob,10:26,11:10,0.73,B/D,Mechanical,,,
+301,Trough ,Trough ,A side trough supporting roller change ,12:00,13:36,1.6,B/D,Mechanical,,,
+302,Core loader,Core loader,Core loader centering done +pipe stopper welding ,9:05,10:10,1.08,B/D,Mechanical,,,
+303,Core Ring ,Core Ring ,Core Ring spring broken,23:26,23:42,0.27,B/D,Mechanical,,,
+304,PTT,PTT,PTT prob,22:40,22:55,0.25,B/D,Mechanical,,,
+305,CCM,CCM,m/c down automatic,7:08,7:22,0.23,B/D,Mechanical,,,
+306,Mould,Mould,Mould change due to skt side water leakage,3:00,5:00,2,B/D,Mechanical,,,
+307,extractor ,extractor ,extractor centering prob,22:45,23:16,0.52,B/D,Mechanical,,,
+308,Core loader,Core loader,Core loader centering done ,17:37,17:46,0.15,B/D,Mechanical,,,
+309,Trough ,Trough ,B side trough tilting prob,20:45,23:35,2.83,B/D,Mechanical,,,
+310,Mould,Mould,spt side water leakage ,20:35,21:10,0.58,B/D,Mechanical,,,
+311,Mould,Mould,Mould change due to mould vibration,23:10,0:30,1.33,B/D,Mechanical,,,
+312,Dial gauge ,Dial gauge ,Dial gauge prob (skt thick vibration),4:05,4:25,0.33,B/D,Mechanical,,,
+313,MTC ,MTC ,MTC gland tight ,13:15,13:35,0.33,B/D,Mechanical,,,
+314,Trough ,Trough ,trough shifting cylinder lock pin ,22:50,23:30,0.67,B/D,Mechanical,,,
+315,Fixed ladle,Fixed ladle,Fixed ladle cylinder prob ,3:56,4:17,0.35,B/D,Mechanical,,,
+316,PTT,PTT,PTT rope change ,18:00,18:34,0.57,B/D,Mechanical,,,
+317,Uli Tube ,Uli Tube ,Dry uli dropping prob ,0:32,1:29,0.95,B/D,Mechanical,,,
+318,flag gate ,flag gate ,flag gate  spring change ,21:20,21:45,0.42,B/D,Mechanical,,,
+319,Fixed ladle,Fixed ladle,Fixed ladle tilting prob,19:25,20:00,0.58,B/D,Mechanical,,,
+320,valve ,valve ,valve  change ,20:05,20:28,0.38,B/D,Mechanical,,,
+321,Trough ,Trough ,B side trough shifting ,16:50,19:00,2.17,B/D,Mechanical,,,
+322,Trough ,Trough ,b side trough tilting cylinder hose oil leakage ,3:49,4:45,0.93,B/D,Mechanical,,,
+323,Fixed ladle,Fixed ladle,Fixed ladle hydrulic valve change ,8:35,12:58,4.38,B/D,Mechanical,,,
+324,Uli Tube ,Uli Tube ,Dry uli dropping prob ,14:48,15:00,0.2,B/D,Mechanical,,,
+325,PTT ,PTT ,PTT  fwd & rev prob ,2:00,2:50,0.83,B/D,Mechanical,,PTT stopped moving,ptt rope removed from middle pulley at middle as pulley got jam.
+326,core ring ,core ring ,core ring prob,0:55,1:04,0.15,B/D,Mechanical,,Core burst,coreloader centered as center got out
+327,Trough ,Trough ,trough shifting prob ,4:00,4:11,0.18,B/D,Mechanical,,no record,
+328,Trough ,Trough ,trough shifting prob ,7:05,7:40,0.58,B/D,Mechanical,,b side trough shifting cylinder was not moving,DC v/v changed as its spool got jam
+329,Trough ,Trough ,trough shifting prob ,8:33,8:53,0.33,B/D,Mechanical,,b side trough shifting cylinder was not moving,DC V/V spool jam freed
+330,Trough ,Trough ,B side trough shifting cylinder change ,11:50,13:54,2.07,B/D,Mechanical,,b side trough shifting cylinder internal leakage,Cylinder replaced during mould change time
+331,flag gate ,flag gate ,flag gate stopper welding ,2:40,2:51,0.18,B/D,Mechanical,,pipe fell off from flaggate arm after extraction,spt flaggate arm pipe stopper fixed 
+332,Core loader,Core loader,Core loader compressure check,6:40,6:50,0.17,B/D,Mechanical,,Skt metal fly from coreloader ,Coreloader compression increased to 12mm from 7mm
+333,PTT ,PTT ,PTT  B/D,16:50,17:43,0.88,B/D,Mechanical,,PTT was not moving,ptt rope was loosed as ptt got strucked at ptt bottom I beam
+334,Core loader,Core loader,Core loader change,3:12,3:18,0.1,B/D,Mechanical,,coreloader was not rotating,coreloader changed
+335,fallchute,fallchute,fallchute welding due to open out ,19:25,20:23,0.97,B/D,Mechanical,,no record,
+336,Core loader,Core loader,Core loader centering check,22:25,22:35,0.17,B/D,Mechanical,,Core burst,coreloader centered as center got out
+337,Mould,Mould,mould rotation prob,18:25,19:00,0.58,B/D,Mechanical,,mould rotation jam,sleeve changed
+338,CCM,CCM,pipe lifting arm prob ,2:45,3:00,0.25,B/D,Mechanical,,no record,
+339,fallchute,fallchute,A side fallchute stopper welding ,16:40,16:50,0.17,B/D,Mechanical,,no record,
+340,extractor ,extractor ,extractor jaw not close & lifting prob ,2:00,2:50,0.83,B/D,Mechanical,,CCM 2(not ccm4 as mentioned) extractor jaws were not closing,extractor replaced as its male part broked and at same time extra plate provided over pipe lifting arm for pipe rolling
+341,Trough ,Trough ,B side tilting hose change ,11:20,12:25,1.08,B/D,Mechanical,,oil leakage from b side trough tilting top port hose,hose changed 
+342,Mould,Mould,Mould change due to mould rotation stop ,11:15,12:45,1.5,B/D,Mechanical,,mould rotation jam,sleeve changed
+343,PTT ,PTT ,PTT  B/D,23:46,23:55,0.15,B/D,Mechanical,,no record,
+344,extractor ,extractor ,extractor centering done + jaw pessure plate welding,9:42,10:05,0.38,B/D,Mechanical,,extractor center got out due to mounting bolts loose,extractor centered
+345,Trough ,Trough ,trough shifting prob ,12:34,13:19,0.75,B/D,Mechanical,,b side trough center got out from mould,trough centered but not exactly by adjusting from cyl back screw rod
+346,Trough ,Trough ,trough shifting prob ,16:00,20:41,4.68,B/D,Mechanical,,b side trough center got out from mould,cyl back screw rod was changed and center was adjusted
+347,Core loader,Core loader,Core loader centering check,3:50,4:00,0.17,B/D,Mechanical,,coreburst,coreloader was checked and found ok
+348,Trough ,Trough ,A side trough supporting roller change ,9:01,9:17,0.27,B/D,Mechanical,,A side trough supporting roller jam,roller changed
+349,Mould,Mould,mould rotation prob,15:25,16:05,0.67,B/D,Mechanical,,no record,
+350,DC Motor,DC Motor,DC Motor lifting chain pulley open out ,10:15,10:40,0.42,B/D,Mechanical,,DC Motor lifting chain pulley got jam,jam was freed
+351,cylinder,cylinder,hydrulic cylinder oil leakage ,22:40,23:25,0.75,B/D,Mechanical,,oil leakage from skt side flaggate cylinder piston end port metal pipeline,at elbow position pipeline welded as it broked when got hit by side ext guard plate
+352,PTT ,PTT ,PTT rope change,0:33,0:42,0.15,B/D,Mechanical,,ptt rope broked as it was rubbing on a broken guide channel piece,ptt rope was changed and broken piece was cut out and at the same time mould was changed
+353,CCM,CCM,auto run start +s/l up but mould rotation stop ,20:11,20:34,0.38,B/D,Mechanical,,no record,
+354,pump,pump,"hudrulic pump prob (1,2,3&4)",12:35,13:05,0.5,B/D,Mechanical,,pump no 5 pressure dropped,pump no 5 was stopped and in its place standby pump no 1 was started
+355,Core loader,Core loader,Core loader change ,16:15,17:18,1.05,B/D,Mechanical,,metal fly from coreloader,coreloader changed and centered
+356,core ring ,core ring ,core ring change ,16:40,17:00,0.33,B/D,Mechanical,,corering from coreloader came out,coreloader changed
+357,PTT ,PTT ,PTT rope change,22:00,23:16,1.27,B/D,Mechanical,,,
+358,extractor ,extractor ,extractor stopper plate welding ,23:20,23:50,0.5,B/D,Mechanical,,,
+359,Core loader,Core loader,Core loader centering out ,21:25,21:47,0.37,B/D,Mechanical,,metal fly from coreloader ,coreloader housing mounting locknut changed as it broked 
+360,core ring ,core ring ,core ring change ,17:58,18:04,0.1,B/D,Mechanical,,corering came out from coreloader,coreloader changed
+361,Core loader,Core loader,Core loader centering check,21:50,22:45,0.92,B/D,Mechanical,,no record,
+362,Core loader,Core loader,Core loader prob,0:20,1:50,1.5,B/D,Mechanical,,,
+363,core ring ,core ring ,core ring change ,3:15,3:25,0.17,B/D,Mechanical,,,
+364,CCM,CCM,Spigot metal guard welding,6:00,6:31,0.52,B/D,Mechanical,,Boggie spt chute fell off,spt chute fitted after cleaning
+365,Trough ,Trough ,trough limit prob & flow controle valve change,18:25,19:05,0.67,B/D,Mechanical,,diabola striker broked and trough pressing airline regulator was not working,diabola striker welded and regulator serviced
+366,Trough ,Trough ,B side trough pressing roller change,23:45,0:40,0.92,B/D,Mechanical,,,
+367,diabola ,diabola ,diabola trolley derailed,7:20,8:20,1,B/D,Mechanical,,,
+368,Mould,Mould,skt side water leakage ,7:54,8:37,0.72,B/D,Mechanical,,,
+369,Uli tube,Uli tube,dry powder uli jam ,22:49,2:09,3.33,B/D,Mechanical,,,
+370,Core loader,Core loader,Core loader centering prob ,21:30,21:40,0.17,B/D,Mechanical,,,
+371,Trough ,Trough ,trough shifting prob ,9:40,10:00,0.33,B/D,Mechanical,,,
+372,extractor ,extractor ,extractor stopper plate welding ,5:33,5:42,0.15,B/D,Mechanical,,,
+373,Mould,Mould,water leakage from spt side ,20:30,20:48,0.3,B/D,Mechanical,,,
+374,Mould,Mould,Mould change due to mould vibration,21:23,23:10,1.78,B/D,Mechanical,,,
+375,flag gate ,flag gate ,skt side flag gate prob ,17:35,18:25,0.83,B/D,Mechanical,,,
+376,CCM,CCM,c/b prob,0:06,0:50,0.73,B/D,Mechanical,,,
+377,CCM,CCM,c/b prob,4:26,5:20,0.9,B/D,Mechanical,,,
+378,CCM,CCM,c/b prob,5:45,6:00,0.25,B/D,Mechanical,,,
+379,diabola ,diabola ,hydrulic oil leakage from diabola,23:10,23:55,0.75,B/D,Mechanical,,,
+380,core ring ,core ring ,core ring change ,2:03,2:22,0.32,B/D,Mechanical,,,
+381,extractor ,extractor ,extractor stopper arm broken,6:18,7:30,1.2,B/D,Mechanical,,,
+382,extractor ,extractor ,extractor stopper broken,8:40,9:02,0.37,B/D,Mechanical,,,
+383,Trough ,Trough ,Trough alignment ,21:15,22:20,1.08,B/D,Mechanical,,,
+384,Trough ,Trough ,trough centering done,2:50,4:30,1.67,B/D,Mechanical,,,
+385,sector ladle ,sector ladle ,sector ladle not up,11:25,11:42,0.28,B/D,Mechanical,,,
+386,Core loader,Core loader,Core loader centering change,22:50,23:10,0.33,B/D,Mechanical,,,
+387,Core loader,Core loader,Core loader centering check,6:00,6:35,0.58,B/D,Mechanical,,,
+388,Trough ,Trough ,A side trough pressing roller change,22:52,23:10,0.3,B/D,Mechanical,,,
+389,CCM,CCM,m/c under mechanical due to drawn pipe remove ,8:40,13:40,5,B/D,Mechanical,,,
+390,Trough ,Trough ,b side trough tilting cylinder hose pipe change ,0:05,0:35,0.5,B/D,Mechanical,,,
+391,core loader,core loader,core loader wheel change,17:45,17:55,0.17,B/D,Mechanical,,,
+392,Trough ,Trough ,A side trough pressing roller change,8:50,9:00,0.17,B/D,Mechanical,,,
+393,Core loader,Core loader,c/b prob,11:10,11:26,0.27,B/D,Mechanical,,,
+394,Core loader,Core loader,c/b prob,12:15,13:10,0.92,B/D,Mechanical,,,
+395,core ring ,core ring ,core ring change ,13:49,14:35,0.77,B/D,Mechanical,,,
+396,CCM,CCM,m/c down before skt filling ,18:56,19:07,0.18,B/D,Mechanical,,,
+397,PTT,PTT,PTT striker welding ,15:10,15:15,0.08,B/D,Mechanical,,,
+398,Trough ,Trough ,A side trough joint area welding,6:25,7:15,0.83,B/D,Mechanical,,,
+399,Mould,Mould,mould vibration ,7:50,8:50,1,B/D,Mechanical,,,
+400,Core loader,Core loader,Core loader centering check,23:58,0:06,0.13,B/D,Mechanical,,,
+401,flag gate ,flag gate ,flag gate movement prob,19:20,23:20,4,B/D,Mechanical,,,
+402,flag gate ,flag gate ,flag gate movement prob,0:45,2:40,1.92,B/D,Mechanical,,,
+403,Core loader,Core loader,Core loader prob,20:00,20:50,0.83,B/D,Mechanical,,,
+404,Core loader,Core loader,Core loader prob,21:00,23:20,2.33,B/D,Mechanical,,,
+405,Uli tube,Uli tube,dry uli tube change ,4:35,6:00,1.42,B/D,Mechanical,,,
+406,core,core,core wheel assembly change ,5:02,5:26,0.4,B/D,Mechanical,,,
+407,Mould,Mould,water leakage from spt side ,9:42,9:47,0.08,B/D,Mechanical,,,
+408,seal,seal,spt seal change,12:10,12:35,0.42,B/D,Mechanical,,,
+409,fallchute,fallchute,A side fallchute guide stopper broken,14:15,15:15,1,B/D,Mechanical,,,
+410,Core loader,Core loader,Core loader change ,4:46,5:10,0.4,B/D,Mechanical,,,
+411,Trough ,Trough ,A side trough supporting roller change ,15:45,16:11,0.43,B/D,Mechanical,,,
+412,Trough ,Trough ,B side trough supporting roller change ,0:20,0:25,0.08,B/D,Mechanical,,,
+413,Trough ,Trough ,B side trough supporting roller change ,1:05,1:24,0.32,B/D,Mechanical,,,
+414,Trough ,Trough ,B side trough supporting roller change ,3:55,4:49,0.9,B/D,Mechanical,,,
+415,Core loader,Core loader,Core loader centering check,10:20,10:30,0.17,B/D,Mechanical,,,
+416,core ,core ,core wheel assembly change ,5:05,5:25,0.33,B/D,Mechanical,,,
+417,core ,core ,core wheel assembly change ,4:46,5:10,0.4,B/D,Mechanical,,,
+418,core ring ,core ring ,core ring centering change ,11:37,11:49,0.2,B/D,Mechanical,,,
+419,Core loader,Core loader,Core loader cylinder bush change  ,16:20,17:15,0.92,B/D,Mechanical,,,
+420,Mould,Mould,water leakage from spt side ,9:40,9:45,0.08,B/D,Mechanical,,,
+421,seal,seal,water leakage from spt side ,10:15,10:45,0.5,B/D,Mechanical,,,
+422,Core loader,Core loader,Core loader compressure adjust,19:45,20:00,0.25,B/D,Mechanical,,,
+423,PTT,PTT,PTT movement prob ,19:45,20:25,0.67,B/D,Mechanical,,,
+424,extractor ,extractor ,extractor jaw clossing prob ,10:40,11:10,0.5,B/D,Mechanical,,,
+425,core ring ,core ring ,core ring change ,14:15,15:00,0.75,B/D,Mechanical,,,
+426,Core loader,Core loader,Core loader change ,2:27,2:41,0.23,B/D,Mechanical,,,
+427,Core loader,Core loader,Core loader centering prob ,3:07,3:40,0.55,B/D,Mechanical,,,
+428,MTC ,MTC ,MTC bracket prob,14:37,14:51,0.23,B/D,Mechanical,,,
+429,MTC ,MTC ,MTC bracket broken,14:53,6:00,15.12,B/D,Mechanical,,,
+430,Mould,Mould,water leakage from spt side ,6:45,6:50,0.08,B/D,Mechanical,,,
+431,seal,seal,spt seal change,8:20,8:55,0.58,B/D,Mechanical,,,
+432,seal,seal,spt seal change,9:58,10:20,0.37,B/D,Mechanical,,,
+433,Trough ,Trough ,trough shifting prob ,1:56,2:29,0.55,B/D,Mechanical,,,
+434,Mould,Mould,mould rotation prob,0:33,3:00,2.45,B/D,Mechanical,,,
+435,MTC ,MTC ,MTC bracket broken,6:00,11:00,5,B/D,Mechanical,,,
+436,extractor ,extractor ,extractor jaw clossing prob ,5:15,5:52,0.62,B/D,Mechanical,,,
+437,Uli tube,Uli tube,dry uli tube change ,23:52,23:56,0.07,B/D,Mechanical,,,
+438,Trough ,Trough ,b side hose pipe damage ,1:10,1:16,0.1,B/D,Mechanical,,,
+439,seal,seal,spt seal change,1:25,2:10,0.75,B/D,Mechanical,,,
+440,seal,seal,spt side dummy seal fixing ,3:40,3:47,0.12,B/D,Mechanical,,,
+441,Trough ,Trough ,hydrulic oil leakage from trough tilting cylinder,7:00,8:35,1.58,B/D,Mechanical,,,
+442,Trough ,Trough ,trough tilting hose tight ,13:40,13:50,0.17,B/D,Mechanical,,,
+443,Trough ,Trough , A side trough tilting side hydrulic oil leakage ,21:40,23:15,1.58,B/D,Mechanical,,,
+444,Trough ,Trough ,trough shifting lock pin welding ,6:42,7:45,1.05,B/D,Mechanical,,,
+445,Core loader,Core loader,Core loader centering check,8:42,8:48,0.1,B/D,Mechanical,,,
+446,core ring ,core ring ,core ring  change ,6:00,7:43,1.72,B/D,Mechanical,,,
+447,core ring ,core ring ,core ring  change ,11:40,12:15,0.58,B/D,Mechanical,,,
+448,Core loader,Core loader,Core loader centering check,8:58,9:08,0.17,B/D,Mechanical,,,
+449,Core loader,Core loader,core loader wheel change,15:56,16:22,0.43,B/D,Mechanical,,,
+450,Trough ,Trough ,b side trough tilting prob ,17:00,18:15,1.25,B/D,Mechanical,,,
+451,extractor ,extractor ,extractor centering out,2:20,3:20,1,B/D,Mechanical,,,
+452,CCM,CCM,under mechanical,11:00,19:40,8.67,B/D,Mechanical,,,
+453,flag gate ,flag gate ,flag gate prob,19:40,19:55,0.25,B/D,Mechanical,,,
+454,extractor ,extractor ,extractor centering change,3:15,3:37,0.37,B/D,Mechanical,,,
+455,Core loader,Core loader,Core loader broken,4:57,5:15,0.3,B/D,Mechanical,,,
+456,Core loader,Core loader,Core loader prob,22:50,23:30,0.67,B/D,Mechanical,,,
+457,Mould,Mould,skt side nut change ,19:35,20:00,0.42,B/D,Mechanical,,,
+458,core ring ,core ring ,core ring change ,5:00,6:00,1,B/D,Mechanical,,,
+459,Mould,Mould,water leakage from spt side ,6:00,6:53,0.88,B/D,Mechanical,,,
+460,Mould,Mould,Mould sleeve open out ,14:15,17:35,3.33,B/D,Mechanical,,,
+461,Mould,Mould,mould change due to thickness variation,23:50,0:50,1,B/D,Mechanical,,,
+462,Mould,Mould,mould change due to thickness variation,5:30,6:00,0.5,B/D,Mechanical,,,
+463,core ring ,core ring ,core ring change ,6:00,7:10,1.17,B/D,Mechanical,,,
+464,scrap trolley ,scrap trolley ,scrap trolley rope change ,5:10,5:45,0.58,B/D,Mechanical,,,
+465,flag gate ,flag gate ,flag gate stand welding,6:30,7:00,0.5,B/D,Mechanical,,,
+466,Trough ,Trough ,trough shifting prob ,23:36,23:48,0.2,B/D,Mechanical,,,
+467,Trough ,Trough ,A side trough pressing roller change,15:50,16:55,1.08,B/D,Mechanical,,,
+468,Trough ,Trough ,B side trough pressing roller change,23:00,23:35,0.58,B/D,Mechanical,,,
+469,PTT,PTT,PTT b/d,15:25,15:35,0.17,B/D,Mechanical,,,
+470,Mould,Mould,water leakage from spt side ,16:00,16:20,0.33,B/D,Mechanical,,,
+471,PTT,PTT,PTT rope change,3:50,4:00,0.17,B/D,Mechanical,,,
+472,extractor ,extractor ,extractor jaw clossing prob ,12:55,13:39,0.73,B/D,Mechanical,,,
+473,Trough ,Trough ,A side trough hose change,17:12,17:18,0.1,B/D,Mechanical,,,
+474,Trough ,Trough ,trough allignment ,4:10,5:30,1.33,B/D,Mechanical,,,
+475,Uli tube,Uli tube,dry uli dropping prob,8:26,8:42,0.27,B/D,Mechanical,,,
+476,Trough ,Trough ,B side trough alignment & B side trough pressing roller change,15:40,16:50,1.17,B/D,Mechanical,,,
+477,fallchute,fallchute,fallchute nut & bolt tight,17:05,17:45,0.67,B/D,Mechanical,,,
+478,Core loader,Core loader,Core loader housing change,10:47,10:53,0.1,B/D,Mechanical,,,
+479,MTC,MTC,MTC change,21:10,21:22,0.2,B/D,Mechanical,,,
+480,Trough ,Trough ,trough shifting prob ,6:35,7:06,0.52,B/D,Mechanical,,,
+481,fallchute,fallchute,fallchute metal guard plate cover plate welding,16:26,16:44,0.3,B/D,Mechanical,,,
+482,Core loader,Core loader,Core loader centering done ,23:20,23:30,0.17,B/D,Mechanical,,,
+483,diabola,diabola,diabola shifting prob,10:25,10:34,0.15,B/D,Mechanical,,,
+484,Core loader,Core loader,Core loader spring broken,7:22,7:29,0.12,B/D,Mechanical,,,
+485,seal,seal,spt side water leakage,12:45,13:05,0.33,B/D,diabola cylinder  ,,,
+486,flag gate ,flag gate ,hydrulic oil leakage from flaggate ,15:35,15:48,0.22,B/D,Mechanical,,,
+487,MTC,MTC,MTC gland packing change,21:30,22:26,0.93,B/D,Mechanical,,,
+488,Core loader/extractor,Core loader/extractor,Core loader & extractor centering done ,10:30,11:21,0.85,B/D,Mechanical,,,
+489,MTC,MTC,MTC gland packing change,0:05,0:39,0.57,B/D,Mechanical,,,
+490,trolley,trolley,trolley b/d,20:35,20:50,0.25,B/D,Mechanical,,,
+491,extractor ,extractor ,extractor centering change,6:00,6:45,0.75,B/D,Mechanical,,,
+492,trough ,trough ,A side trough tilting cylinder prob ,20:47,0:15,3.47,B/D,Mechanical,,,
+493,Core loader,Core loader,Core loader centering out ,6:20,7:05,0.75,B/D,Mechanical,,,
+494,Uli tube ,Uli tube ,dry uil dropping prob ,2:10,2:45,0.58,B/D,Mechanical,,,
+495,ptt,ptt,ptt rope change ,0:45,0:57,0.2,B/D,Mechanical,,,
+496,Uli tube ,Uli tube ,dry uil dropping prob ,8:25,10:50,2.42,B/D,Mechanical,,,
+497,CCM,CCM,pipe stoper pin open out ,1:20,1:30,0.17,B/D,Mechanical,,,
+498,MTC,MTC,MTC gland tight,15:35,16:00,0.42,B/D,Mechanical,,,
+499,ptt,ptt,ptt rope change ,8:45,9:15,0.5,B/D,trough tilting prob,,,
+500,trough ,trough ,A side trough supporting roller change ,22:30,22:45,0.25,B/D,Mechanical,,,
+501,Extractor ,Extractor ,Extractor jaw pressure prob,6:41,6:44,0.05,B/D,Mechanical,,,
+502,Mould,Mould,mould change due to core brust prob,14:40,16:18,1.63,B/D,Mechanical,,,
+503,trough ,trough ,B side trough pressing roller change ,5:24,5:32,0.13,B/D,Mechanical,,,
+504,CCM,CCM,casting time variation,9:13,10:19,1.1,B/D,cam roller ,,,
+505,MTC,MTC,mtc gland packing change ,17:15,18:15,1,B/D,Mechanical,,,
+506,roller,roller ,camp roller change,12:00,13:40,1.67,B/D,Mechanical,,,
+507,trough ,trough ,B side trough pressing roller change ,2:15,3:15,1,B/D,Mechanical,,,
+508,trough ,trough ,B side trough supporting roller change,4:00,4:35,0.58,B/D,Mechanical,,,
+509,Extractor ,Extractor ,pipe extracting prob ,7:25,7:45,0.33,B/D,Mechanical,,,
+510,Mould,Mould,water leakage from spt side ,15:15,16:27,1.2,B/D,Mechanical,,,
+511,PTT ,PTT ,PTT prob,10:26,10:35,0.15,B/D,Mechanical,,,
+512,PTT ,PTT ,PTT derail ,10:25,10:35,0.17,B/D,Mechanical,,,
+513,Core loader,Core loader,Core loader change,15:25,15:35,0.17,B/D,Mechanical,,,
+514,Core loader,Core loader,Core loader centering prob,2:45,2:53,0.13,B/D,Mechanical,,,
+515,Mould,Mould,water leakage from spt side ,17:55,18:20,0.42,B/D,Mechanical,,,
+516,Seal,Seal,Seal tighting ,0:22,0:44,0.37,B/D,Mechanical,,,
+517,PTT ,PTT ,PTT  rope change,20:35,20:52,0.28,B/D,Mechanical,,,
+518,MTC,MTC,MTC prob,12:00,12:25,0.42,B/D,Mechanical,,,
+519,Dial gauge ,Dial gauge ,Dial gauge check,11:28,12:30,1.03,B/D,Mechanical,,,
+520,trough ,trough ,B side trough supporting roller change,11:00,11:15,0.25,B/D,Mechanical,,,
+521,Core Ring,Core Ring,Core Ring change,4:05,4:15,0.17,B/D,Mechanical,,,
+522,Core Ring,Core Ring,Core Ring change,9:35,10:10,0.58,B/D,Mechanical,,,
+523,trough ,trough ,A side trough tilting prob,22:25,23:15,0.83,B/D,Mechanical,,,
+524,Mould,Mould,Mould rotating prob roller change,2:15,5:09,2.9,B/D,Mechanical,,,
+525,trough ,trough ,trough shifting prob ,17:00,17:35,0.58,B/D,Mechanical,,,
+526,Core loader,Core loader,Core loader housing change ,14:58,15:06,0.13,B/D,Mechanical,,,
+527,CCM,CCM,skt drawn prob,15:37,15:51,0.23,B/D,Mechanical,,,
+528,,,,,,,,,,,
+529,sector ladle ,sector ladle ,sector ladle lifting up & down prob ,3:12,4:50,1.63,B/D,Mechanical,,,
+530,trough ,trough ,A side trough supporting roller change ,23:20,23:35,0.25,B/D,Mechanical,,,
+531,trough ,trough ,A side trough supporting roller change ,3:23,3:37,0.23,B/D,Mechanical,,,
+532,Mould,Mould,water leakage from spt side ,23:40,23:48,0.13,B/D,Mechanical,,,
+533,Mould,Mould,water leakage from spt side ,0:11,0:51,0.67,B/D,Mechanical,,,
+534,flag gate ,flag gate ,spt side flag gate change ,23:40,23:48,0.13,B/D,Mechanical,,,
+535,Core loader,Core loader,Core loader centering done,23:57,0:11,0.23,B/D,Mechanical,,,
+536,sector ladle ,sector ladle ,sector ladle lifting up & down prob ,0:45,2:45,2,B/D,Mechanical,,,
+537,Core loader,Core loader,Core loader change,10:49,10:55,0.1,B/D,Mechanical,,,
+538,Core loader,Core loader,Core loader centering done,11:30,11:47,0.28,B/D,Mechanical,,,
+539,PTT,PTT,PTT moving prob,1:45,2:20,0.58,B/D,Mechanical,,,
+540,trough ,trough ,A side trough supporting roller change ,11:15,11:33,0.3,B/D,Mechanical,,,
+541,trough ,trough ,A side trough allignment,12:00,12:40,0.67,B/D,Mechanical,,,
+542,trough ,trough ,A side trough pressing roller jam,18:27,18:40,0.22,B/D,Mechanical,,,
+543,Mould,Mould,water leakage from spt side ,14:35,15:50,1.25,B/D,Mechanical,,,
+544,Core loader,Core loader,Core loader bolt tight ,22:12,22:40,0.47,B/D,Mechanical,,,
+545,Mould,Mould,water leakage from spt side ,15:10,15:20,0.17,B/D,Mechanical,,,
+546,MTC,MTC,MTC prob,0:40,0:55,0.25,B/D,Mechanical,,,
+547,Mould,Mould,water leakage from spt side + trough shifting prob ,13:20,20:15,6.92,B/D,Mechanical,,,
+548,trough ,trough ,A side trough tilting cylinder oil leakage ,9:20,9:45,0.42,B/D,Mechanical,,,
+549,trough ,trough ,A side trough tilting cylinder oil leakage ,10:00,10:45,0.75,B/D,Mechanical,,,
+550,CCM,CCM,head bearing nut tight ,16:36,16:48,0.2,B/D,Mechanical,,,
+551,Mould,Mould,Water leakage from spt side ,12:05,12:17,0.2,B/D,Mechanical,,,
+552,Mould,Mould,Water leakage from spt side ,15:29,15:49,0.33,B/D,Mechanical,,,
+553,Core Ring,Core Ring,Core Ring centering due to c/b prob ,3:00,3:30,0.5,B/D,Mechanical,,,
+554,Core loader,Core loader,Core loader centering done,11:30,11:45,0.25,B/D,Mechanical,,,
+555,dial gauge ,dial gauge ,dial gauge checking ,17:05,17:15,0.17,B/D,Mechanical,,,
+556,Core loader,Core loader,Core catcher pneumatic trial,17:15,18:00,0.75,B/D,Mechanical,,,
+557,Roller ,Roller ,A side roller change ,6:10,6:45,0.58,B/D,Mechanical,,,
+558,trough ,trough ,A side trough supporting roller change ,19:50,20:10,0.33,B/D,Mechanical,,,
+559,trough ,trough ,fallchute stopper plate welding,8:25,8:35,0.17,B/D,Mechanical,,,
+560,trough ,trough ,B side trough tilting prob ,13:40,16:45,3.08,B/D,Mechanical,,,
+561,flag gate ,flag gate ,flag gate hose pipe change ,6:15,6:28,0.22,B/D,Mechanical,,,
+562,flag gate ,flag gate ,spt side flag gate hydrulic oil leakage ,9:14,9:35,0.35,B/D,Mechanical,,,
+563,trough ,trough ,B side trough allignment ,21:35,21:50,0.25,B/D,Mechanical,,,
+564,fallchute ,fallchute ,Both side fallchute nut & bolt loose ,22:15,23:15,1,B/D,Mechanical,,,
+565,Roller ,Roller ,B side trough supporting roller change,1:41,1:58,0.28,B/D,Mechanical,,,
+566,uli unit ,uli unit ,chute uli screw rod jam ,23:15,23:20,0.08,B/D,Mechanical,,,
+567,PTT,PTT,Ptt trolley movement prob ,18:53,19:00,0.12,B/D,Mechanical,,,
+568,PTT,PTT,PTT rope change ,1:15,1:25,0.17,B/D,Mechanical,,,
+569,trough ,trough ,B side trough tilting prob ,5:16,6:00,0.73,B/D,Mechanical,,,
+570,PTT,PTT,PTT derail,9:06,9:12,0.1,B/D,Mechanical,,,
+571,trough ,trough ,A side trough supporting roller change ,19:04,19:30,0.43,B/D,Mechanical,,,
+572,Mould,Mould,water leakage from spt side ,10:20,10:30,0.17,B/D,Mechanical,,,
+573,CCM,CCM,m/c full up during casting time,14:45,15:20,0.58,B/D,Mechanical,,,
+574,Core Ring,Core Ring,Core Ring compressure prob,21:30,22:00,0.5,B/D,Mechanical,,,
+575,Core loader,Core loader,Core loader centering done,18:25,18:30,0.08,B/D,Mechanical,,,
+576,PTT,PTT,Ptt prob,13:50,14:38,0.8,B/D,Mechanical,,,
+577,CCM,CCM,MTC CHANGE,10:02,17:37,7.58,B/D,Mechanical,,,
+578,Mould,Mould,Mould sleeve pressing work ,15:20,16:30,1.17,B/D,Mechanical,,,
+579,extractor ,extractor ,extractor centering done ,16:30,17:10,0.67,B/D,Mechanical,,,
+580,trough ,trough ,A side trough supporting roller change ,17:55,18:10,0.25,B/D,Mechanical,,,
+581,trough ,trough ,A side trough supporting roller change ,5:32,5:39,0.12,B/D,Mechanical,,,
+582,extractor ,extractor ,extractor open & close prob ,1:05,1:51,0.77,B/D,Mechanical,,,
+583,PTT,PTT,PTT B/D,20:57,21:45,0.8,B/D,Mechanical,,,
+584,PTT,PTT,PTT rope change ,0:40,1:10,0.5,B/D,Mechanical,,,
+585,flag gate ,flag gate ,skt side flag gate change ,1:10,1:20,0.17,B/D,Mechanical,,,
+586,Core loader,Core loader,Core loader spring broken,3:10,3:25,0.25,B/D,Mechanical,,,
+587,Mould,Mould,water leakage from spt side ,22:00,22:50,0.83,B/D,Mechanical,,,
+588,trough ,trough ,A side trough supporting roller change ,12:40,12:46,0.1,B/D,Mechanical,,,
+589,trough ,trough ,A side trough supporting roller change ,20:50,21:05,0.25,B/D,Mechanical,,,
+590,trough ,trough ,A side trough supporting roller change ,1:38,1:52,0.23,B/D,Mechanical,,,
+591,Core loader/extractor,Core loader/extractor,Core loader/extractor centering done ,15:20,16:20,1,B/D,Mechanical,,,
+592,Mould,Mould,mould chane delay due to grease pipe opening by mechanical,3:00,3:20,0.33,B/D,Mechanical,,,
+593,Mould,Mould,water leakage from spt side ,22:11,22:27,0.27,B/D,Mechanical,,,
+594,trough ,trough ,A side trough supporting roller change ,12:45,13:00,0.25,B/D,Mechanical,,,
+595,trough ,trough ,A side trough supporting roller change ,15:34,15:50,0.27,B/D,Mechanical,,,
+596,cam roller ,cam roller ,cam roller not rotate,20:20,20:40,0.33,B/D,Mechanical,,,
+597,Mould,Mould,Mould change time Socket water leakage ,17:00,19:36,2.6,B/D,Mechanical,,,
+598,trough ,trough ,trough allignment due to drawn prob,23:10,23:25,0.25,B/D,Mechanical,,,
+599,Mould,Mould,water leakage from spt side ,23:35,0:00,0.42,B/D,Mechanical,,,
+600,Mould,Mould,Mould change time Socket water leakage ,0:10,1:20,1.17,B/D,Mechanical,,,
+601,Core loader,Core loader,Core loader spring broken,17:37,17:44,0.12,B/D,Mechanical,,,
+602,Mould,Mould,Mould vibration,6:48,7:25,0.62,B/D,Mechanical,,,
+603,Diabola,Diabola,A side Diabola derailed-braket change ,14:35,17:00,2.42,B/D,Mechanical,,,
+604,Core loader,Core loader,Core loader cylinder pin open out ,7:37,8:00,0.38,B/D,Mechanical,,,
+605,Mould,Mould,Mould rotation jam ,11:26,11:50,0.4,B/D,Mechanical,,,
+606,Core loader,Core loader,Core loader unit change,16:30,16:52,0.37,B/D,Mechanical,,,
+607,extractor ,extractor ,extractor change,20:30,20:50,0.33,B/D,Mechanical,,,
+608,Extractor,Extractor,Extractor jaw clossing cylinder hose change ,7:00,7:24,0.4,B/D,Mechanical,,Extractor open-close jam cylinder oil leakage from piston rod end hose,Hose changed
+609,Core ring ,Core ring ,Core ring change,17:10,17:17,0.12,B/D,Mechanical,,Core open out from core ring,core loader housing changed
+610,Core loader,Core loader,Core wheel assembly change,22:42,23:31,0.82,B/D,Mechanical,,Core burst,Core loader changed & center alignment done
+611,trough,trough,A side trough tilting cylinder change,8:45,9:40,0.92,B/D,Mechanical,,A-side trough tilting cylinder oil leakage due to hose damaged ,Hose changed
+612,trough,trough,B side trough shifting prob ,17:00,17:21,0.35,B/D,Mechanical,,B-side trough shifting cylinder back side holding bracket screw end position broken,Screw rod with bracket welding
+613,Core loader,Core loader,Core loader assembly change,1:50,2:02,0.2,B/D,Mechanical,,Skt Metal,Core Loader Changing & Center Alignment
+614,Core ring ,Core ring ,Core ring change,1:00,1:10,0.17,B/D,Mechanical,,Burst Socket,Core Loader Changing & Core ring compression check
+615,Core loader,Core loader,Core loader centering ,2:35,2:50,0.25,B/D,Mechanical,,No Record,
+616,PTT,PTT,PTT rope change,11:50,12:30,0.67,B/D,Mechanical,,PTT Rope got cut due to stuck with guide Channel,Ptt Rope Changed & Wooden piece placed near channel area
+617,Shut Down,Shut Down,Shut Down,7:30,18:27,10.95,Shut Down,Management,,,
+618,Extractor,Extractor,Extractor jaw clossing prob,3:25,3:35,0.17,B/D,Mechanical,,No Record,
+619,Core loader,Core loader,Core loader centering & change,5:15,5:45,0.5,B/D,Mechanical,,No Record,
+620,Shut Down,Shut Down,Shut Down,8:00,18:23,10.38,Shut Down,Management,,,
+621,Shut Down,Shut Down,Shut Down +SIZE CHANGE,8:00,18:23,10.38,Shut Down,Management,,,
+622,Core ring ,Core ring ,Core ring open out,0:28,0:43,0.25,B/D,Mechanical,,Housing & bearing shaft came out,Core Loader Assembly change
+623,Core ring ,Core ring ,Core ring change,2:05,2:45,0.67,B/D,Mechanical,,Core Burst ,Core Loader Changed & core ringcenter alignment adjusting 
+624,Shut Down,Shut Down,Shut Down,8:00,18:23,10.38,Shut Down,Management,,,
+625,Shut Down,Shut Down,Shut Down,8:00,18:23,10.38,Shut Down,Management,,,
+626,PTT,PTT,PTT prob ,22:22,22:50,0.47,B/D,Mechanical,,Non-drive end double pulley rope slip,Rope repositioning 
+627,MTC ,MTC ,MTC gland bolt tighting & trough shifting cylinder lock pin fixing ,17:00,18:12,1.2,B/D,Mechanical,,MTC Gland,MTC gland Tight Work done & Sleeve Change
+628,trough,trough,trough supporting roller change ,16:45,18:00,1.25,B/D,Mechanical,,B-side trough supporting roller body metal stick,Roller Body Grinded & clamped tight
+629,CCM,CCM,under mechanical,11:12,11:38,0.43,B/D,Mechanical,,Diabola Derial & one flat wheel open out,Diabola Positioning and wheel fitted tight
+630,trough,trough,B side trough roller change+ core loader centering,16:30,16:55,0.42,B/D,Mechanical,,Roller Change (During Mould Change) ,B side trough roller change and core loader centering
+631,Mould,Mould,mould rotation stop after skt.filling -huge metal stick under the A ,6:32,7:00,0.47,B/D,Mechanical,,No Record,
+632,Mould,Mould,Mould change due to metal stick,7:10,8:35,1.42,B/D,Mechanical,,No Record,
+633,Mould,Mould,mould change due to mould vibration & skt side water leakage ,13:15,15:58,2.72,B/D,Mechanical,,Mould Vibration & Skt Water leakage,Sleeve Changed
+634,metal,metal,spt side metal guard prob,20:27,20:57,0.5,B/D,Mechanical,,Spt Jam due to Extra Metal deposit,Metal Cleaning and Guard fixing 
+635,Core loader,Core loader,Core loader centering check,4:49,4:55,0.1,B/D,Mechanical,,Skt Metal Fly,Core Loader centering
+636,Core loader,Core loader,Core loader ring change ,9:15,9:30,0.25,B/D,Mechanical,,Core Curst,Core Loader unit Change
+637,Dial gauge ,Dial gauge ,Dial gauge checking ,9:48,10:05,0.28,B/D,Mechanical,,No Record,
+638,Dial gauge ,Dial gauge ,Dial gauge checking ,11:18,11:54,0.6,B/D,Mechanical,,Thickness Variation,One stud bolt change dial Reduced at both ends
+639,Mould,Mould,Mould change due to water leakage from spt side ,17:45,19:10,1.42,B/D,Mechanical,,Spt side Water Leakage,Mould Change
+640,PTT,PTT,PTT prob ,22:56,23:11,0.25,B/D,Mechanical,,PTT stapping at any position as its double pulley in non-drive area was found jam,Non-drive area cleaned
+641,,,,,,,,,,,
+642,Mould,Mould,mould sleeve open out -spt side metal cleaned,9:50,10:30,0.67,B/D,Mechanical,,Spt Metal Jam,Metal Cleaned
+643,Mould,Mould,spt side metal guard cutting,10:30,11:00,0.5,B/D,Mechanical,,Spt Metal Guard Bend,metal Cutting 
+644,Core loader,Core loader,Core loader housing change ,7:44,7:54,0.17,B/D,Mechanical,,Core Loader Spring Broken,Core Loader Changed
+645,Mould,Mould,Mould change due to skt side water leakage ,16:09,17:29,1.33,B/D,Mechanical,,Head Bearing No6 V-Seal Water Leakage ,Sleeve Changed
+646,trough,trough,B side trough supporting roller change ,6:20,7:00,0.67,B/D,Mechanical,,B side trough supporting roller bracket guide shaft bend,Trough supporting roller change
+647,Core loader/extractor,Core loader/extractor,Core loader/extractor centering check,7:00,7:30,0.5,B/D,Mechanical,,No Record,
+648,Core loader,Core loader,Core loader centering done,8:17,8:27,0.17,B/D,Mechanical,,Pipe Socket fringes coming,Core loader compression Increased
+649,Core loader,Core loader,Core loader centering done,11:18,11:29,0.18,B/D,Mechanical,,Core loader ring broken,Core loader change
+650,Mould,Mould,head bearing open out from mould sleeve + V belt open out ,20:26,22:40,2.23,B/D,Mechanical,,Head Bearing No4 Came Out with Outer Race,Sleeve Changed
+651,Core loader,Core loader,Core loader centering out ,7:33,8:00,0.45,B/D,Mechanical,,Core Burst due to centering Problem,Core Loader Centering Done
+652,Core loader,Core loader,Core loader centering prob ,3:40,4:10,0.5,B/D,Mechanical,,Core Burst due to centering Problem,Core Loader Changed and Centered
+653,Dial gauge ,Dial gauge ,Dial gauge checking ,7:20,7:55,0.58,B/D,Mechanical,,No Record,
+654,flag gate ,flag gate ,flag gate adjustment,18:35,18:55,0.33,B/D,Mechanical,,No Record,
+655,Core loader,Core loader,Core loader shaft & ring change,0:08,0:20,0.2,B/D,Mechanical,,Core Loader Housing Shaft got bend,Core Loader Changed
+656,Mould,Mould,water leakage from skt side,2:40,4:30,1.83,B/D,Mechanical,,Water Leakage from Head Bearing V-Seal,V-Seal Changed and Center Plate Refitted with dial 0.3mm (Spare Skt Dial 0.25mm)
+657,Core loader,Core loader,Core loader centering check,4:55,5:30,0.58,B/D,Mechanical,,No Record,
+658,trough,trough,trough shifting lock pin broken,21:15,22:20,1.08,B/D,Mechanical,,Trough Shifting Channel Broken,Channel Repositioning and full wending work done
+659,Core loader,Core loader,Core loader allingment,9:12,9:20,0.13,B/D,Mechanical,,No Record,
+660,Core loader,Core loader,Core loader centering check,22:00,22:07,0.12,B/D,Mechanical,,No Record,
+661,uli unit,uli unit,dry uli dropping prob,0:12,0:18,0.1,B/D,Mechanical,,Dry Powder Feed Problem from Tank,Tank Nozzle Flange Open and Cleaned
+662,Core loader,Core loader,Core loader housing change ,7:06,7:40,0.57,B/D,Mechanical,,Pipe face sand sticking,Core loader change (centering & compression set at 14mm)
+663,Mould,Mould,water leakage from skt side,18:55,20:40,1.75,B/D,Mechanical,,Head Bearing V-Seal Damage,Seal Changing & Extractor centering work done
+664,Mould,Mould,skt side water leakage from head bearing V seal,7:15,8:30,1.25,B/D,Mechanical,,Head Bearing No3 V-Seal Water Leakage,Seal Changed
+665,,,,,,,,,,,
+666,CCM,CCM,m/c stop during casting time,19:20,19:25,0.08,B/D,Mechanical,,No Record,
+667,Core loader,Core loader,Core loader ring change ,18:40,18:50,0.17,B/D,Mechanical,,Core Loader - Socket Metal,Core Loader Changed
+668,extractor,extractor,Extractor jaw open & clossing prob,11:55,12:30,0.58,B/D,Mechanical,,Extractor Closing Problem,Extractor Changed
+669,PTT,PTT,PTT b/d,20:15,21:33,1.3,B/D,Mechanical,,PTT Rope was getting Jam at Load Cell Rail,Rail Grinded & PTT Speed Increased
+670,extractor,extractor,extractor stopper broken,22:55,23:13,0.3,B/D,Mechanical,,Extractor Pipe Stopper Broken,Welding Done
+671,trough,trough,A side trough shifting prob ,19:10,19:45,0.58,B/D,Mechanical,,Trough shifting problem due to metal Jam,Metal Jam Cleaned
+672,Mould,Mould,O ring not fixing in sleeve,12:40,13:40,1,B/D,Mechanical,,No Record,
+673,core ring ,core ring ,core ring change,1:42,1:52,0.17,B/D,Mechanical,,Core Loader Housing back after damage,Housing Change
+674,drawn pipe removal,drawn pipe removal,drawn pipe removal,22:20,22:35,0.25,B/D,Mechanical,,No Record,
+675,trough,trough,b side trough guide roller welding ,1:50,2:00,0.17,B/D,Mechanical,,No Record,
+676,Core loader,Core loader,Core loader change,21:25,21:38,0.22,B/D,Mechanical,,No Record,
+677,core ring ,core ring ,core ring change,23:36,0:00,0.4,B/D,Mechanical,,Core Burst due to core loader,Core Loader Change with compression 13mm set 
+678,Mould,Mould,v seal water leakage,15:29,16:59,1.5,B/D,Mechanical,,Water leakage from V-Seal (DN 200-300 Head Bearing),V-Seal with Plate Change on same mould
+679,CCM,CCM,sand stick prob & core brust prob ,1:59,3:29,1.5,B/D,Mechanical,,Pipe Face Sand Sticking,core ring changed (with compression increased to 15mm from 13mm which was done initially but problem was not solved) and found OK in trial
+680,CCM,CCM,core brust prob ,5:06,5:26,0.33,B/D,Mechanical,,No Record,
+681,fallchute ,fallchute ,spt side metal chute broken & open out ,15:35,16:20,0.75,B/D,operation,,No Record,
+682,Mould,Mould,water leakage from skt side,14:42,15:19,0.62,B/D,Mechanical,,Water leakage from spt mould seal,Spt seal changed & Spt plate changed(due to high pressing)
+683,extractor,extractor,extractor change,23:50,0:30,0.67,B/D,Mechanical,,Extractor sliding key (3 Nos) found broken during Sleeve Change,Extractor Changed
+684,Mould,Mould,spt side head bearing water leakage,7:20,9:10,1.83,B/D,Mechanical,,V-Seal Damage,V-Seal Change on same mould
+685,Mould,Mould,water leakage from skt side,18:16,18:30,0.23,B/D,Mechanical,,No Record,
+686,Mould,Mould,mould rotation prob,23:40,0:00,0.33,B/D,Mechanical,,Mould Rotation Jam (DN200),Mould rotated by Sponer in opposite direction and found OK in trial
+687,PTT,PTT,PTT rope change,8:40,9:00,0.33,B/D,Mechanical,,No Record,
+688,core loader,core loader,Core loader housing change ,12:30,12:40,0.17,B/D,Mechanical,,No Record,
+689,CCM,CCM,core brust prob ,16:12,16:40,0.47,B/D,Mechanical,,Skt Metal Fly (due to problem in new core ring),Core Loader new ring replaced with spare and compression increased to 17mm
+690,core loader,core loader,Core loader centering done ,5:15,5:32,0.28,B/D,Mechanical,,No Record,
+691,extractor,extractor,extractor jaw change,20:25,21:06,0.68,B/D,Mechanical,,Extractor not open/close at 6kg Pressure,Extractor change 
+692,Mould,Mould,water leakage from skt side,9:28,10:24,0.93,B/D,Mechanical,,Water Leakage due to Seal Damage by Metal Jam,New Seal Change
+693,Mould,Mould,water leakage from skt side,13:46,13:55,0.15,B/D,Mechanical,,No Record,
+694,Mould,Mould,mould change due to spt side water leakage ,18:35,19:34,0.98,B/D,Mechanical,,,
+695,Core loader,Core loader,Core loader centering done ,8:18,8:28,0.17,B/D,Mechanical,,No Record,
+696,Core loader,Core loader,Core loader centering done ,11:51,12:10,0.32,B/D,Mechanical,,Core Burst,Core ring changed & center alignment done; (1:28pm to 1:48pm) Compression decreased from 10mm to 8mm
+697,dial gauge ,dial gauge ,dial gauge check,21:08,21:12,0.07,B/D,Mechanical,,Core Broken After Mould Change,Housing Changed & centering done (compression set from 11mm to 5mm)
+698,Mould,Mould,Mould vibration,22:32,23:29,0.95,B/D,Mechanical,,Mould Vibration,"Socket Side dial found .8mm so, all bolt tight and found .4mm (Then Alignment check & found ok)"
+699,uli unit,uli unit,uli powder volume prob,4:42,5:00,0.3,B/D,Mechanical,,No Record,
+700,extractor,extractor,extractor change,10:40,12:20,1.67,B/D,Mechanical,,Socket Crack in 15 pipes as Extractor was going inside barrel,Privious Extractor fitted and then started
+701,Mould,Mould,mould rpm prob,15:10,15:30,0.33,B/D,Mechanical,,Mould Rotation Jam,Rotate by Crane and RPM increase then OK
+702,Core loader/extractor,Core loader/extractor,Core loader/extractor centering check,20:20,21:05,0.75,B/D,Mechanical,,Mould Rotation Jam,"Sleeve Change & Extractor Remove, Extractor mounting flange middle position 10 um, packing flange fitted open 166um, limit set Jaw pressure 3.5kg/cm^2"
+703,extractor,extractor,extractor jaw closing prob,2:09,2:13,0.07,B/D,Mechanical,,No Record,
+704,trough,trough,B side trough pressing roller change ,2:25,2:39,0.23,B/D,Mechanical,,No Record,
+705,uli unit,uli unit,dry uli dropping prob,13:20,15:00,1.67,B/D,Mechanical,,Powder Quantity Variation at tank outlet,Tank Cleaning
+706,CCM,CCM,core brust prob ,22:39,22:52,0.22,B/D,Mechanical,,Core Burst,"Core ring center checking and compression adjusting work done (Before 14mm, After 9mm, Core Load 3.45kN)"
+707,dial gauge ,dial gauge ,dial gauge check,1:18,1:26,0.13,B/D,Mechanical,,No Record,
+708,trough,trough,trough pressing roller change,1:16,1:22,0.1,B/D,Mechanical,,No Record,
+709,Core loader,Core loader,Core loader centering done ,12:56,13:01,0.08,B/D,Mechanical,,No Record,
+710,Mould,Mould,Mould change due to mould rotation ,20:24,21:34,1.17,B/D,Mechanical,,Sl-3 DN150 Mould Rotation Jam,Sleeve Changing Work Done
+711,Core loader,Core loader,Core loader allingment,10:35,10:50,0.25,B/D,Mechanical,,No Record,
+712,trough,trough,B side trough supporting  roller change,1:53,2:33,0.67,B/D,Mechanical,,B side Trough supporting roller Jam,Roller Changing Work Done
+713,trough,trough,B side trough pressing roller change ,0:08,0:25,0.28,B/D,Mechanical,,No Record,
+714,Core loader,Core loader,Core loader centering done ,10:36,10:50,0.23,B/D,Mechanical,,,
+715,trough,trough,B side trough tilting prob,17:50,18:00,0.17,B/D,Mechanical,,,
+716,Core loader,Core loader,Core loader centering done & core ring change ,1:55,2:35,0.67,B/D,Mechanical,,,
+717,trough,trough,b side trough hydrulic oil leakage,11:00,11:50,0.83,B/D,Mechanical,,,
+718,trough,trough,trough supporting roller change ,1:40,2:00,0.33,B/D,Mechanical,,,
+719,trough,trough,B side trough centering done ,2:10,2:40,0.5,B/D,operation,,,
+720,Core loader,Core loader,Core loader compressure adjustment,16:40,17:10,0.5,B/D,Mechanical,,,
+721,PTT,PTT,PTT rope change+ mould change,8:40,9:25,0.75,B/D,Mechanical,,,
+722,flag gate ,flag gate ,flag gate adjustment,18:15,18:28,0.22,B/D,Mechanical,,,
+723,Core loader,Core loader,Core loader spring broken ,4:20,4:45,0.42,B/D,Mechanical,,,
+724,extractor,extractor,extractor jaw clossing prob,18:30,18:42,0.2,B/D,Mechanical,,,
+725,trough,trough,B side trough supporting roller change ,8:15,8:24,0.15,B/D,Mechanical,,,
+726,Core loader,Core loader,Core loader centering check,2:00,2:30,0.5,B/D,Mechanical,,,
+727,trough,trough,A side trough supporting roller change ,6:31,6:55,0.4,B/D,Mechanical,,,
+728,PTT,PTT,PTT prob,6:00,6:32,0.53,B/D,Mechanical,,,
+729,PTT,PTT,PTT movement prob ,9:35,10:46,1.18,B/D,Mechanical,,,
+730,MTC,MTC,Mtc gland tight ,11:20,11:42,0.37,B/D,Mechanical,,MTC Gland Leakage,Gland tightened & leakage controlled
+731,CCM,CCM,core brust prob ,9:45,10:20,0.58,B/D,Mechanical,,Core Burst,Housing Changed & compression changed from 13mm to 15mm
+732,CCM,CCM,V belt change ,16:30,17:17,0.78,B/D,Mechanical,,No Record,
+733,pump,pump,hydrulic pressure down due to 5no pump pressure fault,12:50,15:00,2.17,B/D,Mechanical,,Pump pressure down Problem,Relief Valve Change & pressure setting done
+734,Core loader,Core loader,Core loader hydrulic oil hose leakage ,20:24,20:38,0.23,B/D,Mechanical,,Core loader cylinder A-port Hose burst,Hose Changed
+735,trough,trough,A side tilting hose pipe leakage ,18:45,20:05,1.33,B/D,Mechanical,,A-side trough tilting bottom port hose burst,Hose change (Not matching properly so plate cutting & another hose fitting)
+736,Extractor,Extractor,Extractor prob,7:50,8:50,1,B/D,Mechanical,,Extractor not opening (Shaft Bend),Extractor changed & aligned
+737,Core loader,Core loader,Core loader change ,19:28,19:35,0.12,B/D,Mechanical,,,
+738,Trough,Trough,Runner bogie shifting prob ,22:44,23:47,1.05,B/D,Mechanical,,,
+739,PTT,PTT,PTT stricker plate welding ,21:30,22:03,0.55,B/D,Mechanical,,,
+740,Extractor,Extractor,Extractor centering done ,16:30,17:00,0.5,B/D,Mechanical,,,
+741,Extractor,Extractor,Extractor change,14:00,16:10,2.17,B/D,Mechanical,,Extractor not Working due to Extractor Pushing Rod Problem,Changed and Extractor Centering done
+742,Uli unit,Uli unit,dry uli dropping prob ,16:25,16:50,0.42,B/D,Mechanical,,,
+743,Core loader,Core loader,Core loader centering done,15:54,16:00,0.1,B/D,Mechanical,,,
+744,Extractor,Extractor,Extractor centering prob ,0:10,0:20,0.17,B/D,Mechanical,,,
+745,core ring ,core ring ,core ring centering done ,18:15,18:18,0.05,B/D,Mechanical,,,
+746,MTC ,MTC ,MTC guard tighting & extractor centering ,19:00,19:43,0.72,B/D,Mechanical,,,
+747,trough ,trough ,trough shifting prob ,8:27,9:00,0.55,B/D,Mechanical,,,
+748,Mould,Mould,water leakage from spt side ,13:42,15:20,1.63,B/D,Mechanical,,Spt side water leakage as Taper plate O-Ring was damaged ,O-Ring Changed
+749,Extractor,Extractor,Extractor center out ,6:58,7:46,0.8,B/D,Mechanical,,Extractor Barrel Bend,Extractor changed & aligned
+750,trough ,trough ,b side trough supporting roller change ,11:53,12:17,0.4,B/D,Mechanical,,B-side trough supporting roller Jam,Roller Change
+751,Mould,Mould,water leakage from spt side ,7:22,8:06,0.73,B/D,Mechanical,,,
+752,CCM,CCM,m/c under mechanical due to pipe drawn prob,13:12,17:05,3.88,B/D,Mechanical,,Skt B-side Wheel Bearing Flat,Wheel Change (1 hr)
+753,trough ,trough ,b side trough supporting roller change ,6:00,6:30,0.5,B/D,Mechanical,,B-side trough supporting roller Jam,Roller Change
+754,Core Loader,Core Loader,m/c stop due to core brust prob ,2:30,3:20,0.83,B/D,Mechanical,,Core Burst,Core Loader Bearing Housing Changed & compression set to 14mm
+755,Core loader/extractor,Core loader/extractor,Core loader/extractor centering change ,12:55,13:30,0.58,B/D,Mechanical,,,
+756,Core Loader,core ring ,core ring change,1:45,2:10,0.42,B/D,Mechanical,,,
+757,Core loader,Core loader,Core loader centering done,23:12,23:30,0.3,B/D,Mechanical,,Core Burst as core touched at top position,"Core Height raised by 3mm, compression 15mm & Trial OK"
+758,Mould,Mould,water leakage from spt side ,0:25,0:50,0.42,B/D,Mechanical,,,
+759,Core loader,Core loader,Core loader spring broken,2:20,2:31,0.18,B/D,Mechanical,,Core Loader spring broken while running,Core Loder Changed
+760,Mould,Mould,mould rotation jam ,23:55,0:10,0.25,B/D,Mechanical,,Mould Rotation Stop due to roller problem,All Top rotation roller release but still no rotation so Skt end bottom roller minnor release and then trial OK
+761,Mould,Mould,mould rotation jam ,0:25,1:50,1.42,B/D,Mechanical,, Mould rotation Jam due to Spt top roller Plate,Sleeve Change
+762,Core loader,Core loader,Core loader prob & core ring change ,2:34,3:27,0.88,B/D,Mechanical,,Core Burst due to core loader problem,Core loader unit changed then core brooken so again core loader unit changed with alignment then trial OK (compression 17mm)
+763,Core Loader,core ring ,core ring spring broken,17:50,18:08,0.3,B/D,Mechanical,,,
+764,Core loader,Core loader,Core loader centering done,3:58,4:07,0.15,B/D,Mechanical,,,
+765,Core loader,Core loader,Core loader centering done,6:00,6:25,0.42,B/D,Mechanical,,,
+766,Core loader,Core loader,Core loader centering done,9:00,10:45,1.75,B/D,Mechanical,,,
+767,Core Loader,Core loader,m/c stop due to core brust prob ,8:00,9:00,1,B/D,Mechanical,,,
+768,Core loader,Core loader,Core loader centering done,13:38,14:26,0.8,B/D,Mechanical,,Core Burst due to centre alignment problem ,Core Loader centre alignment work done
+769,Core loader,Core loader,Core loader centering done,0:56,1:12,0.27,B/D,Mechanical,,,
+770,Core loader,Core loader,Core loader centering done,7:45,7:55,0.17,B/D,Mechanical,,,
+771,Core loader,Core loader,Core loader centering done,1:46,1:51,0.08,B/D,Mechanical,,,
+772,trough ,trough ,A side trough pressing roller change,23:07,23:12,0.08,B/D,Mechanical,,,
+773,Flag gate ,Flag gate ,Flag gate hydrulic oil leakage ,9:28,9:44,0.27,B/D,Mechanical,,Skt side Flag gate cylinder Hose damaged,Hose Changed
+774,Core loader,Core loader,Core loader centering done,6:40,7:40,1,B/D,Mechanical,,Core Burst due to Core loader Compression Problem,Compression set to 15 mm and trial OK
+775,Core loader,Core loader,Core loader centering done,22:50,23:20,0.5,B/D,Mechanical,,,
+776,sector ladle ,sector ladle ,sector ladle cam roller not rotating ,3:00,3:25,0.42,B/D,Mechanical,,Sector Ladle cam roller Jam due to Roller touch with Arm one side ,Roller set to middle position and trial taken OK
+777,Core Loader,core ring ,core ring allignment ,12:45,13:05,0.33,B/D,Mechanical,,,
+778,PTT,PTT,PTT trolley wheel change ,1:35,2:47,1.2,B/D,Mechanical,,Skt PTT Wheel Jam,PTT Wheel Assembly changed
+779,Flag gate ,Flag gate ,Flag gate hose change due to hydrulic oil leakage,14:07,14:14,0.12,B/D,Mechanical,,Skt side Flag Gate B-port Hose Oil Leakage,Hose Changed
+780,Mould,Mould,mould rotation jam ,15:45,16:13,0.47,B/D,Mechanical,,Mould Rotation Jam due to Skt Top roller damage,Skt Top roller release and M/C running (Pipe thickness variation of 1mm)
+781,Mould,Mould,mould change due to c/b prob & head bearing damage ,22:58,1:18,2.33,B/D,Mechanical,,Core Burst due to Head bearing rotating Problem,Sleeve changed with coreloader & Extractor centering check OK
+782,Mould,Mould,mould vibration,4:50,6:00,1.17,B/D,Mechanical,,Mould Vibration due to Roller Damage ,Sleeve Change
+783,extractor,extractor,Extractor striker plate broken,15:00,15:37,0.62,B/D,Mechanical,,Extractor pipe stopper plate welding broken,Stopper plate positioned & welded
+784,Core loader,Core loader,core brust due to core loader centering out ,17:45,18:17,0.53,B/D,Mechanical,,Core Burst due to alignment problem,Hinge position welding with core loader change
+785,sector ladle ,sector ladle ,sector ladle limit prob (cylinder open ),22:59,1:42,2.72,B/D,Mechanical,,,
+786,Core loader,Core loader,core brust due to core loader centering out ,4:45,5:16,0.52,B/D,Mechanical,,Core Burst due to Core loader Compression Problem,Compression changed from 15mm to 8 mm
+787,Core loader,Core loader,Core loader centering prob,23:50,1:33,1.72,B/D,Mechanical,,,
+788,dial gauge,dial gauge,dial gauge checking,8:00,8:15,0.25,B/D,Mechanical,,,
+789,Mould,Mould,mould change due to mould rotation stop,3:05,4:30,1.42,B/D,Mechanical,,Mould Vibration due to Rotation Jam,Sleeve Change
+790,Core Loader,Core Loader,Core loader/extractor centering change ,4:30,4:50,0.33,B/D,Mechanical,,,
+791,trough ,trough ,A side trough supporting roller change,1:20,2:05,0.75,B/D,Mechanical,,A-side Trough supporting Roller Bearing Jam,Old Roller removing & new roller fixing
+792,Mould,Mould,spt side water leakage O ring change,2:40,3:15,0.58,B/D,Mechanical,,Spt side Mould Seal Damage,Mould Seal Changed
+793,ccm,ccm,top roller change ,13:14,16:05,2.85,B/D,Mechanical,,Pipe drawn (900mm from Spt) as middle top roller was damaged,Roller Changed and Mould Set
+794,trough ,trough ,B side trough tilting hydrulic oil leakage ,15:53,16:35,0.7,B/D,Mechanical,,,
+795,trough ,trough ,trough shifting hose change,1:00,1:50,0.83,B/D,Mechanical,,,
+796,extractor,extractor,extractor,3:00,3:25,0.42,B/D,Mechanical,,Extractor Center Out,Extractor centering done
+797,ccm,ccm,casting time variation,13:12,13:22,0.17,B/D,Mechanical,,,
+798,Core loader,Core loader,Core loader centering done,2:15,2:25,0.17,B/D,Mechanical,,,
+799,MTC,MTC,casting time variation,11:30,13:08,1.63,B/D,Mechanical,,,
+800,Core loader,Core loader,Core loader change ,22:59,23:04,0.08,B/D,Mechanical,,Core Loader Spring Broken,Core Loader Changed
+801,trough ,trough ,A side trough pressing roller change,7:10,7:40,0.5,B/D,Mechanical,,,
+802,trough ,trough ,A side trough pressing roller change,5:00,5:30,0.5,B/D,Mechanical,,,
+803,Core loader,Core loader,Core loader allingment ,21:15,22:30,1.25,B/D,Mechanical,,Core Burst due to Core Loader Problem,Core Loader centered & compression set
+804,extractor,extractor,extractor change & mtc gland tight,10:45,11:40,0.92,B/D,Mechanical,,Extractor jaw Opening Problem,Extractor Change with centering
+805,PTT,PTT,PTT trolley attachment broken ,0:40,1:50,1.17,B/D,Mechanical,,PTT was not moving at Gantry End as PTT frame at Skt end broken from Joint End,PTT Frame rewelded at broken area & PTT-Flaggate height adjusted
+806,dial gauge,dial gauge,dial gauge checking,18:55,19:02,0.12,B/D,Mechanical,,,
+807,Extractor,extractor,Core loader/extractor centering change ,15:32,16:25,0.88,B/D,Mechanical,,Extractor Center Out after Mould Change,Extractor Centering done
+808,core ring ,core ring ,core ring change,5:55,6:00,0.08,B/D,Mechanical,,,
+809,Core loader,Core loader,Core loader centering done,19:35,20:10,0.58,B/D,Mechanical,,,
+810,core ring ,core ring ,core ring change,7:58,8:15,0.28,B/D,Mechanical,,Core Burst due to loose Housing,Core Loader Centering & locking (Comp. 10mm)
+811,Mould,Mould,water leakage from spt side ,7:00,7:15,0.25,B/D,Mechanical,,Spt Seal Water leakage,New Seal fitted & leak arrested
+812,Mould,Mould,water leakage from spt side ,6:30,6:35,0.08,B/D,Mechanical,,,
+813,ccm,ccm,pressing roller variation ,11:55,14:26,2.52,B/D,Mechanical,,,
+814,extractor,extractor,extractor drag chain b/d,4:10,5:10,1,B/D,Mechanical,,,
+815,extractor,extractor,extractor centering check,18:08,18:53,0.75,B/D,Mechanical,,,
+816,trough ,trough ,A side trough supporting roller change,1:13,1:36,0.38,B/D,Mechanical,,,
+817,core ring ,core ring ,core ring change,6:00,6:15,0.25,B/D,Mechanical,,,
+818,Mould,Mould,Mould change due to skt drawn prob ,2:00,3:39,1.65,B/D,Mechanical,,,
+819,ccm,ccm,fly guard welding ,14:00,16:12,2.2,B/D,Mechanical,,,
+820,MTC ,MTC ,MTC gland tightning & core loader centering ,9:45,10:35,0.83,B/D,Mechanical,,,
+821,Core loader,Core loader,Core loader centering done,12:18,12:25,0.12,B/D,Mechanical,,,
+822,Core loader,Core loader,Core loader spring broken,5:33,5:38,0.08,B/D,Mechanical,,,
+823,Scrap trolley ,Scrap trolley ,Scrap trolley pulley out ,17:25,21:21,3.93,B/D,Mechanical,,,
+824,dial gauge,dial gauge,dial gauge checking,20:52,21:03,0.18,B/D,Mechanical,,,
+825,extractor,extractor,extractor centering check,18:25,18:32,0.12,B/D,Mechanical,,,
+826,Mould,Mould,water leakage from spt side ,8:42,8:48,0.1,B/D,Mechanical,,,
+827,ccm,ccm,B side trough rail line welding,11:15,13:30,2.25,B/D,Mechanical,,Pipe Drawn as Bogie B-side Wheel no.4 minnor error,Both Wheel Aligned & then sleeve changed
+828,ccm,ccm,B side trough rail line welding,8:34,9:50,1.27,B/D,Mechanical,,Pipe Drawn as B-side rail jam position up & down ,Jam Position Welding
+829,ccm,ccm,m/c stop during casting time,7:55,10:58,3.05,B/D,Mechanical,,Bogie movement stop during casting due to Bogie Vibration,Scrap Plate welding (in front of all wheels) & MTC Gland Tightened
+830,Mould,Mould,seal change due to water leakage ,5:14,6:00,0.77,B/D,Mechanical,,Water leakage from SPT side as Round Seal got damaged sue to twisting ,Seal Changed
+831,Mould,Mould,Seal  change ,4:20,4:30,0.17,B/D,Mechanical,,,
+832,Mould,Mould,Seal  change ,4:45,4:50,0.08,B/D,Mechanical,,,
+833,trough ,trough ,trough recuting for centering ,7:50,8:15,0.42,B/D,Mechanical,,,
+834,Core loader ,Core loader ,Core loader spring broken,22:57,23:12,0.25,B/D,Mechanical,,,
+835,Mould,Mould,seal change due to water leakage ,6:00,6:35,0.58,B/D,Mechanical,,,
+836,extractor,extractor,extractor change,16:00,16:56,0.93,B/D,Mechanical,,,
+837,Core loader,Core loader,Core loader prob,3:55,3:59,0.07,B/D,Mechanical,,,
+838,PTT,PTT,PTT trolley rope prob,10:35,11:23,0.8,B/D,Mechanical,,PTT Rope Damage,Rope Changed
+839,MTC ,MTC ,MTC change ,8:50,14:00,5.17,B/D,Mechanical,,,
+840,Core loader,Core loader,Core loader centering done,6:25,6:43,0.3,B/D,Mechanical,,,
+841,ccm,ccm,m/c stop due to hose leakage ,6:45,6:54,0.15,B/D,Mechanical,,,
+842,Mould,Mould,water leakage from spt side ,19:25,19:35,0.17,B/D,Mechanical,,,
+843,core ring ,core ring ,core ring prob,0:35,0:40,0.08,B/D,Mechanical,,Core Loader Housing Open Out due to Bogie down Movement,Core Loader Centered & Checked
+844,pump ,pump ,hydrulic pump not work,22:00,22:38,0.63,B/D,Mechanical,,,
+845,Mould,Mould,mould rotation prob,23:10,0:11,1.02,B/D,Mechanical,,,
+846,MTC,MTC,m/c bogie down up position not slove,8:24,8:39,0.25,B/D,Mechanical,,,MTC Internal Leak Checking Work Done
+847,Core loader/extractor,Core loader/extractor,Core loader/extractor centering ,22:30,22:45,0.25,B/D,Mechanical,,,
+848,trough ,trough ,A side trough pressing roller change,5:15,5:30,0.25,B/D,Mechanical,,A-side Trough Pressing roller Jam,Roller Changed  
+849,diabola ,diabola ,diabola trolley derailed,2:15,3:35,1.33,B/D,Mechanical,,Diabola Trolley derailed as wheel nut was loose & limit swtich cable was damaged,"Trolley Placed, all wheel nut tightened & Elec. Cable repaired"
+850,MTC ,MTC ,MTC pin open out ,6:31,18:00,11.48,B/D,Mechanical,,Bogie not moving as MTC Eye Broken,MTC Changed
+851,ccm,ccm,pipe lifting prob ,18:00,18:18,0.3,B/D,Mechanical,,,
+852,trough ,trough ,A side trough supporting roller change,18:47,19:02,0.25,B/D,Mechanical,,A-side Trough supporting roller Jam,Roller Changed
+853,diabola ,diabola ,diabola cylinder change,17:50,18:55,1.08,B/D,Mechanical,,,
+854,Mould,Mould,water leakage from spt side ,13:40,14:25,0.75,B/D,Mechanical,,Spt Mould Seal Water Leakage,Seal remodeling work done
+855,Core Loader,Core Loader,C/B prob ,6:44,7:13,0.48,B/D,Mechanical,,,
+856,Core loader/extractor,Core loader/extractor,Core loader/extractor centering check,10:10,10:36,0.43,B/D,Mechanical,,,
+857,Core loader/extractor,Core loader/extractor,Core loader/extractor centering check,14:57,15:22,0.42,B/D,Mechanical,,Core burst due to DC motor vibrating with pulley as mounting stud nut was loose,Stud Nut tightened & core loader changed 
+858,Core loader/extractor,Core loader/extractor,Core loader/extractor centering check,14:33,14:37,0.07,B/D,Mechanical,,,Nut tightened & trial taken OK
+859,extractor,extractor,hydrulic oil leakage from hose,7:10,7:45,0.58,B/D,Mechanical,,Jaw Expansion A-port Hose Puncture,Hose Changed
+860,core ring ,core ring ,core ring centering done ,12:35,13:15,0.67,B/D,Mechanical,,Core Burst due to Core Breaking after Sleeve Change,Core Loader Changed & Aligned
+861,Mould,Mould,water leakage from spt side ,19:30,20:13,0.72,B/D,Mechanical,,Water Leakage from Mould Seal at Spt side as seal was damaged,Seal Changed
+862,Scrap trolley ,Scrap trolley ,Scrap trolley rope change,16:30,17:44,1.23,B/D,Mechanical,,,
+863,DC motor,DC motor,DC motor lifting jack broken ,5:45,6:00,0.25,B/D,Mechanical,,,
+864,Mould,Mould,water leakage from spt side ,13:30,14:20,0.83,B/D,Mechanical,,Spt water leakage due to Seal twist,Seal Changed
+865,Mould,Mould,O ring change,10:50,11:15,0.42,B/D,Mechanical,,,
+866,Mould,Mould,water leakage from spt side ,13:05,13:13,0.13,B/D,Mechanical,,,
+867,Flag gate,Flag gate,Flag gate prob,22:22,22:39,0.28,B/D,Mechanical,,,
+868,DC motor,DC motor,DC motor lifting jack broken ,6:00,7:36,1.6,B/D,Mechanical,,DC Motor Base Gearbox Broken,Gearbox with Screw Rod removed & sopport piece Welded
+869,DC motor,DC motor,DC motor V belt change ,22:25,22:50,0.42,B/D,Mechanical,,,
+870,Core loader,Core loader,Core loader spring broken,12:25,12:37,0.2,B/D ,Mechanical,,Core Loader Spring Broken,New Core Loader Spring Changing Work Done
+871,Core loader,Core loader,Core loader centering done + V belt change ,22:00,22:30,0.5,B/D ,Mechanical,,,
+872,CCM,CCM,UNDER MECHANICAL ,9:30,14:39,5.15,B/D ,Mechanical,,,
+873,Mould,Mould,mould change due to mould rotation jam ,21:30,23:10,1.67,B/D ,Mechanical,,Mould Rotation Jam,Sleeve Changed
+874,Core ring ,Core ring ,during casting time core ring diabola remove ,10:35,10:45,0.17,B/D ,Mechanical,,,
+875,Mould,Mould,water leakage from spt side ,0:12,0:19,0.12,B/D ,Mechanical,,,
+876,Mould,Mould,water leakage from spt side ,3:35,6:00,2.42,B/D ,Mechanical,,Spigot Sleeve pressing unit Head Broken,Sleeve pressing unit head was welded & grinded. During trial core was breaking so Core Loader changed.
+877,Core loader,Core loader,Core loader centering done ,8:42,8:50,0.13,B/D ,Mechanical,,,
+878,Flag gate,Flag gate,Flag gate height adjusment,2:46,3:13,0.45,B/D ,Mechanical,,,
+879,sector ladle ,sector ladle ,sector ladle lip broken & diabola derail,8:30,9:40,0.15,B/D ,Mechanical,,,
+880,Core loader,Core loader,Core loader centering done ,6:50,7:30,0.67,B/D ,Mechanical,,,
+881,Mould,Mould,water leakage from spt side ,6:00,7:55,1.92,B/D ,Mechanical,,Spigot Sleeve pressing unit Head Broken,Sleeve pressing unit head was welded & grinded. During trial core was breaking so Core Loader changed.
+882,CCM,CCM,m/c stop due to ccm-3 b/d,12:10,12:50,0.67,B/D ,Mechanical,,,
+883,Mould,Mould,mould vibration,12:40,14:35,1.92,B/D ,Mechanical,,Mould Vibration in Spigot side resulting in pipe thickness variation,"Dial chancked (1.2mm), Skt stud bolt damaged so Sleeve Changed & dial checked (0.3mm), DC Motor Cchanged due to Electrical BD"
+884,DC motor ,DC motor ,DC motor v belt change ,1:58,2:21,0.38,B/D ,Mechanical,,,
+885,Mould,Mould,water leakage from spt side ,4:05,5:00,0.92,B/D ,Mechanical,,Spigot Water Leakage from Mould Seal as seal lip was damaged,Seal Changed
+886,trough,trough,B side trough tilting prob ,14:15,14:30,0.25,B/D ,Mechanical,,B-side trough Trolley not tilting,DC valve operated manually but still not tilting so DC Valve Flow Increased
+887,Mould,Mould,water leakage from spt side ,0:22,0:31,0.15,B/D ,Mechanical,,,
+888,Mould,Mould,mould change due to spt side sleeve top roller change ,1:30,3:15,1.75,B/D ,Mechanical,,Mould Vibration due to side roller damage,Sleeve Changed
+889,Core ring ,Core ring ,Core ring change,16:31,16:40,0.15,B/D ,Mechanical,,Core Loader Spring Broken,Core Loader Changed
+890,Gantry ,Gantry ,plate welding gaantry tilting arm welding ,4:50,4:58,0.13,B/D ,Mechanical,,,
+891,Flag gate,Flag gate,Flag gate prob,5:40,6:00,0.33,B/D ,Mechanical,,Flag Gate Rope Broken,Rope Changed
+892,trough,trough,A side trough supporting roller change ,18:32,19:00,0.47,B/D ,Mechanical,,A-side trough supporting roller V-position one part flat,Roller Changed
+893,Mould,Mould,water leakage from spt side ,0:10,1:05,0.92,B/D ,Mechanical,,Spigot Seal leakage due to Seal lip damage,Seal changed as leakage didn't stopped from Scaling
+894,Mould,Mould,water leakage from spt side ,20:34,21:10,0.6,B/D ,Mechanical,,Spigot side water leakage due to seal damage,Seal Changed
+895,Mould,Mould,water leakage from spt side ,22:35,22:50,0.25,B/D ,Mechanical,,,
+896,trough,trough,A side trough tilting prob,8:25,8:34,0.15,B/D ,Mechanical,,,
+897,Mould,Mould,water leakage from spt side ,12:13,12:18,0.08,B/D ,Mechanical,,,
+898,Mould,Mould,Mould seal change,12:50,13:10,0.33,B/D ,Mechanical,,,
+899,pump ,pump ,pump no.3 ttrip ,16:35,16:50,0.25,B/D ,Mechanical,,,
+900,dial gauge ,dial gauge ,dial gauge check,19:41,19:51,0.17,B/D ,Mechanical,,,
+901,dial gauge ,dial gauge ,dial gauge check,1:10,1:25,0.25,B/D ,Mechanical,,,
+902,Mould,Mould,water leakage from spt side ,3:00,3:14,0.23,B/D ,Mechanical,,Spigot Mould Seal Water Leakage,Scaling & dummy seal fixing done
+903,trough,trough,A side trough pressing roller change ,2:38,2:47,0.15,B/D ,Mechanical,,,
+904,Mould,Mould,water leakage from spt side ,11:55,12:30,0.58,B/D ,Mechanical,,Spigot Seal water leakage due to lip cut cause of more pressing,Seal Changed
+905,PTT,PTT,PTT trolley b/d ,18:25,18:35,0.17,B/D ,Mechanical,,,
+906,Mould,Mould,water leakage from spt side ,17:20,18:00,0.67,B/D ,Mechanical,,,
+907,Core loader,Core loader,Core loader ring change ,20:57,21:12,0.25,B/D ,Mechanical,,,
+908,CCM,CCM,UNDER MECHANICAL ,7:50,8:10,0.33,B/D ,Mechanical,,,
+909,extractor ,extractor ,extractor jaw change ,10:12,11:15,1.05,B/D ,Mechanical,,Extractor Pipe Slippage,Extractor changed & aligned
+910,uli unit ,uli unit ,dry powder uli dropping prob,12:21,17:45,5.4,B/D ,Mechanical,,Dry Powder Feed Problem,Screw Changing work done with lock nut adjusted but not sloved so powder pipe loose nipple position hole decreased by washer welding 
+911,uli unit ,uli unit ,dry powder uli dropping prob,19:10,19:55,0.75,B/D ,Mechanical,,Dry Powder pipe hole position metal Jam ,Metal Cleaned & trial taken OK
+912,uli unit ,uli unit ,dry powder uli dropping prob,4:15,4:37,0.37,B/D ,Mechanical,,,
+913,uli unit ,uli unit ,dry powder uli dropping prob,5:10,6:00,0.83,B/D ,Mechanical,,Dry Powder Feed Problem,Screw feeder pipe line fitted and trial NOT OK so screw check nut adjusted and thread sleeve lock by welding & trial OK
+914,Mould,Mould,mould rpm prob (due to mould jam),7:45,8:10,0.42,B/D ,Mechanical,,Mould Rotation Jam due to DC Motor belt over tightening and found metal inside spigot seal,"Belt loose & metal cleaned, OK in trial "
+915,MTC ,MTC,MTC gland tight & core loader centring ,20:30,21:00,0.5,B/D ,Mechanical,,,
+916,core loader ,core loader ,core loader hydrulic hose leakge ,1:53,2:20,0.45,B/D ,Mechanical,,Core loader cylinder piston rod end side (B-port) hose got damaged resulting in oil leakage,Hose Changed
+917,Core loader,Core loader,Core loader centering done,9:24,9:29,0.08,B/D ,Mechanical,,,
+918,uli unit ,uli unit ,dry powder uli dropping prob,6:00,7:04,1.07,B/D ,Mechanical,,,
+919,trough,trough,B side trough supporting roller change ,0:25,0:50,0.42,B/D ,Mechanical,,,
+920,DC motor ,DC motor ,DC motor prob,11:40,12:40,1,B/D ,Mechanical,,,
+921,Flag gate,Flag gate,Flag gate hose piipe change ,19:58,20:04,0.1,B/D ,Mechanical,,Skt flag gate A-port Hose damaged,New Hose Changed
+922,screw feeder,screw feeder,screw feeder change,13:22,17:57,4.58,B/D ,Mechanical,,Dry Powder Screw feeder fluctuation,CCM-1 to CCM-5 changing work done and trial OK
+923,diabola ,diabola ,diabola shifting prob ,7:45,8:12,0.45,B/D ,Mechanical,,Diabola Trolley Movement Problem due to metal Jam,Metal Cleaned & trial taken OK
+924,diabola ,diabola ,diabola shifting prob ,10:39,10:51,0.2,B/D ,Mechanical,,,
+925,extractor jaw ,extractor jaw ,extractor jaw clossing prob,21:10,21:25,0.25,B/D ,Mechanical,,,
+926,Core loader,Core loader,Core loader change ,1:25,2:10,0.75,B/D ,Mechanical,,Socket Fly (1) & Core Burst (1),Core Loader Changed & Aligned (Compression 0.17mm)
+927,Core loader,Core loader,Core loader spring broken,15:53,15:59,0.1,B/D ,Mechanical,,,
+928,trough,trough,B side trough pressing roller change ,7:30,7:52,0.37,B/D ,Mechanical,,B-side Trough pressing cylinder eye open out,Cylinder with eye welding done & trial OK
+929,Core loader,Core loader,Core loader prob,3:05,3:32,0.45,B/D ,Mechanical,,Core ring with spring & shaft got out from its Housing,"Core Loader changed & centered (When core was rotated, DC motor back side screw stud was found totally loose so tightened)"
+930,Core Loader,Core Loader,Spring Broken,15:45,16:05,0.33,B/D ,Mechanical,,Core Loader Spring Broken,Core Loader changing work done
+931,Mould,Mould,water leakage from spt side ,3:13,3:30,0.28,B/D ,Mechanical,,,
+932,trough,trough,trough shifting area hydrulic pin open out ,3:30,4:50,1.33,B/D ,Mechanical,,Trough was not shifting from A to B side as locking Pin at A-side got out,Pin was Locked and trial OK
+933,DC motor ,DC motor ,DC motor rpm prob ,23:10,23:22,0.2,B/D ,Mechanical,,,
+934,Mould,Mould,water leakage from spt side ,3:28,4:08,0.67,B/D ,Mechanical,,Water Leakage from Spigot Mould Seal,Tried to arrest from scaling but failed so Seal changed (Metal Formation on the bottom tray got stuck to clamp plate which was cleaned)
+935,Core loader,Core loader,Core loader centering done,7:32,7:45,0.22,B/D ,Mechanical,,Core Burst ,Core Loader changed
+936,extractor jaw ,extractor jaw ,extractor jaw not properly open,10:48,11:15,0.45,B/D ,Mechanical,,,
+937,Mould,Mould,mould vibration,7:07,7:35,0.47,B/D ,Mechanical,,DN150 Sl-8 Vibration,Sleeve Change
+938,sector ladle ,sector ladle ,sector ladle full up after 1st pipe moving ,12:46,14:46,2,B/D ,Mechanical,,Sector Ladle not Down,"Hydraulic Check OK, Cam Roller Check OK, Hinge Metal Clean & trial taken OK"
+939,sector ladle ,sector ladle ,sector ladle valve change ,16:15,17:15,1,B/D ,Mechanical,,,
+940,Core loader,Core loader,Core loader housing change ,0:35,0:49,0.23,B/D ,Mechanical,,Core Loader Spring Broken,Core Loader Housing Changed
+941,Mould,Mould,water leakage from spt side ,1:08,1:13,0.08,B/D ,Mechanical,,,
+942,Core loader,Core loader,Core loader change ,8:14,8:22,0.13,B/D ,Mechanical,,Core Burst,Core Loader Change
+943,Mould,Mould,mould jam,22:00,22:45,0.75,B/D ,Mechanical,,Mould Rotation Jam due to Roller Damaged as Socket side Top Roller Clamp Plate Opened out ,Mould Rotated by Crane and then OK
+944,Core loader,Core loader,Core loader centering done,16:40,16:45,0.08,B/D ,Mechanical,,,
+945,Core loader,Core loader,Core loader change ,20:00,20:15,0.25,B/D ,Mechanical,,,
+946,Mould,Roller ,spt side top roller change & mould change ,13:05,15:49,2.73,B/D ,Mechanical,,,
+947,MTC,MTC,MTC change,7:35,7:55,0.33,B/D ,Mechanical,,,
+948,PTT,PTT,PTT stoper broken,12:30,12:40,0.17,B/D ,Mechanical,,,
+949,MTC,MTC,MTC gland tight ,12:50,13:05,0.25,B/D ,Mechanical,,,
+950,Hose pipe ,Hose pipe ,outlet hose pipe change ,8:50,10:05,1.25,B/D ,Mechanical,,,
+951,uli unit,uli unit,dry powder vibrator change ,15:42,15:52,0.17,B/D ,Mechanical,,,
+952,Core loader,Core loader,Core loader spring broken,15:48,15:56,0.13,B/D ,Mechanical,,Core Loader Spring Broken,Core Loader Changed & Aligned
+953,Core loader,Core loader,Core loader centering done,7:35,7:48,0.22,B/D ,Mechanical,,,
+954,Core loader,Core loader,Core loader spring broken,8:20,8:43,0.38,B/D ,Mechanical,,Core Loader Spring Broken,Core Loader Changed & Aligned
+955,trough,trough,B side trough roller prob ,7:58,8:12,0.23,B/D ,Mechanical,,B-side Supporting Roller Jam,Roller Changed
+956,Mould,Mould,mould rotation prob ,9:29,9:42,0.22,B/D ,Mechanical,,,
+957,core loader ,core loader ,Core loader ring change ,9:42,9:52,0.17,B/D ,Mechanical,,,
+958,Mould,Mould,mould rotation prob ,11:41,12:45,1.07,B/D ,Mechanical,,,
+959,trough,trough,B side trough supporting roller change ,2:00,2:40,0.67,B/D ,Mechanical,,B-side Trough Supporting Roller Jam,Roller Changed
+960,PTT,PTT,PTT rope tight ,15:18,15:22,0.07,B/D ,Mechanical,,,
+961,trough,trough,B side trough supporting roller change ,1:32,1:52,0.33,B/D ,Mechanical,,B-side Trough Supporting Roller Jam,Roller Changed
+962,Core Loader,Core Loader,C/B prob,6:10,6:20,0.17,B/D ,Mechanical,,,
+963,dial gauge ,dial gauge ,dial gauge check,22:45,22:57,0.2,B/D ,Mechanical,,,
+964,dial gauge ,dial gauge ,dial gauge check,23:02,23:08,0.1,B/D ,Mechanical,,,
+965,dial gauge ,dial gauge ,dial gauge check,23:50,23:55,0.08,B/D ,Mechanical,,Socket Thickness Variation by 1.5mm,Dial found 0.6mm & then set 0.4mm
+966,Core loader,Core loader,Core loader spring broken,2:45,3:00,0.25,B/D ,Mechanical,,Core Loader Spring Broken,Core Loader Changed & Aligned
+967,Core loader,Core loader,Core loader change ,20:55,21:07,0.2,B/D ,Mechanical,,,
+968,Mould,Mould,rotation off after skt filling ,3:28,3:55,0.45,B/D ,Mechanical,,Mould Rotation Jam in Auto Condition,Manually Rotated & Checked - Found OK
+969,CCM,CCM,hose pipe leakage,8:40,8:50,0.17,B/D ,Mechanical,,,
+970,Core loader,Core loader,Core loader spring broken,5:42,5:55,0.22,B/D ,Mechanical,,Core Loader Spring Broken,Core Loader Change
+971,Core loader,Core loader,Core loader ring change ,18:52,18:58,0.1,B/D ,Mechanical,,Core Loader Metal Fly as Spring Was Loose,Housing Changed
+972,Core loader,Core loader,Core loader centering done ,7:05,7:14,0.15,B/D ,Mechanical,,,
+973,Core loader,Core loader,Core loader ring change ,8:45,9:00,0.25,B/D ,Mechanical,,,Core Loader Changed
+974,Core loader,Core loader,Core loader ring change & centering done ,10:45,11:30,0.75,B/D ,Mechanical,,Core Loader Spring Broken,Core Loader Changed
+975,PTT,PTT,PTT movement prob,5:00,5:10,0.17,B/D ,Mechanical,,PTT Derail in Non-Drive Pulley Side due to Sand Jam in Rail,
+976,crane ,crane ,D crane b/d,3:55,6:00,2.08,B/D ,Mechanical,,,
+977,crane ,crane ,D crane b/d,3:18,5:11,1.88,B/D ,Mechanical,,,
+978,Core loader,Core loader,Core loader centering ,7:45,7:51,0.1,B/D ,Mechanical,,,
+979,trough,trough,B side trough tilting prob ,13:25,15:00,1.58,B/D ,Mechanical,,B-side Trough Tilting Cylinder was not working ,Washed with Water but Abnormal sound Coming while Rotating
+980,trough,trough,trough shifting chain prob,21:09,21:22,0.22,B/D ,Mechanical,,Trough Tilting Drag Chain Mounting Bolt Open Out,Drag Chain Positioned and new Bolt fitted. OK in Trial
+981,crane ,crane ,D crane b/d,3:35,5:05,1.5,B/D ,Mechanical,,Crane LT Movement Stop due to Wheel Jam,LT Wheel Change & both side Gearbox fit. OK in Trial
+982,trough,trough,A side trough tilting prob ,9:59,11:13,1.23,B/D ,Mechanical,,A-side Trough Tilting Cylinder was not Workig as broken box spanner got stuck between gear & spanner resulting in restriction of Rotation,Broken Box Spanner was removed & Gear washed off with air
+983,crane ,crane ,D crane b/d,3:28,5:09,1.68,B/D ,Mechanical,,,
+984,crane ,crane ,D crane b/d,3:21,5:42,2.35,B/D ,Mechanical,,,
+985,ULI,ULI,Pipe Line Broken,7:00,8:15,1.25,B/D ,Mechanical,,ULI Trough Powder Metalic pipe line for Air flow Broken,Welding Work Done
+986,Core loader,Core loader,Core loader centering done ,2:40,2:51,0.18,B/D ,Mechanical,,,
+987,Mould,Mould,water leakage from spt side ,3:30,4:00,0.5,B/D ,Mechanical,,,
+988,Mould,Mould,water leakage from spt side ,11:08,11:32,0.4,B/D ,Mechanical,,,
+989,Gantry ,Gantry ,Gantry arm hose pipe leakge,11:25,11:42,0.28,B/D ,Mechanical,,,
+990,Core loader,Core loader,Core loader centering done ,22:00,0:15,2.25,B/D ,Mechanical,,Roller Mounting Sqaure Block Welding Broken,"Grinding, Repositioning & Full Welding Work Done"
+991,Core loader,Core loader,Core loader not open during casting ,8:35,9:55,1.33,B/D ,Mechanical,,Core Loader Cylinder Was not Opening Out after Producing Pipe as DC Valve Coil wire burned due to oil leakage from Pressure Gauge as hot metal got contacted with Oil,Pressure Gauge & Wire Changed
+992,CCM,CCM,under mechanical,14:25,15:10,0.75,B/D ,Mechanical,,,
+993,Core loader,Core loader,Core loader unit change,14:15,14:28,0.22,B/D ,Mechanical,,,
+994,Mould,Mould,v seal water leakage ,9:00,10:32,1.53,B/D ,Mechanical,,Huge Water Leakage from HB V-Seal,"Sleeve Changed. Sl no -10 , due to v-seal came out from the seating area."
+995,Core loader,Core loader,Core loader solinoied valve prob,3:11,3:43,0.53,B/D ,Mechanical,,,
+996,Mould,Mould,Mould change due to spt side water leakage,0:27,2:07,1.67,B/D ,Mechanical,,,
+997,Mould,Mould,Mould change due to mould vibration,12:30,13:30,1,B/D ,Mechanical,,"Mould Vibration in Sleeve-9,mould no - 118",Sleeve Changed.vibration due to roller path damage in mould
+998,Mould,Mould,mould sleeve pressing prob ,13:30,14:16,0.77,B/D ,Mechanical,,,
+999,Core loader,Core loader,Core loader spring broken,6:00,6:29,0.48,B/D ,Mechanical,,,
+1000,Core loader,Core loader,Core loader centering done ,1:35,1:44,0.15,B/D ,Mechanical,,,
+1001,trough,trough,A side trough roller jaw adjustment ,23:00,23:30,0.5,B/D ,Mechanical,,,
+1002,Core loader,Core loader,"pipe falldown from sptside flaggate& core loader open out ,core ring change ",10:00,10:23,0.38,B/D ,Mechanical,,,
+1003,fallchute ,fallchute ,both side fallchute change ,10:00,11:10,1.17,B/D ,Mechanical,,,
+1004,Core loader,Core loader,Core loader spring broken,16:35,16:49,0.23,B/D ,Mechanical,,,
+1005,Core loader,Core loader,Core loader not work,21:06,21:16,0.17,B/D ,Mechanical,,Core Loader Cylinder Back side Pin Open Out,Cylinder Pin Fixing with locking done
+1006,trough,trough,B side trough supporting roller change +fall chute change ,19:00,19:58,0.97,B/D ,Mechanical,,,
+1007,Core loader,Core loader,Core loader prob,7:24,7:57,0.55,B/D ,Mechanical,,"Core Loader Cylinder Trunion Clamp Bolt Broken, cylinder Open Out","Broken Bolt removed, new trunion fitted & Clamp Welding work done"
+1008,Core loader,Core loader,Core ring spring broken ,8:32,8:49,0.28,B/D,Mechanical,,Core Loader Spring Broken,Core Loader Housing Changed
+1009,Core loader,Core loader,Core loader forward & backword prob ,10:55,11:40,0.75,B/D,Mechanical,,,
+1010,trough,trough,B side trough mould powder tube change ,16:54,17:10,0.27,B/D,Mechanical,,,
+1011,Mould,Mould,water leakage from V seal,16:27,21:53,5.43,B/D,Mechanical,,V-Seal Leakage (HB No-1),Sleeve Changed
+1012,trough,trough,b side trough tilting prob,14:40,21:15,6.58,B/D,Mechanical,,B-side Trough Tilting Metal Jam & also Bearing Plate Bolt Broken (14 Nos),Bearing Changing Work Done
+1013,trough,trough,B side trough stopper welding ,20:20,20:30,0.17,B/D,Mechanical,,,
+1014,Mould,Mould,Mould change,6:00,7:30,1.5,B/D,Mechanical,,"Water Leakage From V-Seal at Down Position (Sleeve No-1 , HB No-2)",Sleeve Changed
+1015,Mould,Mould,Mould change,8:12,11:28,3.27,B/D,Mechanical,,"Water Leakage from V-Seal after making 10 pipes (Sleeve No-2, HB No-1)",Sleeve Ready & Sleeve Changed
+1016,Mould,Mould,water leakage from spt side ,13:43,14:30,0.78,B/D,Mechanical,,,
+1017,trough,trough,A side trough pressing roller change,19:31,19:44,0.22,B/D,Mechanical,,,
+1018,trough,trough,spt side metal chute broken & trough shifting prob ,3:20,4:00,0.67,B/D,Mechanical,,,
+1019,trough,trough,A side fallchute guide plate broken ,0:25,1:20,0.92,B/D,Mechanical,,,
+1020,Extractor,Extractor,Extractor allignment,10:15,10:45,0.5,B/D,Mechanical,,,
+1021,uli unit,uli unit,A side trough dry uli tube change ,12:03,12:28,0.42,B/D,Mechanical,,,
+1022,Mould,Mould,water leakage from spt side ,14:35,16:18,1.72,B/D,Mechanical,,Spigot side Water Leakage due to rubber Square Washer Cutting,
+1023,trough,trough,B side fallchute change ,4:06,5:06,1,B/D,Mechanical,,,
+1024,Core loader,Core loader,Core loader spring broken,14:20,14:35,0.25,B/D,Mechanical,,,
+1025,trough,trough,A side trough F part jam,21:25,21:35,0.17,B/D,Mechanical,,,
+1026,CCM,Roller ,spt side roller change+mould change,16:05,17:50,1.75,B/D,Mechanical,,,
+1027,Mould,Mould,Mould vibration & thickness variation,1:52,2:32,0.67,B/D,Mechanical,,Mould Vibration (0.8mm thickness Variation Observed),Dial from 1mm to 0.3mm and Spt End Bolt Tightened 
+1028,Extractor,Extractor,Extractor movement very slow,11:15,11:35,0.33,B/D,Mechanical,,,
+1029,Uli unit,Uli unit,B side trough uli tube change ,1:45,2:25,0.67,B/D,Mechanical,,,
+1030,CCM,CCM,pipe lifting arm prob,11:45,12:09,0.4,B/D,Mechanical,,,
+1031,trough,trough,A side trough uli tube change ,22:45,22:50,0.08,B/D,Mechanical,,,
+1032,Core ring ,Core ring ,Core ring housing change,5:47,5:56,0.15,B/D,Mechanical,,,
+1033,Pump,Pump,All hydrulic pump off ,9:44,10:10,0.43,B/D,Mechanical,,,
+1034,Core Loader,Core Loader,M/C stop due to c/b prob,0:16,0:54,0.63,B/D,Mechanical,,Core burst (2 Times),Housing Changed & Aligned (Compression 0.16mm)
+1035,trough,trough,A side roller change,14:40,15:00,0.33,B/D,Mechanical,,,
+1036,trough,trough,scrap trolley shifting prob (CABLE change),22:00,23:19,1.32,B/D,Mechanical,,,
+1037,Mould,Mould,Mould vibration -mould sleeve change ,0:00,1:25,1.42,B/D,Mechanical,,Mould Vibration & Sleeve Middle Pressing Packing Flange Bolt loose,Sleeve Changed & middle Sleeve Packing Flange Allen Bolt Tightening & pressing done
+1038,Mould,Mould,Mould sleeve insert,1:25,2:08,0.72,B/D,Mechanical,,,
+1039,Mould,Mould,water leakage from spt side ,23:37,0:15,0.63,B/D,Mechanical,,,
+1040,Core loader,Core loader,Core loader change due to spring broken & water leakage from spt side,7:45,8:00,0.25,B/D,Mechanical,,Core Loader - Core Ring Lock Bolt Broken,Core Ring Changed
+1041,Mould,Mould,Mould sleeve insert,8:00,8:20,0.33,B/D,Mechanical,,,
+1042,Mould,Mould,Mould sleeve trial by mechanical,8:20,9:25,1.08,B/D,Mechanical,,,
+1043,Mould,Mould,Mould sleeve insertion ,9:25,10:00,0.58,B/D,Mechanical,,,
+1044,trough,trough,b side trough tilting cylinder change,10:00,11:40,1.67,B/D,Mechanical,,B-Side Trough Tilting Cylinder Gland Leakage,Cylinder Changed
+1045,Mould,Mould,water leakage from spt side ,20:57,21:32,0.58,B/D,Mechanical,,Water Leakage from Spigot side,Wasn't able to arrest by scaling so sleeve changed
+1046,Mould,Mould,mould vibration,10:33,10:39,0.1,B/D,Mechanical,,,
+1047,Mould,Mould,mould vibration,20:18,20:23,0.08,B/D,Mechanical,,,
+1048,Mould,Mould,v seal water leakage ,8:15,9:30,1.25,B/D,Mechanical,,Headbearing water leakage due to V-Seal Damage (HB No. 2),Sleeve Changed (HB No. 3)
+1049,Mould,Mould,water leakage from spt side ,23:28,1:25,1.95,B/D,Mechanical,,Headbearing water leakage due to V-Seal Damage (HB No. 1),Not rotating even at high RPM so Sleeve change (Delay = 25 mins)
+1050,flag gate,flag gate,flag gate hydrulic hose damage,12:00,12:08,0.13,B/D,Mechanical,,,
+1051,Mould,Mould,water leakage from spt side ,13:21,15:30,2.15,B/D,Mechanical,,Water Leakage from V-Seal (Sl-2 HB-1),Sleeve removed & sleeve inserted after making it ready
+1052,Mould,Mould,mould vibration,16:00,19:47,3.78,B/D,Mechanical,,Vibration & Thickness Variation of 2.5mm at socket (Sl-1 HB-3),Sleeve was removed and it was made ready with new mould as another sleeve was not ready
+1053,Mould,Mould,mould vibration,20:55,21:25,0.5,B/D,Mechanical,,Thickness Variation of 2mm at Spigot (Sl-1),Socket dial done 0.4mm
+1054,Mould,Mould,v seal water leakage ,1:00,3:00,2,B/D,Mechanical,,Water Leakage from V-Seal after 2 pipes (Sl-2 HB-1),So Sleeve set
+1055,trough,trough,fallchute supporting bolt box plate welding ,13:40,14:56,1.27,B/D,Mechanical,,,
+1056,flaggate,flaggate,flaggate hose leakage ,4:00,4:10,0.17,B/D,Mechanical,,,
+1057,uli unit,uli unit,B side trough uli tube change ,4:10,4:40,0.5,B/D,Mechanical,,,
+1058,CCM,CCM,V belt change & setting,16:00,16:40,0.67,B/D,Mechanical,,,
+1059,Core loader,Core loader,Core loader ring change,11:32,11:47,0.25,B/D,Mechanical,,Core Loader ring damage,Core Ring Changing Work Done
+1060,PTT,PTT,PTT not moving ,12:47,12:54,0.12,B/D,Mechanical,,PTT Rope Damage,Rope Cutting work Done
+1061,PTT,PTT,PTT not moving ,12:58,13:05,0.12,B/D,Mechanical,,,
+1062,PTT,PTT,PTT not moving ,13:10,13:15,0.08,B/D,Mechanical,,,
+1063,CCM,top roller,top roller change & ptt rope change,17:45,19:15,1.5,B/D,Mechanical,,,
+1064,MTC,MTC,MTC cylinder nut & bolt tight,9:45,10:15,0.5,B/D,Mechanical,,,
+1065,MTC,MTC,MTC cylinder check,23:58,0:17,0.32,B/D,Mechanical,,,
+1066,uli unit,uli unit,dry uli main tube open out ,4:10,4:35,0.42,B/D,Mechanical,,Dry Powder pipe line broken from socket,Welding Work Done
+1067,trough,trough,B side trough funnel centering ,4:35,5:05,0.5,B/D,Mechanical,,,
+1068,Mould,Mould,water leakage from V seal,4:20,6:00,1.67,B/D,Mechanical,,Water Leakage from V-Seal (Sl-3 HB-2),Sleeve Removed and DN700 Sleeve Set
+1069,Extractor,Extractor,Extractor centering done & extractor change,2:16,3:35,1.32,B/D,Mechanical,,Extractor center out due to Barrel Bend,Extractor changed & aligned
+1070,Core loader,Core loader,Core loader ring change,18:16,19:30,1.23,B/D,Mechanical,,Core Burst,Core Loader Changed & Aligned
+1071,Mould,Mould,mould sleeve setting prob,20:45,23:15,2.5,B/D,Mechanical,,Sleeve not inseat in Bogie due to spigot top roller adjusting stud bolt length more so obstructing ,Precise Stud Bolt Fitted
+1072,Core loader,Core loader,Core loader centering check,23:15,23:30,0.25,B/D,Mechanical,,,
+1073,Mould,Mould,mould rotation prob,13:15,13:54,0.65,B/D,Mechanical,,,
+1074,Core loader,Core loader,Core loader spring broken,15:47,17:15,1.47,B/D,Mechanical,,,
+1075,Mould,Mould,mould sleeve not avilable,21:40,21:55,0.25,B/D,Mechanical,,,
+1076,sector ladle ,sector ladle ,sector ladle down during casting time so mould change ,16:30,18:10,1.67,B/D,Mechanical,,,
+1077,Mould,Mould,dial gauge check,18:10,18:30,0.33,B/D,Mechanical,,,
+1078,Core Loader,Core Loader,Core loader/extractor centering check,18:40,18:55,0.25,B/D,Mechanical,,,
+1079,Mould,Mould,mould rotation prob,2:20,3:58,1.63,B/D,Mechanical,,,
+1080,Core loader,Core loader,Core loader allignment,23:15,0:00,0.75,B/D,Mechanical,,,
+1081,sector ladle ,sector ladle ,sector ladle not down + trough shifting prob ,13:20,16:50,3.5,B/D,Mechanical,,,
+1082,trough,trough,trough shifting prob,22:10,0:50,2.67,B/D,Mechanical,,,
+1083,uli unit,uli unit,dry uli dropping prob & dry uli tank valve not open ,20:05,20:35,0.5,B/D,Mechanical,,,
+1084,Mould,Mould,Mould vibration,21:23,23:27,2.07,B/D,Mechanical,,Mould Vibration Problem,Mould Change Work Done
+1085,trough,trough,B side trough uli tube change ,2:42,2:52,0.17,B/D,mould shop,,,
+1086,trough,trough,trough shifting prob,11:05,20:48,9.72,B/D,Mechanical,,Trough Shifting Cylinder not moving as A-side Flat Wheel was not rotating,Suuporting Roller Bracket Welding for Trough Shifting Frame
+1087,Core loader,Core loader,C/B  prob,22:00,22:25,0.42,B/D,Mechanical,,,
+1088,Mould,Mould,water leakage from spt side ,11:00,12:20,1.33,B/D,Mechanical,,,
+1089,Mould,Mould,Mould vibration,12:45,14:15,1.5,B/D,Mechanical,,Mould Vibration (Sl No. 7),Mould Change (Sl No.8)
+1090,bogie,bogie,"core not in,but m/c bogie not full up position",3:22,4:10,0.8,B/D,Mechanical,,,
+1091,Mould,Mould,water leakage from spt side ,9:00,9:08,0.13,B/D,Mechanical,,Water Leakage from Spt side as Seal plate melted at bottom ,Sleeve Changed
+1092,trough,trough,A side trough vibration ,11:00,11:33,0.55,B/D,Mechanical,,,
+1093,trough,trough,B side trough hydrulic cylinder open & out ,22:45,23:40,0.92,B/D,Mechanical,,B-side Trough Shifting Cylinder Eye Open out from Cylinder ,Eye placed and Welding done. OK in Trial
+1094,Mould,Mould,Mould vibration,12:06,12:45,0.65,B/D,Mechanical,,,
+1095,trough,trough,A side trough pressing roller change,22:25,22:30,0.08,B/D,Mechanical,,,
+1096,MTC,MTC,MTC bolt tight ,11:45,12:25,0.67,B/D,Mechanical,,,
+1097,Extractor,Extractor,Extractor center out ,14:05,16:45,2.67,B/D,Mechanical,,Extractor Center out due to rotary ploy,Rottery with Poster Unit Change
+1098,DC Motor ,DC Motor ,rpm stop in during casting (mould jam),5:20,6:00,0.67,B/D,Mechanical,,Mould Rotatin Jam,Sleeve Changed
+1099,trough,diabola ,Trolley derail,2:30,3:30,1,B/D,Mechanical,,Diabola Trolley Derail and one V Wheel Rotation Jam,Trolley Repositioning and V Wheel changing work done
+1100,flag gate,flag gate,flag gate plate welding ,7:53,8:02,0.15,B/D,Mechanical,,,
+1101,Core loader,Core loader,Core loader spring broken,13:00,13:10,0.17,B/D,Mechanical,,,
+1102,Mould,Mould,Mould change due to skt drawn prob,2:20,3:55,1.58,B/D,Mechanical,,,
+1103,trough,trough,A side trough supporting roller change ,22:30,23:50,1.33,B/D,Mechanical,,,
+1104,Core loader,Core loader,Core loader change,7:10,8:00,0.83,B/D,Mechanical,,,
+1105,dial gauge ,dial gauge ,skt side dial gauge check due to thickness varriation,23:50,0:10,0.33,B/D,Mechanical,,,
+1106,trough,trough,B side trough supporting roller chanage,0:40,0:58,0.3,B/D,Mechanical,,Trough Supporting Roller B-side Roller Jam,Roler Changed (Spare Used)
+1107,extractor,extractor,extractor centering check,22:12,22:17,0.08,B/D,Mechanical,,,
+1108,MTC,MTC,MTC gland seal checking ,15:25,15:50,0.42,B/D,Mechanical,,,
+1109,extractor,extractor,extractor striker plate broken,16:16,17:08,0.87,B/D,Mechanical,,Extractor Stopper Plate Broken,Same Plate Fixing and welding work done 
+1110,extractor,extractor,extractor striker plate welding,17:14,17:25,0.18,B/D,Mechanical,,,
+1111,Core loader,Core loader,Core loader spring broken,5:15,5:35,0.33,B/D,Mechanical,,,
+1112,Mould,Mould,dial gauge check (thickness varriation),6:56,7:10,0.23,B/D,Mechanical,,,
+1113,Mould,Mould,dial gauge check ,8:02,8:11,0.15,B/D,Mechanical,,,
+1114,uli unit,uli unit,dry powder dropping prob,23:56,1:25,1.48,B/D,Mechanical,,Dry Powder was not falling as per requirement (60g instead of 80g),Screw Feeder Pipeline cleaned & Check nut adjusted. OK in trial
+1115,MTC,MTC,MTC clamping bolt tight,7:50,8:20,0.5,B/D,Mechanical,,,
+1116,Mould,Mould,O ring setting prob,18:20,18:32,0.2,B/D,Mechanical,,,
+1117,CCM,CCM,spt side metal cleaning,4:25,4:55,0.5,B/D,Mechanical,,,
+1118,Mould,Mould,Mould change due to skt drawn prob,18:45,21:30,2.75,B/D,Mechanical,,Drawn Pipe due to A-side Rail Joint position 2mm Curved depth,Rail welding & Grinding work done. OK in trial.
+1119,flag gate,flag gate,flag gate spring open out,23:00,23:44,0.73,B/D,Mechanical,,Flag gate (Spt side) Tensioning Spring Rope Broken,Rope Changed (6mm to 10mm) which was not available previously 
+1120,trough,trough,trough allignment ,7:20,8:45,1.42,B/D,Mechanical,,,
+1121,trough,trough,A side trough pressing roller change,14:40,14:55,0.25,B/D,Mechanical,,,
+1122,CCM,CCM,under mechanical ,21:40,22:00,0.33,B/D,Mechanical,,,
+1123,Mould,Mould,Mould vibration,7:25,7:41,0.27,B/D,Mechanical,,,
+1124,trough,trough,B side trough pressing not work ,20:12,20:19,0.12,B/D,Mechanical,,,
+1125,Mould,Dial gauge ,Dial gauge checking ,22:40,22:48,0.13,B/D,Mechanical,,,
+1126,Core loader,Core loader,Core loader welding ,6:28,6:34,0.1,B/D,Mechanical,,,
+1127,trough,trough,A side trough tilting cylinder prob ,14:55,15:37,0.7,B/D,Mechanical,,A-side trough Tilting Problem as DC Valve was Jam,DC Valve Changed & Trial Taken OK
+1128,Core loader,Core loader,Core loader centering done,20:58,21:05,0.12,B/D,Mechanical,,,
+1129,trough,trough,trough supporting roller change,12:10,12:30,0.33,B/D,Mechanical,,,
+1130,Core loader,Core loader,Core loader unit change,12:46,13:06,0.33,B/D,Mechanical,,,
+1131,Core loader,Core loader,Core loader spring change,12:13,12:20,0.12,B/D,Mechanical,,,
+1132,Core loader,Core loader,Core loader spring change,22:00,22:32,0.53,B/D,Mechanical,,Core Loader Spring Broken (DN300),Core Loader Assembly Change (Compression 0.16mm)
+1133,Core Loader,core ring ,core ring change ,22:20,22:47,0.45,B/D,Mechanical,,Core Loader Socket Metal Fly,Core Laoder Assembly Change (Compression 0.17mm)
+1134,core loader,core loader,Core loader centering done,22:42,22:52,0.17,B/D,Mechanical,,,
+1135,Extractor ,Extractor ,Extractor centering done ,8:13,8:40,0.45,B/D,Mechanical,,,
+1136,trough,trough,A side trough tilting botton hole brust,10:06,10:50,0.73,B/D,Mechanical,,A-side Trough Tilting Bottom Hose Burst,Hose Changed and Oil Top Up (100 L)
+1137,Mould,Mould,water leakage from spt side ,1:20,1:35,0.25,B/D,Mechanical,,,
+1138,trough,trough,B side trough funnel center out ,7:09,7:14,0.08,B/D,Mechanical,,,
+1139,Core loader,Core loader,core brust prob ,11:35,11:41,0.1,B/D,Mechanical,,,
+1140,Core loader,Core loader,Core loader centering done,16:53,17:12,0.32,B/D,Mechanical,,Core Burst,Core Loader Centering Work Done (6.5-10-8.5-4)
+1141,Core Loader,core ring ,core ring change ,17:30,18:00,0.5,B/D,Mechanical,,Core Burst due to Core Ring,Core Ring Changed and Alignment done (7-7.5-7.5-7)
+1142,Core loader,Core loader,Core loader centering done,18:55,19:28,0.55,B/D,Mechanical,,,
+1143,trough,trough,B side trough scrap trolley rope change ,10:07,11:00,0.88,B/D,Mechanical,,,
+1144,uli unit,uli unit,dry uli powder dropping prob,19:03,20:09,1.1,B/D,Mechanical,,,
+1145,Mould,Mould,mould rotation prob,10:50,11:20,0.5,B/D,Mechanical,,,
+1146,Mould,Mould,water leakage from spt side ,13:50,14:26,0.6,B/D,Mechanical,,,
+1147,Mould,Mould,water leakage from spt side ,17:24,18:29,1.08,B/D,Mechanical,,,
+1148,extractor ,extractor ,extractor stoper prob & core loader centering ,3:55,4:22,0.45,B/D,Mechanical,,,
+1149,extractor ,extractor ,extractor centering jaw pressure prob,8:00,8:30,0.5,B/D,Mechanical,,,
+1150,trough,trough,b side trough pressing roller change ,15:16,15:24,0.13,B/D,Mechanical,,,
+1151,trough,trough,b side trough pressing roller change ,20:00,22:20,2.33,B/D,Mechanical,,B-side Trough Pressing Unit was not moving down due to shaft Jam in bush,Bush changed after opening clamps and replaced. OK in trial
+1152,Core ring ,Core ring ,Core ring change,20:00,20:12,0.2,B/D,Mechanical,,,
+1153,uli unit ,uli unit ,dry uli dropping prob ,20:22,20:35,0.22,B/D,Mechanical,,,
+1154,trough,trough,A side trough supporting roller jam,20:35,21:00,0.42,B/D,Mechanical,,,
+1155,Mould,Mould,mould vibration,23:37,0:14,0.62,B/D,Mechanical,,,
+1156,trough,trough,trough tilting cylinder hose damage,19:58,20:42,0.73,B/D,Mechanical,,,
+1157,Mould,Mould,water leakage from spt side,15:48,16:00,0.2,B/D,Mechanical,,,
+1158,Extractor ,Extractor ,Extractor center out ,17:08,17:56,0.8,B/D,Mechanical,,Pipe Socket Groove Damage as Extractor center was out,Extractor changed & aligned
+1159,Core loader,Core loader,Core loader centering check,0:07,0:29,0.37,B/D,Mechanical,,,
+1160,Core loader,Core loader,core brust prob ,1:22,2:15,0.88,B/D,Mechanical,,Core Burst due to core ring damage,Core Loader Changed & Centered
+1161,Extractor ,Extractor ,Extractor change,18:52,19:24,0.53,B/D,Mechanical,,,
+1162,Core loader,Core loader,Core loader unit change ,6:00,10:55,4.92,B/D,Mechanical,,Core Loader Hinge Bearing got damage,Damaged Core Loader was removed & modified Spare was fitted. Hub Shaft was long so cut by SAW and recentered. Compression adjusted to .11mm 
+1163,trough,trough,b side trough pressing roller change ,22:37,23:00,0.38,B/D,Mechanical,,B-side Trough Pressing not working,Clamp Bolt loose work done. OK in trial
+1164,trough,trough,b side trough pressing roller change ,1:53,2:00,0.12,B/D,Mechanical,,,
+1165,trough,trough,b side trough pressing roller change ,2:13,2:32,0.32,B/D,Mechanical,,,
+1166,trough,trough,trough shifting prob ,4:00,5:50,1.83,B/D,Mechanical,,,
+1167,CCM,CCM,under mechanical,12:30,12:55,0.42,B/D,Mechanical,,,
+1168,Core loader,Core loader,Core loader centering check,1:19,1:25,0.1,B/D,Mechanical,,,
+1169,Core loader,Core loader,Core loader base welding ,18:30,20:30,2,B/D,Mechanical,,Core Loader Spring Arm Bracket Broken,Broken Part Positioning & welding done. Core loader aligned & compression set at 0.16mm
+1170,diabola ,diabola ,diabola wheel change ,21:55,23:15,1.33,B/D,Mechanical,,Diabola Trolley B-side V roller damage,Roller Changing work done
+1171,Extractor ,Extractor ,Extractor center out ,4:50,5:30,0.67,B/D,Mechanical,,Extractor center out,Extractor Center Alignment Done
+1172,Extractor ,Extractor ,Extractor change,11:10,11:36,0.43,B/D,Mechanical,,,
+1173,Extractor ,Extractor ,Extractor centering done,18:48,21:00,2.2,B/D,Mechanical,,,
+1174,Dial gauge ,Dial gauge ,Dial gauge checking ,17:41,17:53,0.2,B/D,Mechanical,,,
+1175,CCM,CCM,bogie wheel adjustment ,15:10,17:15,2.08,B/D,Mechanical,,Sleeve Change (As per Plan),"1. Bogie Wheel A-side both wheel packing done (5mm Ring)
+2. All Wheel Ploy Check
+3. Extractor Centering from Bore
+4. MTC Gland Tight"
+1176,Mould,Mould,skt side O ring change,0:55,2:00,1.08,B/D,Mechanical,,,
+1177,Core loader,Core loader,Core loader change,2:00,2:30,0.5,B/D,Mechanical,,,
+1178,PTT,PTT ,PTT rope change ,7:10,7:33,0.38,B/D,Mechanical,,,
+1179,Extractor ,Extractor ,Extractor stopper prob,23:15,23:35,0.33,B/D,Mechanical,,,
+1180,Core ring ,Core ring ,Core ring change,18:46,18:52,0.1,B/D,Mechanical,,,
+1181,Core Loader,Core Loader,core brust prob ,19:02,19:50,0.8,B/D,Mechanical,,Core Burst due to Core Loader Base Mounting Bolt Thread damage with Base loose,Both Replace with stopper welding. Core loader unit change and centered
+1182,Core loader,Core loader,Core loader centering done,6:00,6:28,0.47,B/D,Mechanical,,,
+1183,flag gate,flag gate,flag gate stopper plate welding ,6:45,6:58,0.22,B/D,Mechanical,,,
+1184,CCM,CCM,V belt change ,10:05,12:32,2.45,B/D,Mechanical,,,
+1185,Mould,Mould,mould rotation jam,14:35,15:40,1.08,B/D,Mechanical,,Mould Rotation Stop as V-Belt was Loose due to Tension Gearbox Worm Shaft Failure,Screw Rod Opposite Side Nut Welding cut and belt tight
+1186,Core loader,Core loader,Core loader change,18:27,18:37,0.17,B/D,Mechanical,,Core B-side Metal Slippage,Core Loader Unit Change
+1187,Core loader,Core loader,Core loader change,17:40,17:52,0.2,B/D,Mechanical,,,
+1188,Mould,Mould,Mould change,23:55,1:00,1.08,B/D,Mechanical,,,
+1189,MTC,MTC,MTC gland tight ,10:00,10:50,0.83,B/D,Mechanical,,MTC Huge Gland Leakage,Gland Area Cleaned & Gland Tightened. OK in Trial
+1190,MTC,MTC,MTC gland tight ,1:40,1:55,0.25,B/D,Mechanical,,,
+1191,Dial gauge ,Dial gauge ,Dial gauge checking ,4:20,4:26,0.1,B/D,Mechanical,,,
+1192,Dial gauge ,Dial gauge ,Dial gauge checking ,4:36,4:42,0.1,B/D,Mechanical,,,
+1193,diabola ,diabola ,diabola trolly wheel change ,8:45,9:50,1.08,B/D,Mechanical,,B-side Diabola Trolley Derail due to which V-Wheel Bearing Broken,Wheel Change & positioning done. OK in Trial
+1194,trough,trough,out let hose change & b side uli hose change ,15:15,16:40,1.42,B/D,Mechanical,,,
+1195,trough,trough,b side trough pressing roller change ,22:00,22:45,0.75,B/D,Mechanical,,,
+1196,trough,trough,B side trough supporting roller & pressing roller unit not work,22:44,23:10,0.43,B/D,Mechanical,,,
+1197,trough,trough,B side trough supporting roller & pressing roller unit not work,23:16,0:00,0.73,B/D,Mechanical,,B-side Trough Pressing and supporting roller not moving down as metal got inside prening shaft bush,Pressing & Supporting Roller changed after cleaning
+1198,Mould,Mould,Mould change due to skt side clamping plate bolts sheared,0:00,1:00,1,B/D,Mechanical,,"Socket Clamp Plate Mounting Studs (7 Nos) found Shear Out [Sleeve 1, HB No. 4, Size 100]",Sleeve Changed
+1199,uli unit ,uli unit ,dry powder pipe line center out,2:38,2:58,0.33,B/D,Mechanical,,,
+1200,Extractor ,Extractor ,Extractor centering done,23:00,23:15,0.25,B/D,Mechanical,,Extractor Pipe Slippage (Opening Dia. 330mm),Pressure Changed from 5.5 to 6.5 kg/cm^2 but still Slippage so Extractor Changed (Opening Dia at 330 mm)
+1201,Extractor ,Extractor ,Extractor change,0:34,1:38,1.07,B/D,Mechanical,,,
+1202,trough,trough,B side trough supporting roller jam,10:00,10:25,0.42,B/D,Mechanical,,B-side Trough Supporting Roller Jam,Roller changed
+1203,trough,trough,b side trough pressing roller change ,14:55,15:16,0.35,B/D,Mechanical,,,
+1204,Core loader/extractor,Core loader/extractor,Core loader/extractor centering ,0:25,1:00,0.58,B/D,Mechanical,,,
+1205,CCM,CCM,under mechanical,20:25,20:53,0.47,B/D,Mechanical,,,
+1206,Core Loader,Core Loader,Core Loader centering done,8:24,8:54,0.5,B/D,Mechanical,,Pipe Face Sand Sticking ,Core Loader compression increased and extractor opening check. OK in trial
+1207,PTT,PTT,PTT moving prob ,1:08,1:35,0.45,B/D,Mechanical,,,
+1208,Dial gauge ,Dial gauge ,Dial gauge checking ,17:32,17:39,0.12,B/D,Mechanical,,,
+1209,trough,trough,B side trough tilting prob,5:17,5:25,0.13,B/D,Mechanical,,,
+1210,uli unit ,uli unit ,dry uli dropping prob ,9:02,10:12,1.17,B/D,Mechanical,,Dry Powder discontinuous Flow,Screw Feeder adjusting Nut adjusted & vibrator changed
+1211,trough,trough,trough centering & pressing roller change ,3:40,4:10,0.5,B/D,Mechanical,,,
+1212,Mould,Mould,water leakage from spt side,9:49,10:06,0.28,B/D,Mechanical,,,
+1213,Mould,Mould,water leakage from spt side,11:04,11:35,0.52,B/D,Mechanical,,Spt seal Water Leakage due to Seal Metal Contact ,Seal Changed
+1214,trough,trough,B side trough tilting prob,14:47,17:40,2.88,B/D,Mechanical,,B-side Trough tilting cylinder base bolt broken,Base bolt changing and cylinder fixing work done. Bolted base keyrod fixing full welding work done
+1215,trough,trough,B side trough tilting prob,6:00,6:58,0.97,B/D,Mechanical,,B-side trough tilting Jam ,Trough middle position shift with electronic switch operating. OK in trial
+1216,trough,trough,B side trough tilting prob,15:50,16:25,0.58,B/D,Mechanical,,,
+1217,Extractor ,Extractor ,Extractor change,2:50,3:22,0.53,B/D,Mechanical,,,
+1218,Core loader,Core loader,Core loader change,21:37,22:13,0.6,B/D,Mechanical,,Core Burst,Core Loader Changed (Comp. 0.16mm)
+1219,MTC,MTC,MTC gland tight ,17:50,18:15,0.42,B/D,Mechanical,,,
+1220,uli unit ,uli unit ,dry uli dropping prob ,5:46,6:00,0.23,B/D,Mechanical,,Dry Powder was not falling from Screw Feeder,Hopper & pipeline hammered then small amount of powder falling
+1221,Mould,Mould,mould rotating prob,23:05,0:47,1.7,B/D,Mechanical,,Mould Rotation Jam (Sl.4 HB.7),Sleeve Change
+1222,Core ring ,Core ring ,Core ring change,3:00,3:14,0.23,B/D,Mechanical,,Core Loader Socket Metal Fly,Core Loader Housing Change
+1223,flag gate,flag gate,spt side flaggate pin open out ,8:00,8:15,0.25,B/D,Mechanical,,Spigot Flaggate Arm Pin Open Out,Pin fitting with locking done
+1224,Core loader,Core loader,Core loader centering check,10:15,10:45,0.5,B/D,Mechanical,,,
+1225,Core ring ,Core ring ,Core ring change,5:13,5:45,0.15,B/D,Mechanical,,Core Burst,"Center Check (OK), Housing Change then OK in trial"
+1226,trough,trough,B side trough shifting prob & bolt loose,3:45,4:00,0.25,B/D,Mechanical,,,
+1227,uli unit ,uli unit ,dry uli dropping prob ,6:00,6:31,0.52,B/D,Mechanical,,,
+1228,MTC,MTC,MTC change,9:55,20:20,10.42,B/D,Mechanical,,,
+1229,Core loader,Core loader,Core loader check,7:07,7:12,0.08,B/D,Mechanical,,,
+1230,Core ring ,Core ring ,core ring change due to core brust prob ,7:30,8:45,1.25,B/D,Mechanical,,Core Burst,"New Core Ring Change (Ring + Core Comp. 1mm), Machine running but core not in seat for ring. Core again check and trial taken OK"
+1231,Core ring ,Core ring ,core not setting in core ring ,8:50,10:10,1.33,B/D,Mechanical,,,
+1232,Mould,Mould,mould rotation jam,15:39,16:18,0.65,B/D,Mechanical,,,
+1233,core loader ,core loader ,core loader compressure check,21:45,22:55,1.17,B/D,Mechanical,,Core Burst,"Housing Change & centering done, compression 0.15mm OK in Trial"
+1234,sector ladle ,sector ladle ,sector ladle prob & came roller change ,8:35,11:00,2.42,B/D,Mechanical,,Cam Roller not rotating due to Metal Jam (During Sleeve Change),Cam Roller Change
+1235,Extractor ,Extractor ,Extractor centering done,12:55,13:26,0.52,B/D,Mechanical,,,
+1236,flag gate,flag gate,skt side flag gate hydrulic oil leakage,14:25,15:00,0.58,B/D,Mechanical,,,
+1237,PTT,PTT,PTT movment prob ,22:17,23:00,0.72,B/D,Mechanical,,PTT movement Problem due to Socket side Wheel Assembly Bearing Damage,"Wheel Assembly change, OK in trial"
+1238,PTT,PTT,PTT movment prob ,3:37,3:50,0.22,B/D,Mechanical,,,
+1239,Core ring ,Core ring ,Core ring change,8:10,8:38,0.47,B/D,Mechanical,,,
+1240,Core loader,Core loader,Core loader centering done,9:35,10:10,0.58,B/D,Mechanical,,,
+1241,Extractor ,Extractor ,Extractor prob,6:37,6:51,0.23,B/D,Mechanical,,,
+1242,Dial gauge ,Dial gauge ,Dial gauge checking ,14:52,15:06,0.23,B/D,Mechanical,,,
+1243,CCM,CCM,under mechanical,13:00,14:00,1,B/D,Mechanical,,,
+1244,Core ring ,Core ring ,Core ring change,7:10,7:45,0.58,B/D,Mechanical,,,
+1245,Core ring ,Core ring ,Core ring change,20:40,21:15,0.58,B/D,Mechanical,,Core Burst,"Core Loader checked & found ok but still Core Loader Changed (Instructed by Casting), compression 0.16mm. OK in Trial for 3 pipes."
+1246,Mould,Mould,mould change due to mould vibration,7:10,8:20,1.17,B/D,Mechanical,,,
+1247,Core ring ,Core ring ,Core ring change,8:45,8:52,0.12,B/D,Mechanical,,,
+1248,Dial gauge ,Dial gauge ,Dial gauge checking ,7:00,7:40,0.67,B/D,Mechanical,,Thickness Variation  ,Alignment work done (Dial from 2.2mm to 1.1mm)
+1249,Core loader,Core loader,Core loader centering & core ring change ,9:00,9:48,0.8,B/D,Mechanical,,Core Burst,Core Loader Changed and alignment work done
+1250,Mould,Mould,mould vibration,6:47,7:56,1.15,B/D,Mechanical,,Mould Vibration,Tried to arrest by tightening bolts but vibration didn't arrested so sleeve changing work done
+1251,Mould,Mould,mould vibration,11:25,14:38,3.22,B/D,Mechanical,,Middle Sleeve pressing Unit Bolt Broken ,Sleeve Pressing Unit changing work done
+1252,Mould,Mould,water leakage from spt side,6:23,6:50,0.45,B/D,Mechanical,,Spigot Seal Water Leakage,Arrested by scaling
+1253,Extractor ,Extractor ,Extractor centering done,13:30,14:10,0.67,B/D,Mechanical,,,
+1254,MTC,MTC,MTC gland tight ,0:10,0:30,0.33,B/D,Mechanical,,Huge Oil Leakage from MTC Gland,MTC Gand tightening after Mould Change
+1255,CCM,CCM,C/B prob,7:00,7:15,0.25,B/D,Mechanical,,,
+1256,Dial gauge ,Dial gauge ,Dial gauge checking ,1:45,1:55,0.17,B/D,Mechanical,,,
+1257,Fixed ladle,Fixed ladle,hydrulic oil leakage from f/l area,23:46,0:22,0.6,B/D,Mechanical,,Huge Oil Leakage from Fixed Ladle Operated Valve as O-ring was cut,O-Ring Changed
+1258,Dial gauge ,Dial gauge ,Dial gauge checking ,9:07,9:15,0.13,B/D,Mechanical,,,
+1259,Mould,Mould,water leakage from spt side,9:05,9:30,0.42,B/D,Mechanical,,Spigot Seal Water Leakage,Arrested by scaling
+1260,Mould,Mould,mould change due to water leakage from spt side,11:55,13:12,1.28,B/D,Mechanical,,,
+1261,Mould,Mould,water leakage from spt side,14:12,14:24,0.2,B/D,Mechanical,,,
+1262,Mould,Mould,water leakage from spt side,13:11,13:18,0.12,B/D,Mechanical,,,
+1263,Mould,Mould,water leakage from spt side (sleeve not ready ),4:45,6:00,1.25,B/D,Mechanical,,V-seal Water Leakage (HB No.1 Sl.2),"Machine stop as sleeve not ready, sleeve changed"
+1264,MTC,MTC,MTC cylinder bolt open ,1:23,2:40,1.28,B/D,Mechanical,,MTC Back port pipeline second flage Oil Leakage,O-Ring changed then OK in trial
+1265,diabola,diabola,diabola derail,4:46,5:20,0.57,B/D,Mechanical,,B-side Diabola Trolley derail due to spigot metal,Metal Cleaned & trolley repositioned
+1266,MTC,MTC,MTC gland tight ,7:50,8:10,0.33,B/D,Mechanical,,,
+1267,Mould,Mould,water leakage from spt side (sleeve not ready ),6:00,8:35,2.58,B/D,Mechanical,,,
+1268,Core loader,Core loader,Core loader centering check,11:55,12:05,0.17,B/D,Mechanical,,,
+1269,ccm,ccm,hydrulic oil leakage ,14:00,14:28,0.47,B/D,Mechanical,,,
+1270,MTC,MTC,MTC gland tight ,15:12,15:41,0.48,B/D,Mechanical,,,
+1271,trough,trough,B side trough supporting roller height adjustment,21:31,21:38,0.12,B/D,Mechanical,,,
+1272,MTC,MTC,MTC accumulator change ,10:45,11:19,0.57,B/D,Mechanical,,,
+1273,Mould,Mould,mould vibration,11:45,12:45,1,B/D,Mechanical,,Oval Pipe due to Mould Vibration in spigot (Sl.1),"Sleeve change ( DN 600-800 sleeve replaced with DN400-600), so V-Belt replaced and dial at 0.3mm [Core Loader & Extractor checked (Comp. 0.16mm) ]"
+1274,Core ring ,Core ring ,Core ring & v belt change ,12:45,13:30,0.75,B/D,Mechanical,,,
+1275,ccm,ccm,under mechanical,5:30,6:00,0.5,B/D,Mechanical,,,
+1276,core loader,core loader,C/B prob,9:10,9:35,0.42,B/D,Mechanical,,Core Burst (1 Time),Core Loader Changed & Aligned (comp. 0.14m)
+1277,MTC,MTC,MTC hydrulic oil leakage ,16:42,17:00,0.3,B/D,Mechanical,,MTC Gland Leakage,Gland Tightened  
+1278,ccm,ccm,under mechanical,6:00,7:00,1,B/D,Mechanical,,,
+1279,Mould,Mould,water leakage from spt side ,7:35,9:25,1.83,B/D,Mechanical,,Water Leakage from Spigot Mould Seal (Sleeve DN 400-600),Seal changed planned but as New Mould was being used so Sleeve changed
+1280,Mould,Mould,thickness variation,10:00,10:45,0.75,B/D,Mechanical,,Spigot side Vibration due to which thickness variation of 1mm to 2mm (Sl.No 2 of DN 600 - DN 600-800 sleeve),Soket Dial done from 0.35mm to 0.3mm and found spigot dial reduced from 0.6mm to 0.35mm
+1281,Dial gauge ,Dial gauge ,Dial gauge checking ,11:12,11:26,0.23,B/D,Mechanical,,,
+1282,Mould,Mould,Mould change due to thickness variation &mould vibration ,11:30,12:45,1.25,B/D,Mechanical,,"Spigot side Vibration due to which thickness variation of 1mm to 2mm (Sl.No 2 of DN 600 - DN 600-800 sleeve), after producing two pipes",Sleeve Changed
+1283,Core loader,Core loader,Core loader centering check,14:47,14:51,0.07,B/D,Mechanical,,,
+1284,Mould,Mould,water leakage from spt side ,14:05,14:33,0.47,B/D,Mechanical,,,
+1285,Mould,Mould,water leakage from spt side ,14:41,14:50,0.15,B/D,Mechanical,,,
+1286,Mould,Mould,water leakage from spt side ,15:07,15:35,0.47,B/D,Mechanical,,Spigot Side Water Leakage due to Clamping Plate Problem (Old Guard was outside the plate),Clamping Plate changed and OK in trial
+1287,MTC,MTC,MTC gland tight ,10:35,11:35,1,B/D,Mechanical,,MTC Oil Leakage from Gland,Leakage Reduced by inserting Seal Packing
+1288,MTC,MTC,MTC gland tight ,16:45,17:00,0.25,B/D,Mechanical,,,
+1289,trough,trough,A side trough pressing not working ,19:10,19:20,0.17,B/D,Mechanical,,,
+1290,Mould,Mould,mould change due to mould vibration,12:32,13:26,0.9,B/D,Mechanical,,Thickness Variation of 1mm at spigot due to Mould Vibration (Sl. No 2 Mould No. 92),Sleeve Changed
+1291,Mould,Mould,water leakage from spt side ,21:00,21:14,0.23,B/D,Mechanical,,,
+1292,Mould,Mould,water leakage from spt side ,5:52,6:00,0.13,B/D,Mechanical,,,
+1293,diabola ,diabola ,diabola v roller open out ,13:30,14:35,1.08,B/D,Mechanical,,,
+1294,Mould,Mould,water leakage from spt side ,6:00,6:40,0.67,B/D,Mechanical,,,
+1295,Mould,Mould,water leakage from spt side ,21:11,21:52,0.68,B/D,Mechanical,,Water Leakage from Spigot Seal as metal got inside due to which seal was damaged,Water leakage didn't arrested by scaling so seal changed
+1296,trough,trough,A side trough tilting hose pipe change,15:40,16:00,0.33,B/D,Mechanical,,,
+1297,trough,trough,A side trough supporting roller change ,9:05,9:50,0.75,B/D,Mechanical,,Drawn Pipe as both side Trough supporting roller were not rotating properly ,Both Rollers changed
+1298,PTT,PTT,PTT not moving ,14:16,14:32,0.27,B/D,Mechanical,,,
+1299,Accumulator,Accumulator,hydrulic oil leakage from aquimlater cylinder hose ,9:53,10:35,0.7,B/D,Mechanical,,Huge Oil Leakage from MTC stand Accumulator Dummy Fitting as fitting came out while it was tried to tighten as it was loose,Spare fitting was not fitting so Fitting Welded
+1300,flag gate,flag gate,pipe lifting arm prob ,23:30,23:45,0.25,B/D,Mechanical,,,
+1301,Mould,Mould,Mould change,23:45,2:20,2.58,B/D,Mechanical,,,
+1302,trough,trough,A side trough pressing not working ,14:09,14:16,0.12,B/D,Mechanical,,,
+1303,Core loader,Core loader,Core loader compressure spring broken ,17:09,17:26,0.28,B/D,Mechanical,,Core Loader Spring Broken,Core Loader Changed
+1304,Mould,Mould,water leakage from skt side ,17:50,18:45,0.92,B/D,Mechanical,,Water Leakage from HB No.1 due to V-Seal,Sleeve Change
+1305,Core loader,Core loader,Core loader centering out,18:45,19:20,0.58,B/D,Mechanical,,,
+1306,PTT,PTT,PTT not moving ,23:09,23:22,0.22,B/D,Mechanical,,,
+1307,trough,trough,trough shifting prob ,19:15,20:06,0.85,B/D,Mechanical,,,
+1308,Mould,Mould,water leakage from spt side ,22:07,22:24,0.28,B/D,Mechanical,,,
+1309,Mould,Mould,water leakage from spt side ,22:36,22:44,0.13,B/D,Mechanical,,,
+1310,Mould,Mould,water leakage from spt side ,22:07,22:24,0.28,B/D,Mechanical,,,
+1311,Mould,Mould,water leakage from spt side ,23:09,0:00,0.85,B/D,Mechanical,,Water Leakage from Spigot Mould Seal as Metal got inside due to fixing of Guard near to Spigot Seal on Plate due to which Seal got Damaged,Seal Changed and Metal Guard was properly fixed
+1312,Core loader,Core loader,Core loader centering checked,23:43,23:52,0.15,B/D,Mechanical,,,
+1313,dial gauge ,dial gauge ,dial gauge check,0:28,0:32,0.07,B/D,Mechanical,,,
+1314,Extractor ,Extractor ,Extractor centering & trough height adjustment,23:45,0:37,0.87,B/D,Mechanical,,,
+1315,Core loader,Core loader,Core loader housing change,7:22,7:33,0.18,B/D,Mechanical,,,
+1316,Core loader,Core loader,Core loader centering done,8:41,9:00,0.32,B/D,Mechanical,,,
+1317,Core loader,Core loader,Core loader centering checked,9:35,9:52,0.28,B/D,Mechanical,,Core Burst,Centering Done and Compression set at 0.13mm
+1318,sector ladle ,sector ladle ,sector ladle lip broken,21:35,22:05,0.5,B/D,Mechanical,,,
+1319,flag gate ,flag gate ,flag gate height adjustment ,20:48,20:54,0.1,B/D,Mechanical,,,
+1320,Extractor ,Extractor ,Extractor centering check,21:32,21:39,0.12,B/D,Mechanical,,,
+1321,Extractor ,Extractor ,Extractor centering done ,9:00,9:40,0.67,B/D,Mechanical,,,
+1322,Core loader,Core loader,Core loader spring broken,18:55,19:06,0.18,B/D,Mechanical,,Core loader Spring Broken,Core loader unit changed and OK in trial
+1323,PTT,PTT,PTT prob,18:40,19:15,0.58,B/D,Mechanical,,,
+1324,PTT,PTT,PTT  rope prob,18:00,18:15,0.25,B/D,Mechanical,,Rope One Layer Damage,Rope Cutting work Done
+1325,PTT,PTT,PTT  prob,18:40,18:58,0.3,B/D,Mechanical,,Rope One Layer Damage,Rope Cutting work Done
+1326,Mould,Mould,water leakage from spt side ,23:28,23:38,0.17,B/D,Mechanical,,,
+1327,Mould,Mould,water leakage from spt side ,2:53,2:58,0.08,B/D,Mechanical,,,
+1328,Mould,Mould,water leakage from spt side ,3:37,4:53,1.27,B/D,Mechanical,,,
+1329,Mould,Mould,water leakage from spt side ,17:28,18:05,0.62,B/D,Mechanical,,Spigot side Water Leakage-due to metal,Seal Changing (Twice) and scaleing done (Once)
+1330,Mould,Mould,water leakage from spt side ,19:00,19:10,0.17,B/D,Mechanical,,,
+1331,Core loader,Core loader,Core loader prob,19:52,20:12,0.33,B/D,Mechanical,,,
+1332,Mould,Mould,water leakage from spt side ,20:13,21:10,0.95,B/D,Mechanical,,Spigot side Water Leakage-due to metal,Seal Changing (Twice) and scaleing done (Once)
+1333,Bolt,Bolt,A side stud bolt jam ,22:20,22:40,0.33,B/D,Mechanical,,,
+1334,uli unit,uli unit,dry uli dropping prob,19:37,20:00,0.38,B/D,Mechanical,,Chute Powder Fluctuation,Lock Nut adjusted and then OK in trial
+1335,Mould,Mould,water leakage from spt side ,11:00,11:25,0.42,B/D,Mechanical,,,
+1336,Mould,Mould,mould r.p.m prob,7:00,7:55,0.92,B/D,Mechanical,,,
+1337,Mould,Mould,water leakage from spt side ,11:35,11:45,0.17,B/D,Mechanical,,,
+1338,Core loader,Core loader,Core loader centering prob,2:23,2:30,0.12,B/D,Mechanical,,Core crack as core was touching core loader as housing lock bolt thread damage,Core loader adjustment done and one bolt thighten
+1339,Mould,Mould,water leakage from spt side ,1:23,1:37,0.23,B/D,Mechanical,,,
+1340,Extractor ,Extractor ,Extractor centering done ,18:10,18:50,0.67,B/D,Mechanical,,,
+1341,trough ,trough ,B side trough supporting roller change ,11:00,11:20,0.33,B/D,Mechanical,,B-side Trough Supporting Roller Jam,Roller Change
+1342,MTC ,MTC ,MTC gland tighting ,14:57,15:45,0.8,B/D,Mechanical,,,
+1343,trough ,trough ,B side trough tilting prob ,9:13,12:30,3.28,B/D,Mechanical,,B-side Trough not Tilting ,"5° to 10° tilting after jerk, not tilting so cylinder change but problem didn't resolve. Bearing Greesing then OK in trial"
+1344,Core loader,Core loader,Core loader spring broken,14:25,14:36,0.18,B/D,Mechanical,,,
+1345,Mould,Mould,water leakage from spt side ,18:00,18:04,0.07,B/D,Mechanical,,,
+1346,PTT,PTT,PTT prob,3:15,3:56,0.68,B/D,Mechanical,,,
+1347,Core loader,Core loader,Core loader spring broken,20:36,20:50,0.23,B/D,Mechanical,,,
+1348,pump,pump,pump 3 start up & casting time varriation ,19:12,20:42,1.5,B/D,Mechanical,,Casting Time Variation,"Pump No-3 was connected & pressure set at 70kg/cm^2 (Casting Time: 25.8 to 26.4s), Individual Pump Pressure checked (All at 70kg/cm^2), No Internal Leakage in MTC. Electrical person checked Feedback System and automatically casting Time coming constant at 21.3s."
+1349,dial gauge ,dial gauge ,dial gauge check,9:00,9:05,0.08,B/D,Mechanical,,,
+1350,dial gauge ,dial gauge ,dial gauge check,17:40,17:44,0.07,B/D,Mechanical,,,
+1351,PTT,PTT,PTT prob,23:32,1:22,1.83,B/D,Mechanical,,PTT movement some time stop due to high motor current,Abnormal Sound from Gearbox Motor so Motor Change and then OK in trial
+1352,Mould,Mould,water leakage from spt side ,18:09,18:15,0.1,B/D,Mechanical,,,
+1353,Mould,Mould,water leakage from spt side ,22:52,22:59,0.12,B/D,Mechanical,,,
+1354,Mould,Mould,water leakage from spt side ,23:12,0:28,1.27,B/D,Mechanical,,Water Leakage from spigot mould seal,Arrested by scaling but machine didn't start so seal changed
+1355,Mould,Mould,water leakage from spt side ,1:40,2:12,0.53,B/D,Mechanical,,Water Leakage from spigot mould seal,Disn't arrested by scaling so seal change and metal guard ring provided in seal plate
+1356,Mould,Mould,water leakage from spt side ,20:52,22:11,1.32,B/D,Mechanical,,Water Leakage from spigot Mould Seal as metal got inside the seal,Tried to arrest by scaling but failed so decided to change seal but casting decided to change sleeve
+1357,trough ,trough ,B side trough pressing roller change ,7:15,7:30,0.25,B/D,Mechanical,,B-Side trough Pressing roller Jam,Roller Changed
+1358,MTC ,MTC ,MTC oil leakage ,10:16,11:00,0.73,B/D,Mechanical,,,
+1359,Mould,Mould,Mould pressing roller change ,11:30,11:52,0.37,B/D,Mechanical,,,
+1360,uli unit,uli unit,dry uli dropping prob,13:17,15:25,2.13,B/D,Mechanical,,,
+1361,Mould,Mould,mould change due to water leakage from spt side ,17:00,18:50,1.83,B/D,Mechanical,,,
+1362,Mould,Mould,water leakage from spt side ,19:15,20:50,1.58,B/D,Mechanical,,Water Leakage from spigot O-Ring (Sleeve - 7),"Sleeve tried to centered but water still leaking, so sleeve was removed and in both groove 12mm O-ring was fixed. OK in trial"
+1363,PTT,PTT,PTT prob,10:19,10:23,0.07,B/D,Mechanical,,,
+1364,trough ,trough ,"B side trough supporting  roller jam , it change.",13:33,13:48,0.25,B/D,Mechanical,,,
+1365,Mould,Mould,water leakage from spt side ,15:55,16:50,0.92,B/D,Mechanical,,Huge water leakage from spigot mould seal as huge amount of metal got inside as metal guard was welded near seal area at bottom,Seal changed and metal guard was removed
+1366,Core loader,Core loader,Core loader spring broken,20:30,20:38,0.13,B/D,Mechanical,,Core Loader Spring Broken,"Core Loader Changed, compression set at 10mm"
+1367,Mould,Mould,water leakage from spt side ,22:05,22:38,0.55,B/D,Mechanical,,"Water leakage from spigot mould seal due to metal inseat which damaged seal lip (Sleeve-9), Approx 6mm metal inside of double seal plate at spigot end of mould",Seal Changed
+1368,trough ,trough ,trough roller not rotating,6:25,6:45,0.33,B/D,Mechanical,,Trough Supporting Roller Metal Jam on both side,B-side roller change and A-side Metal cleaned
+1369,trough ,trough ,A side trough supporting roller change ,14:24,14:50,0.43,B/D,Mechanical,,,
+1370,Mould,Mould,water leakage from spt side ,4:51,4:54,0.05,B/D,Mechanical,,,
+1371,Mould,Mould,water leakage from spt side ,5:26,5:31,0.08,B/D,Mechanical,,,
+1372,Diabola ,Diabola ,Diabola Wheel derailed,15:02,16:13,1.18,B/D,Mechanical,,Diabola Trolley derailed and fell off due to metal/ dust deposition on V-rail,Diabola trolley replaced and area cleaned
+1373,trough ,trough ,A side trough centering done,4:44,5:09,0.42,B/D,Mechanical,,,
+1374,Ring,Ring,skt side O ring change ,19:25,19:40,0.25,B/D,Mechanical,,,
+1375,Mould,Mould,water leakage from spt side ,2:32,2:40,0.13,B/D,Mechanical,,,
+1376,Mould,Mould,water leakage from spt side ,3:15,4:06,0.85,B/D,Mechanical,,Water Leakage from spigot side due to metal contact (DN250),Failed to arrest by scaling so Seal changed
+1377,PTT,PTT,PTT rope change,1:40,1:50,0.17,B/D,Mechanical,,,
+1378,Extractor ,Extractor ,Extractor & core loader check,21:07,21:12,0.08,B/D,Mechanical,,,
+1379,Mould,Mould,water leakage from spt side ,10:00,10:25,0.42,B/D,Mechanical,,,
+1380,Mould,Mould,water leakage from spt side ,0:15,1:34,1.32,B/D,Mechanical,,Water leakage from spigot side due to metal deposit and insertion which damaged seal,Metal cleaned (00:15 to 1:15) and seal changed (1:15 to 1:30)
+1381,Mould,Mould,water leakage from spt side ,9:32,9:37,0.08,B/D,Mechanical,,,
+1382,ccm,ccm,m/c stop during casting time,14:58,15:44,0.77,B/D,Mechanical,,Casting Time Increased to 30.1s,Pump Pressure Increased from 70kgf/cm^2 to 75kgf/cm^2 and then time reduced to 28.5s (MTC Internal Leakage Checked)
+1383,Mould,Mould,water leakage from spt side ,20:07,20:20,0.22,B/D,Mechanical,,,
+1384,Mould,Mould,water leakage from spt side ,21:42,23:00,1.3,B/D,Mechanical,,Water Leakage from Spigot Seal as metal got inside due to which seal was damaged,Seal Changed
+1385,trough ,trough ,trough shifting prob ,3:35,3:47,0.2,B/D,Mechanical,,,
+1386,Mould,Mould,mould sleeve insert +skt side o ring open out ,20:40,21:32,0.87,B/D,Mechanical,,,
+1387,Core loader/extractor,Core loader/extractor,Core loader/extractor centering done ,21:32,22:07,0.58,B/D,Mechanical,,,
+1388,Mould,Mould,water leakage from spt side ,8:13,8:25,0.2,B/D,Mechanical,,,
+1389,Mould,Mould,water leakage from spt side ,9:00,10:15,1.25,B/D,Mechanical,,,
+1390,Diabola ,Diabola ,Diabola Wheel derailed,6:05,7:12,1.12,B/D,Mechanical,,Diabola Trolley Derailed due to Metal formation beneath the trolley,Metal Remaoved and trolley repositioned. Metal Guard couldn't be fitted as it was made incorrect
+1391,Core loader,Core loader,Core loader centering checked,6:55,7:05,0.17,B/D,Mechanical,,,
+1392,ccm,ccm,m/c stop during casting time,5:00,6:00,1,B/D,Mechanical,,,
+1393,trough ,trough ,A side trough supporting roller change ,1:42,2:09,0.45,B/D,Mechanical,,Trough supporting Roller Rotation Jam,Roller Changed
+1394,Mould,Mould,water leakage from spt side ,16:56,17:09,0.22,B/D,Mechanical,,,
+1395,Mould,Mould,water leakage from spt side ,2:54,3:30,0.6,B/D,Mechanical,,Spigot Water Leakage,Seal Changed as Leakage wasn't arrested from scaling
+1396,MTC,MTC,MTC change,6:00,19:07,13.12,B/D,Mechanical,,MTC Eye Broken,MTC changed with modified Eye
+1397,Mould,Mould,water leakage from spt side ,10:30,11:00,0.5,B/D,Mechanical,,,
+1398,MTC,MTC,MTC gland bolt tight,4:30,4:55,0.42,B/D,Mechanical,,,
+1399,trough ,trough ,B side trough supporting roller change ,5:58,6:16,0.3,B/D,Mechanical,,Trough Supporting Roller Jam,Roller Change
+1400,uli unit,uli unit,Dry uli tank vibrator not working,4:30,5:20,0.83,B/D,Mechanical,,,
+1401,dial gauge ,dial gauge ,dial gauge check,3:24,3:29,0.08,B/D,Mechanical,,Thickness Variation at Socket side,Dial Reading Alignment done
+1402,flag gate ,flag gate ,Skt side flag gate bolt open out.,4:05,4:30,0.42,B/D,Mechanical,,,
+1403,Core loader,Core loader,Core loader spring broken,13:45,13:53,0.13,B/D,Mechanical,,,
+1404,Mould,Mould,water leakage from spt side ,15:35,15:40,0.08,B/D,Mechanical,,,
+1405,Core loader,Core loader,Core loader spring broken,3:45,3:55,0.17,B/D,Mechanical,,Core Loader Spring Broken,Core Loader Changed
+1406,Core loader,Core loader,Core loader centering done,16:52,17:37,0.75,B/D,Mechanical,,,
+1407,trough ,trough ,B side trough supporting roller change ,2:40,3:00,0.33,B/D,Mechanical,,,
+1408,Mould,Mould,mould change due to water leakage from spt side ,4:10,5:06,0.93,B/D,Mechanical,,Head Bearing V-Seal Damaged (HB No.1),Sleeve Changed (After 20 Pipes)
+1409,trough ,trough ,B side trough supporting roller not moving ,5:37,6:00,0.38,B/D,Mechanical,,B-Side Trough Supporting Roller Jam,Roller Changed
+1410,PTT,PTT,PTT prob,15:22,16:00,0.63,B/D,Mechanical,,PTT Movement Problem due to Metal and sand Jam at Non-drive end Pulley,Jam Cleaned and Double Pulley Change
+1411,Mould,Mould,mould r.p.m prob,17:00,17:08,0.13,B/D,Mechanical,,,
+1412,Mould,Mould,Mould change due to mould r.p.m. prob,18:20,19:20,1,B/D,Mechanical,,,
+1413,sector ladle ,sector ladle ,sector ladle cam roller prob,19:30,19:55,0.42,B/D,Mechanical,,,
+1414,trough ,trough ,B side trough supporting roller prob,3:20,3:35,0.25,B/D,Mechanical,,,
+1415,trough ,trough ,B side trough supporting roller change,6:00,6:20,0.33,B/D,Mechanical,,,
+1416,Mould,Mould,Mould change due to mould r.p.m. prob,13:44,14:40,0.93,B/D,Mechanical,,,
+1417,Core loader,Core loader,Core loader spring broken,8:28,8:38,0.17,B/D,Mechanical,,Core Loader Spring Broken,Core Loader Changed (Comp. 11mm)
+1418,Core loader,Core loader,Core loader spring broken,12:40,12:57,0.28,B/D,Mechanical,,,
+1419,flag gate ,flag gate ,Both flag gate height adjustment ,22:50,22:55,0.08,B/D,Mechanical,,,
+1420,trough ,trough ,trough tillting prob ,7:10,7:40,0.5,B/D,Mechanical,,A-Side Trough Tilting Jam,Flow Increased and Tilted by crane and then FlowReduced. OK in trial
+1421,Extractor ,Extractor ,Extractor centering done ,0:30,0:55,0.42,B/D,Mechanical,,,
+1422,core loader ,core loader ,Core loader spring broken,9:20,9:27,0.12,B/D,Mechanical,,Core Loader Spring Broken,Core Loader Housing Changed
+1423,core loader ,core loader ,Core loader spring broken,13:32,13:38,0.1,B/D,Mechanical,,Core Loader Spring Broken,Core Loader Housing Changed & Compression set at 14mm
+1424,ccm,ccm,m/c auto not,13:40,14:39,0.98,B/D,Mechanical,,,
+1425,Mould,Mould,mould r.p.m prob,6:00,6:18,0.3,B/D,Mechanical,,,
+1426,Mould,Mould,mould r.p.m prob,7:24,7:44,0.33,B/D,Mechanical,,Mould Rotation Jam (SL.5 DN100),Manually Rotated & Checked - Found OK
+1427,Mould,Mould,Mould change due to moluld jam prob,10:00,10:55,0.92,B/D,Mechanical,,Mould Rotation Jam (SL.5 DN100),Manually Rotated & Checked - Found OK
+1428,PTT,PTT,PTT rope change,11:00,11:20,0.33,B/D,Mechanical,,,
+1429,Mould,Mould,Mould change due to moluld jam prob,19:11,19:45,0.57,B/D,Mechanical,,,
+1430,trough ,trough ,B side trough supporting roller change,14:56,15:27,0.52,B/D,Mechanical,,B-side Trough Supporting Roller Jam,Roller Changing work done
+1431,Extractor ,Extractor ,Extractor stoper broken,23:00,23:15,0.25,B/D,Mechanical,,Extractor Stopper Broken,Stopper Fixing and two side angle welding done
+1432,flag gate ,flag gate ,Skt side flag gate movement prob,0:00,0:35,0.58,B/D,Mechanical,,Flaggate (Socket side) not rotating as rope way out,New Rope Provided and clamped tight. OK in trial
+1433,Extractor ,Extractor ,Extractor change,10:40,11:10,0.5,B/D,Mechanical,,Extractor Square Block One Bolt Broken due to which extractor not closing properly which damaged face of two pipes,Extractor Change
+1434,Mould,Mould,mould change due to mould vibration,12:17,13:20,1.05,B/D,Mechanical,,Spigot side Mould heavy Ploy (Sl.2),Mould Change
+1435,Extractor ,Extractor ,extractor not get back position ,15:30,16:30,1,B/D,Mechanical,,Extractor Movement Cylinder Eye Came Out,Same Eye Fixing and full tightening Work Done. OK in Trial
+1436,trough ,trough ,B side trough supporting roller change ,21:43,22:00,0.28,B/D,Mechanical,,,
+1437,trough ,trough ,Both side trough tilting prob,9:55,10:06,0.18,B/D,Mechanical,,,
+1438,trough ,trough ,Both side trough tilting prob,22:20,22:45,0.42,B/D,Mechanical,,,
+1439,Core loader ,Core loader ,Core Loader Spring Broken,12:46,12:56,0.17,B/D,Mechanical,,Core Loader Spring Broken,Core Loader Unit Changed and compression set at 15mm
+1440,fallchute ,fallchute ,fallchute stopper plate welding,1:00,1:30,0.5,B/D,Mechanical,,,
+1441,PTT,PTT,PTT  prob,13:44,14:35,0.85,B/D,Mechanical,,PTT Movement Stop,
+1442,PTT,PTT,PTT  prob,17:00,17:25,0.42,B/D,Mechanical,,,
+1443,Mould,Mould,mould vibration,18:55,19:32,0.62,B/D,Mechanical,,,
+1444,Extractor ,Extractor ,Extractor Center Out after Mould Change,22:25,23:15,0.83,B/D,Mechanical,,Extractor Center Out after Mould Change,Extractor centering done from base
+1445,Mould,Mould,mould change due to mould vibration,20:24,21:51,1.45,B/D,Mechanical,,,
+1446,DC motor ,DC motor ,DC motor blower base welding ,23:03,23:33,0.5,B/D,Mechanical,,,
+1447,Mould,Mould,mould vibration,0:18,1:00,0.7,B/D,Mechanical,,Socket clamping plate one stud broken and other stud got loose,All stud bolt tighten
+1448,Extractor ,Extractor ,Extractor change,6:00,7:10,1.17,B/D,Mechanical,,Pipe Crack in previous sleeve so extractor change after sleeve change,Extractor Opening found 240mm so  extractor removed with 20mm packing provided then while checking found 220mm. Extractor stopper welded and trial taken OK
+1449,Core loader,Core loader,Core loader centering done,17:15,17:25,0.17,B/D,Mechanical,,,
+1450,core loader ,core loader ,core loader spring broken,18:05,18:15,0.17,B/D,Mechanical,,Core Loader Spring Broken,New Core Ring Changing work done
+1451,core loader ,core loader ,core loader not working ,21:50,22:36,0.77,B/D,Mechanical,,,
+1452,core loader ,core loader ,core loader ring open out,5:06,5:35,0.48,B/D,Mechanical,,,
+1453,core loader ,core loader ,core loader prob,5:55,6:00,0.08,B/D,Mechanical,,,
+1454,trough ,trough ,B side trough pressing roller change ,3:10,3:46,0.6,B/D,Mechanical,,,
+1455,trough ,trough ,A side trough shifting prob ,7:19,7:30,0.18,B/D,Mechanical,,,
+1456,trough ,trough ,A side trough supporting roller change ,19:40,20:12,0.53,B/D,Mechanical,,A-Side Trough Supporting Roller Jam,Roller Changed
+1457,Core loader,Core loader,Core loader Ring change,14:18,14:35,0.28,B/D,Mechanical,,Core Loader Spring Broken,Core Ring Changing Work Done
+1458,core loader ,core loader ,core loader prob,6:00,6:29,0.48,B/D,Mechanical,,,
+1459,trough ,trough ,A side trough joint repair + Fly metal guard welding,8:40,8:55,0.25,B/D,Mechanical,,,
+1460,trough ,trough ,B side trough tilting prob ,6:03,6:33,0.5,B/D,Mechanical,,,
+1461,trough ,trough ,B side trough tilting prob ,6:40,7:13,0.55,B/D,Mechanical,,,
+1462,Core loader,Core loader,Core loader allignment  prob,13:37,14:52,1.25,B/D,Mechanical,,Core Burst,Core Ring Changing and Alignment done
+1463,Core ring ,Core ring ,Core ring change,12:20,12:40,0.33,B/D,Mechanical,,Core Burst,Core Loader changing work done
+1464,Core loader/extractor,Core loader/extractor,Mould change delay due to core loader/Extractor centering ,18:40,19:20,0.67,B/D,Mechanical,,,
+1465,Core ring ,Core ring ,Core ring centering due to core brust prob,19:51,21:00,1.15,B/D,Mechanical,,,
+1466,Core loader,Core loader,core loader change,0:35,1:10,0.58,B/D,Mechanical,,Core Burst,Housing Changed and compression set at 16mm
+1467,Uli unit,Uli unit,dry powder vibrator change,7:28,7:50,0.37,B/D,Mechanical,,Dry Powder Dropping Problem,V Bracket change and Lock Nut tightening done
+1468,Mould,Mould,mould vibration,3:51,4:00,0.15,B/D,Mechanical,,Mould Vibration (Sleeve No. 10),Mould Change
+1469,Mould ,Mould ,water leakage from spt side,11:52,11:59,0.12,B/D,Mechanical,,,
+1470,Mould ,Mould ,water leakage from spt side,2:55,3:26,0.52,B/D,Mechanical,,,
+1471,Core loader ,Core loader ,Core loader centering done,6:58,7:03,0.08,B/D,Mechanical,,,
+1472,Core loader ,Core loader ,Core loader Ring change,7:30,7:39,0.15,B/D,Mechanical,,,
+1473,Mould ,Mould ,Mould vibration ,4:00,4:20,0.33,B/D,Mechanical,,,
+1474,Mould ,Mould ,mould change due to mould vibration ,4:40,6:45,2.08,B/D,Mechanical,,,
+1475,Uli unit ,Uli unit ,chute uli pipe line bend ,0:42,0:47,0.08,B/D,Mechanical,,,
+1476,Uli unit ,Uli unit ,chute uli pipe line bend ,0:55,1:22,0.45,B/D,Mechanical,,Chute Powder Pipe Line Bend,Pipe line height adjusted and centering done
+1477,Core loader,Core loader,core loader change,2:00,2:05,0.08,B/D,Mechanical,,,
+1478,Mould,Mould,mould rpm prob,1:57,2:07,0.17,B/D,Mechanical,,,
+1479,Mould,Mould,Mould change due to moluld rotation prob,2:18,4:32,2.23,B/D,Mechanical,,,
+1480,trough ,trough ,trough shifting prob ,7:35,8:24,0.82,B/D,Mechanical,,,
+1481,Mould,Mould,water leakage from spt side ,20:05,20:15,0.17,B/D,Mechanical,,,
+1482,trough ,trough ,B-side Trough Diabola cylinder eye bracket all bolt loose and trough supporting roller Jam,23:00,0:00,1,B/D,Mechanical,,B-side Trough Diabola cylinder eye bracket all bolt loose and trough supporting roller Jam,Roller Change and All bolts changed with new one due to thread damage
+1483,Core loader,Core loader,Core loader allignment  prob,6:00,6:48,0.8,B/D,Mechanical,,,
+1484,Core loader/extractor,Core loader/extractor,core loader/Extractor centering prob,15:38,15:47,0.15,B/D,Mechanical,,,
+1485,Extractor ,Extractor ,Extractor jaw change,19:40,20:40,1,B/D,Mechanical,,Extractor Pipe Groove Damage due to which one Jaw height was more Compared to other ,Jaw with Holder changed
+1486,Core loader,Core loader,core loader change,5:00,5:23,0.38,B/D,Mechanical,,Core Crack with Metal Spillage,Core Loader Unit Changed
+1487,trough ,trough ,A side trough supporting roller prob,11:27,11:53,0.43,B/D,Mechanical,,,
+1488,Extractor ,Extractor ,Extractor centering check,14:59,15:15,0.27,B/D,Mechanical,,,
+1489,Extractor ,Extractor ,Extractor change,10:45,11:40,0.92,B/D,Mechanical,,,
+1490,Mould,Mould,Mould change + hyd pump prob,6:08,9:13,3.08,B/D,Mechanical,,,
+1491,Core loader,Core loader,core loader change,1:24,1:41,0.28,B/D,Mechanical,,Core Loader Socket Metal Fly ,Core Loader Changed with Centering
+1492,Trough ,Trough ,both side trough centering done ,3:22,3:30,0.13,B/D,Mechanical,,,
+1493,Core loader/Extractor,Core loader/Extractor,Core loader/Extractor centering done,8:50,9:05,0.25,B/D,Mechanical,,,
+1494,Mould ,Mould ,Mould change due to mould rotation prob,22:39,23:35,0.93,B/D,Mechanical,,,
+1495,Core loader/Extractor,Core loader/Extractor,Core loader/Extractor centering done,23:35,0:03,0.47,B/D,Mechanical,,,
+1496,Core loader,Core loader,Core loader spring change,3:14,3:41,0.45,B/D,Mechanical,,Core Loader Spring Broken,Core Loader Changed and compression adjusted
+1497,Core loader,Core loader,Core loader cylinder bearing change ,1:10,2:40,1.5,B/D,Mechanical,,,
+1498,Mould ,Mould ,water leakage from spt side,0:00,0:30,0.5,B/D,Mechanical,,,
+1499,Trough ,Trough ,A side trough supporting roller change ,22:42,23:00,0.3,B/D,Mechanical,,A-Side Trough Supporting Roller Jam,Roller Changed
+1500,ccm,ccm,core brust prob ,0:15,0:55,0.67,B/D,Mechanical,,Core Metal Fly due to low compression (3mm),Compression Increased to 10mm. OK in trial
+1501,Core loader,Core loader,Core loader housing change,9:05,11:30,2.42,B/D,Mechanical,,Core Loader Arm Heavy Vibration,Core Loader Unit Changed
+1502,Trough ,Trough ,B side stud bolt not tight & stud bolt change ,2:00,2:25,0.42,B/D,Mechanical,,,
+1503,Trough ,Trough ,A side trough supporting roller change ,22:28,22:49,0.35,B/D,Mechanical,,A-side trough supporting roller metal Jam,Roller changed
+1504,extractor ,extractor ,extractor center out ,9:50,11:00,1.17,B/D,Mechanical,,Extractor vertical center out,Extractor Unit up by packing
+1505,uli unit,uli unit,dry uli dropping prob ,22:40,23:10,0.5,B/D,Mechanical,,,
+1506,Core loader,Core loader,Core loader prob,9:26,9:44,0.3,B/D,Mechanical,,Core Burst (1 Time),Core Loader centered and compression adjusted to 10mm
+1507,extractor ,extractor ,extractor centering done ,6:00,6:45,0.75,B/D,Mechanical,,,
+1508,Mould ,Mould ,Mould vibration and water leakage from spt side,14:55,15:55,1,B/D,Mechanical,,Mould Vibration as Socket Clamping 4 Bolts loose due to  thread slippage in Sl-3 DN800 (Dial 1.5mm) and spigot seal water leakage,4 stud changed (Dial 0.45mm) and spigot seal changed
+1509,Core loader,Core loader,Core loader housing change,7:16,7:32,0.27,B/D,Mechanical,,,
+1510,Core loader,Core loader,Core loader prob,8:06,9:44,1.63,B/D,Mechanical,,Core burst (2 Times),Core Loader with double spring changed with single spring one. Compression adjusted to 15mm and then OK in trial
+1511,Core loader,Core loader,Core loader Ring change,11:30,11:37,0.12,B/D,Mechanical,,,
+1512,Core loader,Core loader,Core loader centering prob,11:55,12:10,0.25,B/D,Mechanical,,,
+1513,Core loader,Core loader,Core loader Ring change,6:00,6:30,0.5,B/D,Mechanical,,,
+1514,Core loader,Core loader,Core loader centering prob,7:18,7:28,0.17,B/D,Mechanical,,,
+1515,Cam roller,Cam roller,S/L Cam roller prob,6:00,7:28,1.47,B/D,Mechanical,,,
+1516,Mould ,Mould ,water leakage from spt side,9:05,9:13,0.13,B/D,Mechanical,,,
+1517,Mould ,Mould ,water leakage from spt side,13:42,14:22,0.67,B/D,Mechanical,,,
+1518,seal ,seal ,spt seal change due to water leakage ,16:03,16:30,0.45,B/D,Mechanical,,Spigot Seal Water Leakage (DN 250) due to Metal contact,Seal Changed
+1519,Trough ,Trough ,A side trough supporting roller change ,9:25,9:50,0.42,B/D,Mechanical,,,
+1520,Core Ring ,Core Ring ,Core Ring spring broken,2:14,2:37,0.38,B/D,Mechanical,,Core Burst (1 Time) as Spring Broken,Core Loader Changed and center aligned
+1521,Trough ,Trough ,trough centering done ,11:36,11:40,0.07,B/D,Mechanical,,,
+1522,core loader ,core loader ,core loader change,2:40,2:55,0.25,B/D,Mechanical,,Core Loader Socket Metal Fly,Core Loader Spring Changed
+1523,Core Ring ,Core Ring ,Core Ring change,16:15,16:30,0.25,B/D,Mechanical,,,
+1524,Trough ,Trough ,trough centering done ,22:08,22:12,0.07,B/D,Mechanical,,,
+1525,Core Ring ,Core Ring ,Core Ring change,7:31,8:00,0.48,B/D,Mechanical,,Core Burst,Core Loader Changed and Compression adjusted to 18mm
+1526,Core loader,Core loader,Core loader centering out,9:00,9:38,0.63,B/D,Mechanical,,Core Burst,Core Loader centered and compression adjusted to 18mm
+1527,Core loader,Core loader,Core loader prob,11:00,11:30,0.5,B/D,Mechanical,,Core Burst,Core loader recentered and face out cleared and compression adjusted to 17mm
+1528,Core loader,Core loader,Core loader centering done ,19:56,20:06,0.17,B/D,Mechanical,,,
+1529,Core loader,Core loader,Core loader housing change ,22:30,23:08,0.63,B/D,Mechanical,,Core Fly Out,New core ring and spring changed but after 4 cycles core fly repeated so old spring and core ring changing work done. OK in trial
+1530,Core loader,Core loader,Core loader housing change ,23:18,0:08,0.83,B/D,Mechanical,,,
+1531,Core loader,Core loader,Core loader centering done ,3:05,3:30,0.42,B/D,Mechanical,,,
+1532,Trough ,Trough ,A side trough stopper broken ,8:52,9:25,0.55,B/D,Mechanical,,,
+1533,Uli unit ,Uli unit ,dry uli dropping prob,20:35,20:45,0.17,B/D,Mechanical,,,
+1534,DC motor ,DC motor ,DC motor rpm prob,1:35,1:45,0.17,B/D,Mechanical,,,
+1535,Trough ,Trough ,A side trough supporting roller change ,12:42,13:18,0.6,B/D,Mechanical,,,
+1536,Trough ,Trough ,A side trough stopper plate welding,16:55,17:10,0.25,B/D,Mechanical,,,
+1537,Core loader,Core loader,Core loader centering done ,6:47,7:35,0.8,B/D,Mechanical,,Core Loader - Socket sand stick on pipe,Core loader housing change but problem didn't solve so again centering done then OK in trial
+1538,Trough ,Trough ,A side trough supporting roller change ,17:32,17:48,0.27,B/D,Mechanical,,B-Side Trough Supporting Roller Metal Jam,Roller Changed
+1539,Trough ,Trough ,B side trough supporting roller change ,20:51,21:07,0.27,B/D,Mechanical,,B-Side Trough Supporting Roller Metal Jam,Roller Changed
+1540,extractor,extractor,extractor centering done ,9:42,10:42,1,B/D,Mechanical,,Extractor Center Out,Centering done  
+1541,extractor,extractor,extractor change ,12:38,13:04,0.43,B/D,Mechanical,,Pipe Slippage,Extractor Change
+1542,Core loader,Core loader,Core loader centering check,7:43,8:14,0.52,B/D,Mechanical,,Core Burst,Center Chack and compression set at 17mm
+1543,Core loader,Core loader,m/c stop due to core brust prob ,10:40,11:30,0.83,B/D,Mechanical,,Core Burst,Houshing Change and centering done
+1544,Core loader,Core loader,Core loader allignment due to core brust prob ,19:00,19:40,0.67,B/D,Mechanical,,Core crack after sleeve change,Core Loader Changed with Centering and compression set at 16mm
+1545,Mould ,Mould ,mould rotation jam,2:31,3:40,1.15,B/D,Mechanical,,"Mould Rotation Jam (Sl-2 H/B-2), High motor current abnormal sound from head bearing before Jamming [V-Seal Clamp Plate Bolt Broken & Jammed Rotation]",H/B tried to rotate with Crane but failed so sleeve changed
+1546,Mould ,Mould ,water leakage from spt side,7:30,10:15,2.75,B/D,Mechanical,,,
+1547,Core loader,Core loader,Core loader centering done ,14:40,14:54,0.23,B/D,Mechanical,,,
+1548,Trough ,Trough ,B side trough supporting roller change ,21:02,21:08,0.1,B/D,Mechanical,,,
+1549,Uli unit ,Uli unit ,dry uli dropping prob,20:42,21:03,0.35,B/D,Mechanical,,ULI - Vibrator Base Broken,Same Base fixing and welding done
+1550,Trough ,Trough ,A side trough centering done,7:30,7:38,0.13,B/D,Mechanical,,A-Side Trough Center Out as Trough Shifting Cylinder Back side Bracket Screw Bolt Nut loose,So Trough Centering and Lock Nut tight with additonal plate welding locking done
+1551,extractor,extractor,extractor centering done ,7:35,8:30,0.92,B/D,Mechanical,,Extractor Center Out,Bogie Shifting By crane but problem didn't solve so Extractor again centered from Base and then OK in trial
+1552,Trough ,Trough ,Trough tilting prob ,14:45,15:47,1.03,B/D,Mechanical,,,
+1553,Core loader,Core loader,Core loader spring broken,21:03,21:26,0.38,B/D,Mechanical,,Core Loader Spring Broken,DN250 Core Loader Changing work done
+1554,Core loader/extractor,Core loader/extractor,Core loader/extractor allignment,6:00,6:40,0.67,B/D,Mechanical,,,
+1555,Mould,Mould,water leakage from spt side ,8:18,9:10,0.87,B/D,Mechanical,,Spigot Seal Water Leakage due to Metal contact,Seal Change
+1556,Mould,Mould,water leakage from spt side ,23:50,0:07,0.28,B/D,Mechanical,,,
+1557,Mould,Mould,water leakage from spt side ,0:32,1:24,0.87,B/D,Mechanical,,Water leakage from spigot mould seal as metal got inside and damaged seal,Spigot Mould Seal Changed and area cleaned
+1558,CCM,CCM,spt side stady roller brocken (found when sleave open out),11:50,14:30,2.67,B/D,Mechanical,,Sleeve inseat due to spigot steady bracket bolt broken,Braket Positioning with welding
+1559,Trough ,Trough ,B-side Trough Tilting Cylinder Gland Flange Open Out and heavy Oil Leakage due to which all pump trip cause of Low Oil Level,15:40,18:07,2.45,B/D,Mechanical,,B-side Trough Tilting Cylinder Gland Flange Open Out and heavy Oil Leakage due to which all pump trip cause of Low Oil Level,Cylinder Change and 180 L Oil Top up. OK in trial
+1560,flag gate,flag gate,Skt side flag gate movement prob ,23:08,23:15,0.12,B/D,Mechanical,,,
+1561,Extractor,Extractor,Extractor hyd cylinder prob,10:11,10:42,0.52,B/D,Mechanical,,,
+1562,Trough ,Trough ,A side trough suproting  roller change,14:44,15:15,0.52,B/D,Mechanical,,A-Side Trough Suppoting Roller Jam,Roller Changing work done
+1563,Mould,Mould,water leakage from spt side ,22:20,22:45,0.42,B/D,Mechanical,,,
+1564,Core loader,Core loader,Core loader centaring,1:20,1:25,0.08,B/D,Mechanical,,,
+1565,Mould ,Mould ,water leakage from spt side,23:50,23:55,0.08,B/D,Mechanical,,,
+1566,Mould ,Mould ,spt side mould sleeve bolt welding ,10:15,10:50,0.58,B/D,Mechanical,,,
+1567,Mould ,Mould ,Mould change due to mould rotation prob,14:15,16:09,1.9,B/D,Mechanical,,Mould Vibration - Pipe Drawn,Sleeve Changed
+1568,Mould ,Mould ,water leakage from spt side,4:15,4:25,0.17,B/D,Mechanical,,,
+1569,Mould ,Mould ,water leakage from spt side,4:38,4:49,0.18,B/D,Mechanical,,,
+1570,Core loader,Core loader,Core loader centering,23:55,0:05,0.17,B/D,Mechanical,,,
+1571,Core Ring ,Core Ring ,Core Ring change,0:30,0:40,0.17,B/D,Mechanical,,,
+1572,Uli unit ,Uli unit ,dry uli dropping prob,20:27,21:15,0.8,B/D,Mechanical,,ULI Dropping Problem,Vibrator Changed two times and check nut adjusted then OK in trial
+1573,Uli unit ,Uli unit ,dry uli dropping prob,3:55,4:10,0.25,B/D,Mechanical,,,
+1574,Uli unit ,Uli unit ,dry uli dropping prob,4:35,5:02,0.45,B/D,Mechanical,,,
+1575,Mould ,Mould ,mould rotation prob,2:11,4:22,2.18,B/D,Mechanical,,Mould Rotation Stopped during Casting due to spigot bottom A-Side Roller Jam,Roller Changed and dial set at 0.45mm. Flag Gate Spring changed as it was damaged
+1576,Uli unit ,Uli unit ,dry uli dropping prob,7:16,8:30,1.23,B/D,Mechanical,,Dry Powder discontinuous Flow,Screw Rod Lock Nut Adjusted and Vibrator Regulator Changed as it was not adjusting
+1577,Core loader,Core loader,Core loader centering done ,1:30,2:00,0.5,B/D,Mechanical,,,
+1578,Mould ,Mould ,water leakage from spt side,10:05,10:12,0.12,B/D,Mechanical,,,
+1579,Mould ,Mould ,water leakage from spt side,10:42,10:48,0.1,B/D,Mechanical,,,
+1580,Mould ,Mould ,water leakage from spt side,11:19,11:56,0.62,B/D,Mechanical,,Water Leakage from spigot side as metal got inside and damaged seal,Seal Changed
+1581,CCM,CCM,Under mechanical,22:05,23:48,1.72,B/D,Mechanical,,Core Loader - Sand Stick on Pipe Face,Core Loader Changed and Aligned. Compression 15mm
+1582,Dial gauge ,Dial gauge ,Dial gauge checking ,7:08,7:47,0.65,B/D,Mechanical,,Pipe Thickness Variation as Socket Mould Clamping Plate 5 Studs Slipped,Studs Changed and tightened
+1583,Core loader,Core loader,Core loader center out,22:30,22:50,0.33,B/D,Mechanical,,,
+1584,Core loader,Core loader,Core loader centering,0:26,0:45,0.32,B/D,Mechanical,,,
+1585,metal,metal,metal guard welding,1:55,2:03,0.13,B/D,Mechanical,,,
+1586,Mould ,Mould ,Mould change delay due to o ring cut in skt side,3:40,4:55,1.25,B/D,Mechanical,,,
+1587,Core loader,Core loader,Core loader change,15:28,15:45,0.28,B/D,Mechanical,,Sand Stick on Pipe Face,Core Loader Changed and Aligned. Compression 12mm
+1588,Mould ,Mould ,water leakage from spt side,10:45,11:30,0.75,B/D,Mechanical,,Water Leakage from Spigot side due to metal pouring,Seal Change 
+1589,Mould ,Mould ,pressing roller  prob,9:00,9:15,0.25,B/D,Mechanical,,,
+1590,Core loader,Core loader,Core loader centering done ,15:40,16:00,0.33,B/D,Mechanical,,,
+1591,Core loader,Core loader,Core loader prob,13:00,14:38,1.63,B/D,Mechanical,,Core Loader Swinging Arm Bearing Play,Swinging Arm Unit Change
+1592,Core loader,Core loader,Core loader allignment due to core brust prob ,10:58,11:20,0.37,B/D,Mechanical,,Core Loader Swing Arm Damage,Core Loader Arm Changed
+1593,Uli unit ,Uli unit ,Chute uli dropping prob,22:08,22:15,0.12,B/D,Mechanical,,,
+1594,PTT,PTT,PTT rope open out ,11:20,11:50,0.5,B/D,Mechanical,,,
+1595,seal,seal,water leakage from spt side,9:22,10:10,0.8,B/D,Mechanical,,Water Leakage from Spigot Mould Seal,Seal Changing work Done
+1596,Diabola,Diabola,Diabola rail out & diabola wheel damage ,11:54,12:35,0.68,B/D,Mechanical,,Diabola Trolley B-Side V roller bearing damage,Roller changed
+1597,Cylinder ,Cylinder ,F/l cylinder oil leakage ,1:37,1:57,0.33,B/D,Mechanical,,,
+1598,Core loader,Core loader,Core loader in&out prob ,15:08,15:50,0.7,B/D,Mechanical,,,
+1599,MTC,MTC,MTC & S/l internal leakage ,19:55,20:28,0.55,B/D,Mechanical,,,
+1600,Mould ,Mould ,water leakage from spt side,18:45,18:52,0.12,B/D,Mechanical,,,
+1601,Extractor,Extractor,Extractor not clossing & back stopper broken,7:40,9:35,1.92,B/D,Mechanical,,Extractor Stopper got out from hinge and plate got bend due to Extractor getting back in Jaw Open Position had impact with Stopper Plate,Plate made strainght and stopper height decreased by 10mm. OK in trial
+1602,Diabola,Diabola,Diabola derail,3:26,3:56,0.5,B/D,Mechanical,,Diabola Trolley A-Side V-Wheel Derailed due to Jamming,V-Wheel Changed after putting the trolley back on track
+1603,metal chute ,metal chute ,spt side metal chute broken,4:31,4:53,0.37,B/D,Mechanical,,,
+1604,Core loader,Core loader,Core loader spring broken ,10:05,10:18,0.22,B/D,Mechanical,,,
+1605,PTT,PTT,PTT limit prob,10:44,11:16,0.53,B/D,Mechanical,,,
+1606,Trough ,Trough ,A side tilting hose damage ,4:50,5:28,0.63,B/D,Mechanical,,A-Side Trough Tilting Hose Burst,Hose Changed
+1607,Mould ,Mould ,water leakage from spt side,21:06,21:15,0.15,B/D,Mechanical,,,
+1608,Mould ,Mould ,water leakage from skt side,10:55,11:30,0.58,B/D,Mechanical,,A-Side Socket Roller Adjusting Lock Nut Hugw Water Leakage due to Lock Nut Welding Joint Broken,Didn't arrest by Sacking so water drained and rewelded
+1609,Mould ,Mould ,mould rotation prob,16:30,16:35,0.08,B/D,Mechanical,,,
