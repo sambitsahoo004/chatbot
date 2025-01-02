@@ -1,1 +1,1 @@
-# chatbot
+This project features a cutting-edge chatbot powered by LLaMA 3.1 and a Retrieval-Augmented Generation (RAG) pipeline. Designed to assist with real-time fault resolution in industrial automation machines, the chatbot leverages machine learning and knowledge retrieval techniques to deliver accurate, context-aware solutions.
